@@ -10,6 +10,7 @@ class Post extends React.Component {
       date,
       category,
       description,
+      image,
     } = this.props.data.node.frontmatter
     const { slug, categorySlug } = this.props.data.node.fields
 
@@ -22,6 +23,7 @@ class Post extends React.Component {
           >
             {moment(date).format('MMMM YYYY')}
           </time>
+          <p>cats {image}</p>
           <span className="post__meta-divider" />
           <span className="post__meta-category" key={categorySlug}>
             <Link to={categorySlug} className="post__meta-category-link">

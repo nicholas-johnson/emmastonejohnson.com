@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/acrylic-on-canvas-1/"
 category: "Acrylic on Canvas"
-image: "2018-05-22.jpg"
+pic: "2018-05-22.jpg"
 tags:
   - "Acrylic"
 description: "Art washes away from the soul the dust of everyday life - Pablo Picasso"

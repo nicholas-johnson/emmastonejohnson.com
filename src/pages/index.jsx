@@ -64,6 +64,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date
+            pic
             category
             description
           }
