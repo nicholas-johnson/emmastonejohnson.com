@@ -1,4 +1,8 @@
 .post_page {
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
   .post {
     text-align: center;
     img {

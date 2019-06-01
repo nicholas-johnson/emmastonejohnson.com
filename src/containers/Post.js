@@ -6,11 +6,17 @@ import { Link } from "components/Router";
 import "./Post.scss";
 
 export default function Post() {
-  const { post } = useRouteData();
+  const { post, prev, next } = useRouteData();
   return (
     <div className="post_page">
       <nav>
-        <Link to="/">{"<"} Back</Link>
+        <div className="back">
+          <Link to="/">{"<"} Back</Link>
+        </div>
+        <div className="next-prev">
+          {prev && <Link to={`/post/${prev.permalink}`}>{"<"} prev</Link>}
+          {next && <Link to={`/post/${next.permalink}`}>next {">"}</Link>}
+        </div>
       </nav>
       <div className="post">
         <img src={`/images/${post.image}`} alt={post.title} />
