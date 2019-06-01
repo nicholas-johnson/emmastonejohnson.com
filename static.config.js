@@ -3,10 +3,6 @@ import axios from "axios";
 
 export default {
   getRoutes: () => {
-    // const { data: posts } = await axios.get(
-    //   "https://jsonplaceholder.typicode.com/posts"
-    // );
-
     const posts = [
       {
         permalink: "blue-scratch",
@@ -20,10 +16,15 @@ export default {
 
     return [
       {
+        path: "/about",
+        template: "src/containers/About"
+      },
+      {
         path: "/",
         getData: () => ({
           posts
         }),
+        template: "src/containers/Home",
         children: posts.map(post => ({
           path: `/post/${post.permalink}`,
           template: "src/containers/Post",
@@ -42,6 +43,7 @@ export default {
       }
     ],
     require.resolve("react-static-plugin-reach-router"),
-    require.resolve("react-static-plugin-sitemap")
+    require.resolve("react-static-plugin-sitemap"),
+    require.resolve("react-static-plugin-sass")
   ]
 };

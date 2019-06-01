@@ -8,8 +8,14 @@ const Sidebar = () => (
     <h1>
       <Link to="/">Emma Stone Johnson</Link>
     </h1>
-    <Link to="/">Home</Link>
-    <Link to="/about">About</Link>
+    <ul>
+      <li>
+        <Link to="/">Home</Link>
+      </li>
+      <li>
+        <Link to="/about">About</Link>
+      </li>
+    </ul>
   </nav>
 );
 
