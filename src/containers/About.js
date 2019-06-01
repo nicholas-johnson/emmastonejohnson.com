@@ -1,5 +1,9 @@
 import React from "react";
 
+import Sidebar from "../components/Sidebar/Sidebar";
+
+import "./Home.scss";
+
 export default () => (
   <div className="about-page">
     <Sidebar />
