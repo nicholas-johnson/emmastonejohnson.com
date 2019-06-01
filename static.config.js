@@ -1,69 +1,61 @@
-import path from 'path';
-import fs from 'fs';
-import frontMatter from 'front-matter';
-import marked from 'marked';
-import {promisify} from 'util';
-
-const readdir = promisify(fs.readdir);
-const readFile = promisify(fs.readFile);
+import path from "path";
+import axios from "axios";
 
 export default {
-  getRoutes: async () => {
-    // get blogs
-    const files = await readdir(`${__dirname}/src/blog`)
-    const posts = await Promise.all(
-      files.map(async (filename) => {
-        const file = await readFile( `${__dirname}/src/blog/${filename}`)
+  getRoutes: () => {
+    // const { data: posts } = await axios.get(
+    //   "https://jsonplaceholder.typicode.com/posts"
+    // );
 
-        const post = frontMatter(file.toString());
-        post.html = marked(post.body);
-        post.filename = filename;
-        post.path = `/${filename.replace('.md', '')}`;
-        return post;
-      })
-    );
-    const sortedPosts = await posts
-      .filter(post => post.attributes.published)
-      .sort((a,b) => a.attributes.date > b.attributes.date ? -1 : 1)
-
-    // return the URLs
-    return await [
+    const posts = [
       {
-        path: '/',
-        template: 'src/pages/home',
+        id: 94,
+        title: "Blue Scratch",
+        medium: 'Acrylic on Canvas 36" x 48',
+        date: "2018-05-22T23:46:37.121Z",
+        image: "blue_scratch.jpg",
+        body: `Art washes away from the soul the dust of everyday life - Pablo Picasso`
+      }
+    ];
+
+    return [
+      {
+        path: "/",
         getData: () => ({
           posts
         }),
-      },
-      {
-        path: '/blog',
-        template: 'src/pages/blog',
-        getData: () => ({
-          posts
-        }),
-        children: posts.map((post) => (
-          {
-            path: post.path,
-            template: 'src/pages/blog_post',
-            getData: () => ({
-              post,
-              posts
-            }),
-          }
-        )),
+        children: posts.map(post => ({
+          path: `/post/${post.id}`,
+          template: "src/containers/Post",
+          getData: () => ({
+            post
+          })
+        }))
+      }
 
-      },
-    ]
+      // {
+      //   path: "/blog-2",
+      //   getData: () => ({
+      //     posts
+      //   }),
+      //   children: posts.map(post => ({
+      //     path: `/post/${post.id}`,
+      //     template: "src/containers/Post",
+      //     getData: () => ({
+      //       post
+      //     })
+      //   }))
+      // }
+    ];
   },
   plugins: [
     [
-      require.resolve('react-static-plugin-source-filesystem'),
+      require.resolve("react-static-plugin-source-filesystem"),
       {
-        location: path.resolve('./src/pages'),
-      },
+        location: path.resolve("./src/pages")
+      }
     ],
-    require.resolve('react-static-plugin-reach-router'),
-    require.resolve('react-static-plugin-sitemap'),
-    require.resolve('react-static-plugin-sass'),
-  ],
-}
+    require.resolve("react-static-plugin-reach-router"),
+    require.resolve("react-static-plugin-sitemap")
+  ]
+};

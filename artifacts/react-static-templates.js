@@ -3,13 +3,11 @@
   
 // Template Map
 export default {
-  '../node_modules/react-static/lib/browser/components/Default404': require('../node_modules/react-static/lib/browser/components/Default404').default,
-'../src/pages/blog_post.js': require('../src/pages/blog_post.js').default,
-'../src/pages/blog': require('../src/pages/blog').default,
-'../src/pages/home.js': require('../src/pages/home.js').default,
-'../src/pages/home': require('../src/pages/home').default,
-'../src/pages/blog_post': require('../src/pages/blog_post').default
+  '../src/pages/404.js': require('../src/pages/404.js').default,
+'../src/pages/about.js': require('../src/pages/about.js').default,
+'../src/pages/index.js': require('../src/pages/index.js').default,
+'../src/containers/Post': require('../src/containers/Post').default
 }
 
-export const notFoundTemplate = '../node_modules/react-static/lib/browser/components/Default404'
+export const notFoundTemplate = '../src/pages/404.js'
 

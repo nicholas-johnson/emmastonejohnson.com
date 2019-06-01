@@ -1,0 +1,61 @@
+{
+  "entry": "/Users/nicholas/code/my-static-site/src/index.js",
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "plugins": [
+    [
+      "/Users/nicholas/code/my-static-site/node_modules/react-static-plugin-source-filesystem/node.api.js",
+      {
+        "location": "/Users/nicholas/code/my-static-site/src/pages"
+      }
+    ],
+    "/Users/nicholas/code/my-static-site/node_modules/react-static-plugin-reach-router/browser.api.js",
+    "/Users/nicholas/code/my-static-site/node_modules/react-static-plugin-sitemap/dist/node.api.js",
+    "/Users/nicholas/code/my-static-site"
+  ],
+  "paths": {
+    "ROOT": "/Users/nicholas/code/my-static-site",
+    "SRC": "/Users/nicholas/code/my-static-site/src",
+    "DIST": "/Users/nicholas/code/my-static-site/dist",
+    "ASSETS": "/Users/nicholas/code/my-static-site/dist",
+    "PLUGINS": "/Users/nicholas/code/my-static-site/plugins",
+    "TEMP": "/Users/nicholas/code/my-static-site/tmp",
+    "ARTIFACTS": "/Users/nicholas/code/my-static-site/artifacts",
+    "PUBLIC": "/Users/nicholas/code/my-static-site/public",
+    "NODE_MODULES": "/Users/nicholas/code/my-static-site/node_modules",
+    "EXCLUDE_MODULES": "/Users/nicholas/code/my-static-site/node_modules",
+    "PACKAGE": "/Users/nicholas/code/my-static-site/package.json",
+    "HTML_TEMPLATE": "/Users/nicholas/code/my-static-site/dist/index.html",
+    "STATIC_DATA": "/Users/nicholas/code/my-static-site/dist/staticData"
+  },
+  "devServer": {
+    "host": "http://localhost",
+    "port": 3000
+  },
+  "babelExcludes": [],
+  "siteRoot": "",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}

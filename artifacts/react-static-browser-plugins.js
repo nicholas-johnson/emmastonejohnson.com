@@ -18,11 +18,6 @@ const plugins = [{
         hooks: {}
       },
 {
-        location: "../node_modules/react-static-plugin-sass",
-        plugins: [],
-        hooks: {}
-      },
-{
         location: "..",
         plugins: [],
         hooks: {}

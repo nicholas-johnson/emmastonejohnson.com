@@ -1,26 +1,27 @@
-import React, { Component } from 'react'
-import { Root, Routes } from 'react-static'
-import { Router } from '@reach/router';
-import Typography from 'typography';
-import kirkhamTheme from 'typography-theme-kirkham';
-import { TypographyStyle, GoogleFont } from 'react-typography';
+import React from 'react'
+import { Root, Routes, addPrefetchExcludes } from 'react-static'
+//
+import { Link, Router } from 'components/Router'
+import Dynamic from 'containers/Dynamic'
 
-import { Header } from './components/header';
-import { Sidebar } from './components/sidebar';
+import './app.css'
 
-import { content } from './app.module.scss';
+// Any routes that start with 'dynamic' will be treated as non-static routes
+addPrefetchExcludes(['dynamic'])
 
 function App() {
-  const typography = new Typography(kirkhamTheme)
   return (
     <Root>
-      <TypographyStyle typography={typography} />
-      <GoogleFont typography={typography} />
-
+      <nav>
+        <Link to="/">Home</Link>
+        <Link to="/about">About</Link>
+        <Link to="/blog">Blog</Link>
+        <Link to="/dynamic">Dynamic</Link>
+      </nav>
       <div className="content">
-        <Sidebar />
         <React.Suspense fallback={<em>Loading...</em>}>
           <Router>
+            <Dynamic path="dynamic" />
             <Routes path="*" />
           </Router>
         </React.Suspense>
