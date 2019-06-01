@@ -9,7 +9,7 @@ export default {
 
     const posts = [
       {
-        id: 94,
+        permalink: "blue-scratch",
         title: "Blue Scratch",
         medium: 'Acrylic on Canvas 36" x 48',
         date: "2018-05-22T23:46:37.121Z",
@@ -25,27 +25,13 @@ export default {
           posts
         }),
         children: posts.map(post => ({
-          path: `/post/${post.id}`,
+          path: `/post/${post.permalink}`,
           template: "src/containers/Post",
           getData: () => ({
             post
           })
         }))
       }
-
-      // {
-      //   path: "/blog-2",
-      //   getData: () => ({
-      //     posts
-      //   }),
-      //   children: posts.map(post => ({
-      //     path: `/post/${post.id}`,
-      //     template: "src/containers/Post",
-      //     getData: () => ({
-      //       post
-      //     })
-      //   }))
-      // }
     ];
   },
   plugins: [
