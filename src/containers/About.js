@@ -2,7 +2,7 @@ import React from "react";
 
 import Sidebar from "../components/Sidebar/Sidebar";
 
-import "./Home.scss";
+import "./About.scss";
 
 export default () => (
   <div className="about-page">
@@ -15,7 +15,9 @@ export default () => (
       <blockquote>
         Where the spirit does not work with the hand there is no art
       </blockquote>
-      <blockquote>**Leonardo da Vinci**</blockquote>
+      <blockquote>
+        <em>Leonardo da Vinci</em>
+      </blockquote>
       <p>
         Historically, all the great masters have been men. I am interested in
         being unapologetic about being a woman, a mother, and an artist. Art is
@@ -37,11 +39,13 @@ export default () => (
         spreading and mixing paint. Layering. I try to make the ugly beautiful
         and find gems in the rubble.
       </p>
-      <p>
+      <blockquote>
         > There's more gold in nature than we give credit for, because every day
         there are certain reflections where the sunrays hit and you get gold.
-      </p>
-      <p>> **Louise Nevelson (1899-1988)**</p>
+      </blockquote>
+      <blockquote>
+        <em>Louise Nevelson (1899-1988)</em>
+      </blockquote>
       ---
       <p>
         Emma holds a first class Bachelor of Arts degree in Textile Design from

@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Link } from "components/Router";
-import "./Sidebar.css";
+import "./Sidebar.scss";
 
 const Sidebar = () => (
   <nav className="sidebar">

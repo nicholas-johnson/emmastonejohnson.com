@@ -1,10 +1,11 @@
-.index-page {
+.about-page {
   display: flex;
   justify-content: space-around;
   max-width: 1000px;
   margin: 0 auto;
   nav.sidebar {
   }
-  .post-list {
+  .content {
+    max-width: 400px;
   }
 }
