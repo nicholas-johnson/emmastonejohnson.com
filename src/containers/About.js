@@ -13,10 +13,10 @@ export default () => (
         the painting alive. Painting is like breathing. To breathe is to live.
       </p>
       <blockquote>
-        Where the spirit does not work with the hand there is no art
+        > Where the spirit does not work with the hand there is no art
       </blockquote>
       <blockquote>
-        <em>Leonardo da Vinci</em>
+        > <em>Leonardo da Vinci</em>
       </blockquote>
       <p>
         Historically, all the great masters have been men. I am interested in
@@ -44,9 +44,9 @@ export default () => (
         there are certain reflections where the sunrays hit and you get gold.
       </blockquote>
       <blockquote>
-        <em>Louise Nevelson (1899-1988)</em>
+        > <em>Louise Nevelson (1899-1988)</em>
       </blockquote>
-      ---
+      <hr />
       <p>
         Emma holds a first class Bachelor of Arts degree in Textile Design from
         Chelsea College of Art.
