@@ -13,9 +13,6 @@ const PostList = ({ posts }) => (
               <img src={`images/${post.image}`} alt={post.title} />
             )}
           </Link>
-          <Link to={`/post/${post.permalink}/`}>
-            <h2>{post.title}</h2>
-          </Link>
         </li>
       ))}
     </ul>

@@ -8,7 +8,10 @@ export default () => (
   <div className="about-page">
     <Header />
     <div class="content">
-      <p>Coming Soon</p>
+      <p>
+        Emma Stone-Johnson is an artist working in Brighton, UK. She has
+        exhibited nationally and internationally.
+      </p>
     </div>
   </div>
 );
