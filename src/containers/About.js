@@ -1,12 +1,12 @@
 import React from "react";
 
-import Sidebar from "../components/Sidebar/Sidebar";
+import Header from "../components/Header/Header";
 
 import "./About.scss";
 
 export default () => (
   <div className="about-page">
-    <Sidebar />
+    <Header />
     <div class="content">
       <p>
         Picasso said that once a painting is finished, it's dead. I try to keep

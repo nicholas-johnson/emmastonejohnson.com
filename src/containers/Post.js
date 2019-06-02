@@ -23,6 +23,8 @@ export default function Post() {
 
         <h2>{post.title}</h2>
         <p>{post.body}</p>
+        {!!post.price && <p>For Sale: &pound;{post.price}</p>}
+        {!!post.medium && <p>{post.medium}</p>}
       </div>
     </div>
   );

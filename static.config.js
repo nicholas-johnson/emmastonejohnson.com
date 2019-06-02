@@ -31,6 +31,14 @@ export default {
         template: "src/containers/About"
       },
       {
+        path: "/commissions",
+        template: "src/containers/Commissions"
+      },
+      {
+        path: "/contact",
+        template: "src/containers/Contact"
+      },
+      {
         path: "/",
         getData: () => ({
           posts
