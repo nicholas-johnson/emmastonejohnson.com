@@ -3,7 +3,6 @@ import React from "react";
 import Header from "../components/Header/Header";
 
 import "./Contact.scss";
-import { Parser } from "marked";
 
 export default () => (
   <div className="contact-page">
