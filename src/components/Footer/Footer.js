@@ -8,11 +8,9 @@ const isActive = ({ isCurrent }) => {
 };
 
 const Header = () => (
-  <header>
-    <h1>
-      <Link to="/">Emma Stone-Johnson</Link>
-    </h1>
-  </header>
+  <footer>
+    <Link to="/">Home</Link>
+  </footer>
 );
 
 export default Header;

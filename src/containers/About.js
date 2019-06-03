@@ -1,12 +1,12 @@
 import React from "react";
 
-import Header from "../components/Header/Header";
+import Sidebar from "../components/Sidebar/Sidebar";
 
 import "./About.scss";
 
 export default () => (
   <div className="about-page">
-    <Header />
+    <Sidebar />
     <div class="content">
       <p>
         Emma Stone-Johnson is an artist working in Brighton, UK. She has

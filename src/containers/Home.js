@@ -12,6 +12,7 @@ export default function Home() {
   return (
     <div className="index-page">
       <Header />
+      <Sidebar />
       <div className="content">
         <PostList posts={posts} />
       </div>

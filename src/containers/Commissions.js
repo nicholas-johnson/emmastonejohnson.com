@@ -1,12 +1,12 @@
 import React from "react";
 
-import Header from "../components/Header/Header";
+import Sidebar from "../components/Sidebar/Sidebar";
 
 import "./Commissions.scss";
 
 export default () => (
   <div className="commissions-page">
-    <Header />
+    <Sidebar />
     <div class="content">
       <p>I'm happy to collaborate with a client to make a bespoke painting.</p>
       <h2>Pricing structure</h2>

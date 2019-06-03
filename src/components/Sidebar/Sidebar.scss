@@ -1,16 +1,65 @@
 .sidebar {
-  max-width: 300px;
-  h1 {
-    margin: 0;
-    margin-bottom: 2em;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  .hamburglar {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 30px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    span {
+      display: block;
+      width: 30px;
+      height: 4px;
+      background: rgb(2, 252, 14);
+      border-radius: 5px;
+    }
+    &.open {
+      span {
+        background: white;
+      }
+    }
   }
-  ul,
-  li {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  li {
-    margin: 0.5em 0;
+  .slider {
+    background: #000;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-size: 1rem;
+    font-weight: 300;
+    // font-style: italic;
+    padding: 60px 6px 10px 14px;
+    // border-left: 5px solid rgb(247, 3, 186);
+    ul,
+    li {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    ul {
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+      transform: rotate(180deg);
+    }
+    li {
+      margin: 0.5em 0;
+      display: inline-block;
+    }
+    a {
+      color: white;
+    }
+    svg {
+      width: 20px;
+      height: 20px;
+      path {
+        fill: white;
+      }
+    }
   }
 }
