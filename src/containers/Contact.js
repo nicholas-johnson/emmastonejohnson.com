@@ -1,12 +1,12 @@
 import React from "react";
 
-import Header from "../components/Header/Header";
+import Sidebar from "../components/Sidebar/Sidebar";
 
 import "./Contact.scss";
 
 export default () => (
   <div className="contact-page">
-    <Header />
+    <Sidebar />
     <div class="content">
       <p>
         If you'd like to contact Emma about a commission, painting or

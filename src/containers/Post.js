@@ -14,17 +14,16 @@ export default function Post() {
           <Link to="/">{"<"} Back</Link>
         </div>
         <div className="next-prev">
-          {prev && <Link to={`/post/${prev.permalink}`}>{"<"} prev</Link>}
+          {prev && <Link to={`/post/${prev.permalink}`}>{"<"} prev</Link>}{" "}
           {next && <Link to={`/post/${next.permalink}`}>next {">"}</Link>}
         </div>
       </nav>
       <div className="post">
         <img src={`/images/${post.image}`} alt={post.title} />
-
-        <h2>{post.title}</h2>
-        <p>{post.body}</p>
-        {!!post.price && <p>For Sale: &pound;{post.price}</p>}
-        {!!post.medium && <p>{post.medium}</p>}
+        <p>
+          '{post.title}' {!!post.price && <span>&pound;{post.price}</span>}{" "}
+          {!!post.medium && <span>{post.medium}</span>}
+        </p>
       </div>
     </div>
   );

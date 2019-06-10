@@ -21,9 +21,6 @@ const Sidebar = () => {
       </div>
       <div class="slider" hidden={!open}>
         <ul>
-          {/* <li>
-            <Link to="/">Home</Link>
-          </li> */}
           <li>
             <Link to="/contact">
               <span className="contact-link">@</span>
@@ -35,7 +32,7 @@ const Sidebar = () => {
           </li>
 
           <li>
-            <Link to="instagram">
+            <a href="https://instagram.com/emmastonejohnson/" target="_blank">
               <svg
                 width="256px"
                 height="256px"
@@ -51,13 +48,13 @@ const Sidebar = () => {
                   />
                 </g>
               </svg>
-            </Link>
+            </a>
           </li>
           <li>
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/cv">CV</Link>
+            <Link to="/">Home</Link>
           </li>
         </ul>
       </div>

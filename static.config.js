@@ -7,21 +7,55 @@ export default {
       {
         permalink: "blue-scratch",
         title: "Blue Scratch",
-        medium: 'Acrylic on Canvas 36" x 48',
+        medium: "Acrylic on Canvas 150cm x 200cm",
         price: "1800",
-        date: "2018-05-22T23:46:37.121Z",
-        image: "blue_scratch.jpg",
-        body: `Art washes away from the soul the dust of everyday life - Pablo Picasso`
+        date: "2018",
+        image: "blue_scratch.jpg"
       },
 
       {
         permalink: "neon",
         title: "Neon",
-        medium: 'Acrylic on Canvas 36" x 48',
+        medium: "Acrylic on Canvas 150cm x 200cm",
+        price: "1800",
+        date: "2018",
+        image: "neon.jpg"
+      },
+
+      {
+        permalink: "blue-scratch",
+        title: "Blue Scratch",
+        medium: "Acrylic on Canvas 150cm x 200cm",
+        price: "1800",
+        date: "2018",
+        image: "blue_scratch.jpg"
+      },
+
+      {
+        permalink: "neon",
+        title: "Neon",
+        medium: "Acrylic on Canvas 150cm x 200cm",
+        price: "1800",
+        date: "2018",
+        image: "neon.jpg"
+      },
+
+      {
+        permalink: "blue-scratch",
+        title: "Blue Scratch",
+        medium: "Acrylic on Canvas 150cm x 200cm",
+        price: "1800",
+        date: "2018",
+        image: "blue_scratch.jpg"
+      },
+
+      {
+        permalink: "neon",
+        title: "Neon",
+        medium: "Acrylic on Canvas 150cm x 200cm",
         price: "1800",
         date: "2018-05-22T23:46:37.121Z",
-        image: "neon.jpg",
-        body: `Art washes away from the soul the dust of everyday life - Pablo Picasso`
+        image: "neon.jpg"
       }
     ];
 
@@ -37,6 +71,10 @@ export default {
       {
         path: "/contact",
         template: "src/containers/Contact"
+      },
+      {
+        path: "/cv",
+        template: "src/containers/CV"
       },
       {
         path: "/",
