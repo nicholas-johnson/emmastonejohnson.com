@@ -1,6 +1,7 @@
 import React from "react";
 
 import Sidebar from "../components/Sidebar/Sidebar";
+import Footer from "../components/Footer/Footer";
 
 import "./About.scss";
 
@@ -50,5 +51,6 @@ export default () => (
         last 10 years, working on rebrands and concept development.
       </p>
     </div>
+    <Footer />
   </div>
 );

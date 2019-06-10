@@ -1,16 +1,16 @@
 import React from "react";
 
 import { Link } from "components/Router";
-import "./Header.scss";
+import "./Footer.scss";
 
 const isActive = ({ isCurrent }) => {
   return isCurrent ? { className: "active" } : null;
 };
 
-const Header = () => (
+const Footer = () => (
   <footer>
-    <Link to="/">Home</Link>
+    <Link to="/contact">@</Link>
   </footer>
 );
 
-export default Header;
+export default Footer;

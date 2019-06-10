@@ -21,7 +21,7 @@ export default function Post() {
       <div className="post">
         <img src={`/images/${post.image}`} alt={post.title} />
         <p>
-          '{post.title}' {!!post.price && <span>&pound;{post.price}</span>}{" "}
+          '{post.title}' {!!post.price && <span>{post.price}</span>}{" "}
           {!!post.medium && <span>{post.medium}</span>}
         </p>
       </div>

@@ -8,7 +8,7 @@ export default {
         permalink: "blue-scratch",
         title: "Blue Scratch",
         medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "1800",
+        price: "£1800",
         date: "2018",
         image: "blue_scratch.jpg"
       },
@@ -17,45 +17,27 @@ export default {
         permalink: "neon",
         title: "Neon",
         medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "1800",
+        price: "£1800",
         date: "2018",
         image: "neon.jpg"
       },
 
       {
-        permalink: "blue-scratch",
-        title: "Blue Scratch",
+        permalink: "neon-2",
+        title: "Neon 2",
         medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "1800",
+        price: "Sold",
         date: "2018",
-        image: "blue_scratch.jpg"
+        image: "neon_two.jpg"
       },
 
       {
-        permalink: "neon",
-        title: "Neon",
+        permalink: "tangleweed",
+        title: "Tangleweed",
         medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "1800",
+        price: "£1800",
         date: "2018",
-        image: "neon.jpg"
-      },
-
-      {
-        permalink: "blue-scratch",
-        title: "Blue Scratch",
-        medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "1800",
-        date: "2018",
-        image: "blue_scratch.jpg"
-      },
-
-      {
-        permalink: "neon",
-        title: "Neon",
-        medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "1800",
-        date: "2018-05-22T23:46:37.121Z",
-        image: "neon.jpg"
+        image: "tangleweed.jpg"
       }
     ];
 
