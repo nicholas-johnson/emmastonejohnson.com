@@ -12,12 +12,11 @@ function App() {
   return (
     <Root>
       <div className="content">
-        Emma Stone Johnson. Coming Soon.
-        {/* <React.Suspense fallback={<em>Loading...</em>}>
+        <React.Suspense fallback={<em>Loading...</em>}>
           <Router>
             <Routes path="*" />
           </Router>
-        </React.Suspense> */}
+        </React.Suspense>
       </div>
     </Root>
   );

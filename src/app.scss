@@ -1,5 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700&display=swap");
+// @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i&display=swap");
+// @import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lora|Open+Sans&display=swap");
 
 * {
   scroll-behavior: smooth;
@@ -9,7 +10,7 @@
 body {
   // font-family: "futura", "HelveticaNeue-Light", "Helvetica Neue Light",
   //   "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 12px;
   margin: 0;
@@ -30,6 +31,6 @@ h2,
 h3 {
   font-size: 2rem;
   font-weight: 300;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Lora", sans-serif;
   color: #333;
 }
