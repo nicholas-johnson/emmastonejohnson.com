@@ -20,6 +20,7 @@ stories.add("Image", () => (
           medium="acrylic on canvas"
           dimensions="1500 x 1500cm"
           permalink="neon"
+          sold={false}
         />
       </Typography>
     </Content>

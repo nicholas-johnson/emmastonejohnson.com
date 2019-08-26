@@ -17,22 +17,6 @@
     align-items: center;
   }
   .icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #444;
-    color: white;
-    width: 1.5rem;
-    height: 1.5rem;
-    border-radius: 20px;
-    font-size: 0.8rem;
     margin-right: 0.5rem;
-    i,
-    span {
-      display: block;
-    }
-    i {
-      font-size: 0.75rem;
-    }
   }
 }

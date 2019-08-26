@@ -27,7 +27,7 @@ export const Hamburger = ({
 
   return (
     <div
-      className={["hamburger", open ? "open" : ""].join(" ")}
+      className={["hamburger", isOpen ? "open" : ""].join(" ")}
       style={hamburgerStyles}
       onClick={onClick}
     >

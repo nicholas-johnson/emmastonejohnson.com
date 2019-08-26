@@ -37,6 +37,7 @@ $biggestLineHeight: $fontBase * $fontMultiplier * $fontMultiplier *
   h1 {
     font-size: $biggest;
     line-height: $biggestLineHeight;
+    color: #666;
   }
 
   .big,

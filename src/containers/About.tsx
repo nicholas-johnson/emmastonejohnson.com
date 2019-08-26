@@ -1,6 +1,7 @@
 import React from "react";
 import Navigation from "../components/Navigation";
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 import Typography from "../components/Typography";
 import Content from "../components/Content";
 
@@ -19,6 +20,7 @@ export default () => (
         <EmmaStandingOnCanvas />
         <AboutEmma />
         <ArtistsStatement />
+        <Footer />
       </Content>
     </Typography>
   </div>

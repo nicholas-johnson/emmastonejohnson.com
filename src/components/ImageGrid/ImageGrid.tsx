@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "@reach/router";
-import Image, { ImageProps } from "./Image";
+import { Image, ImageProps } from "./Image/Image";
 
 import "./ImageGrid.scss";
 

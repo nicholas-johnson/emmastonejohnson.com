@@ -1,42 +1,37 @@
 import path from "path";
-import axios from "axios";
-import { paintings } from "./config/paintings";
+import { paintings } from "./config/x";
 
 export default {
   getRoutes: () => {
     return [
       {
+        path: "/",
+        template: "src/containers/Home"
+      },
+      {
         path: "/about",
         template: "src/containers/About"
       },
       {
-        path: "/commissions",
-        template: "src/containers/Commissions"
-      },
-      {
         path: "/contact",
         template: "src/containers/Contact"
-      },
-      {
-        path: "/cv",
-        template: "src/containers/CV"
-      },
-      {
-        path: "/",
-        getData: () => ({
-          paintings
-        }),
-        template: "src/containers/Home",
-        children: paintings.map((post, i) => ({
-          path: `/post/${post.permalink}`,
-          template: "src/containers/Post",
-          getData: () => ({
-            post,
-            prev: paintings[i - 1],
-            next: paintings[i + 1]
-          })
-        }))
       }
+      // {
+      //   path: "/paintings",
+      //   getData: () => ({
+      //     paintings
+      //   }),
+      //   template: "src/containers/Paintings"
+      //   // children: paintings.map((post, i) => ({
+      //   //   path: `/post/${post.permalink}`,
+      //   //   template: "src/containers/Post",
+      //   //   getData: () => ({
+      //   //     post,
+      //   //     prev: paintings[i - 1],
+      //   //     next: paintings[i + 1]
+      //   //   })
+      //   // }))
+      // }
     ];
   },
   plugins: [

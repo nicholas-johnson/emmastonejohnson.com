@@ -1,14 +1,16 @@
-header {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  a {
-    text-decoration: none;
-    color: #222;
-  }
+  max-width: 600px;
+  margin: 0 auto;
   h1 {
     margin: 0;
+    a {
+      text-decoration: none;
+      color: #888;
+    }
   }
   p {
     margin: 0;

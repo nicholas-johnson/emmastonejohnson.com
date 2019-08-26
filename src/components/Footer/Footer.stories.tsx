@@ -1,19 +1,19 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import Content from "../Content";
-import { Carousel } from "./Carousel";
 import { withKnobs } from "@storybook/addon-knobs";
+import { Footer } from "./Footer";
 import Typography from "../Typography";
+import Content from "../Content";
 
 const stories = storiesOf("Component", module);
 
 stories.addDecorator(withKnobs);
 
-stories.add("Carousel", () => (
+stories.add("Footer", () => (
   <div>
     <Content>
       <Typography>
-        <Carousel />
+        <Footer />
       </Typography>
     </Content>
   </div>

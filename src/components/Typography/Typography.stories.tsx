@@ -1,7 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
 import { Typography } from "./Typography";
-import { withKnobs, text, number } from "@storybook/addon-knobs";
+import { withKnobs, text } from "@storybook/addon-knobs";
 import { lipsum1, lipsum2 } from "./lipsum";
 
 const stories = storiesOf("Component.Typography", module);

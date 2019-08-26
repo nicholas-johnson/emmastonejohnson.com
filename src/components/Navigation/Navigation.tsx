@@ -9,7 +9,9 @@ import "./Navigation.scss";
 export const Navigation = () => {
   const [isOpen, setOpen] = useState(false);
   return (
-    <div className={["navigation", open ? "navigation-is-open" : ""].join(" ")}>
+    <div
+      className={["navigation", isOpen ? "navigation-is-open" : ""].join(" ")}
+    >
       <div className="controls">
         {!isOpen && (
           <Hamburger

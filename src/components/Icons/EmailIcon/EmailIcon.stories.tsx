@@ -1,15 +1,15 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { Menu } from "./Menu";
-import Typography from "../../Typography";
+import Typography from "../../Typography/index";
+import { EmailIcon } from "./EmailIcon";
 import { withKnobs } from "@storybook/addon-knobs";
 
-const stories = storiesOf("Component.Navigation.Menu", module);
+const stories = storiesOf("Icons", module);
 
 stories.addDecorator(withKnobs);
 
-stories.add("Component", () => (
+stories.add("EmailIcon", () => (
   <Typography>
-    <Menu />
+    <EmailIcon />
   </Typography>
 ));
