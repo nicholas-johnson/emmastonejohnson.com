@@ -1,46 +1,9 @@
 import path from "path";
 import axios from "axios";
+import { paintings } from "./config/paintings";
 
 export default {
   getRoutes: () => {
-    const posts = [
-      {
-        permalink: "blue-scratch",
-        title: "Blue Scratch",
-        medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "£1800",
-        date: "2018",
-        image: "blue_scratch.jpg"
-      },
-
-      {
-        permalink: "neon",
-        title: "Neon",
-        medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "£1800",
-        date: "2018",
-        image: "neon.jpg"
-      },
-
-      {
-        permalink: "neon-2",
-        title: "Neon 2",
-        medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "Sold",
-        date: "2018",
-        image: "neon_two.jpg"
-      },
-
-      {
-        permalink: "tangleweed",
-        title: "Tangleweed",
-        medium: "Acrylic on Canvas 150cm x 200cm",
-        price: "£1800",
-        date: "2018",
-        image: "tangleweed.jpg"
-      }
-    ];
-
     return [
       {
         path: "/about",
@@ -61,16 +24,16 @@ export default {
       {
         path: "/",
         getData: () => ({
-          posts
+          paintings
         }),
         template: "src/containers/Home",
-        children: posts.map((post, i) => ({
+        children: paintings.map((post, i) => ({
           path: `/post/${post.permalink}`,
           template: "src/containers/Post",
           getData: () => ({
             post,
-            prev: posts[i - 1],
-            next: posts[i + 1]
+            prev: paintings[i - 1],
+            next: paintings[i + 1]
           })
         }))
       }
@@ -85,6 +48,7 @@ export default {
     ],
     require.resolve("react-static-plugin-reach-router"),
     require.resolve("react-static-plugin-sitemap"),
-    require.resolve("react-static-plugin-sass")
+    require.resolve("react-static-plugin-sass"),
+    require.resolve("react-static-plugin-typescript")
   ]
 };

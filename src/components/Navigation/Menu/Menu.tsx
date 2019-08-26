@@ -1,0 +1,25 @@
+import React from "react";
+import { Link } from "@reach/router";
+import "./Menu.scss";
+
+export const Menu = () => (
+  <div className="menu">
+    <ul>
+      <li>
+        <Link to="/">Home</Link>
+      </li>
+      <li>
+        <Link to="/about">About</Link>
+      </li>
+      <li>
+        <Link to="/recent-work">Recent Work</Link>
+      </li>
+      <li>
+        <Link to="/cv">CV</Link>
+      </li>
+      <li>
+        <Link to="/contact">Contact</Link>
+      </li>
+    </ul>
+  </div>
+);

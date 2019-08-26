@@ -1,8 +1,16 @@
 header {
-  @media screen {
-    display: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  a {
+    text-decoration: none;
+    color: #222;
   }
-  position: fixed;
-  top: 1rem;
-  left: 1rem;
+  h1 {
+    margin: 0;
+  }
+  p {
+    margin: 0;
+  }
 }
