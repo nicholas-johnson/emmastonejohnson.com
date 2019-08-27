@@ -1,5 +1,6 @@
 $fontBase: 16px;
 $fontMultiplier: 1.5;
+$textColor: #ad8f95;
 
 $biggest: $fontBase * $fontMultiplier * $fontMultiplier;
 $biggestLineHeight: $fontBase * $fontMultiplier * $fontMultiplier *
@@ -20,7 +21,7 @@ $biggestLineHeight: $fontBase * $fontMultiplier * $fontMultiplier *
 
 .typography {
   font-family: "Museo Sans W01_100", serif;
-  color: #444;
+  color: $textColor;
 
   h1,
   h2,
@@ -30,7 +31,7 @@ $biggestLineHeight: $fontBase * $fontMultiplier * $fontMultiplier *
   }
 
   a {
-    color: #444;
+    color: $textColor;
   }
 
   .biggest,
