@@ -11,13 +11,11 @@ import "./app.scss";
 function App() {
   return (
     <Root>
-      <div className="content">
-        <React.Suspense fallback={<em>Loading...</em>}>
-          <Router>
-            <Routes default />
-          </Router>
-        </React.Suspense>
-      </div>
+      <React.Suspense fallback={<em>Loading...</em>}>
+        <Router>
+          <Routes default />
+        </Router>
+      </React.Suspense>
     </Root>
   );
 }

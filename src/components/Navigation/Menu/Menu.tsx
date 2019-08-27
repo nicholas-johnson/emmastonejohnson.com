@@ -12,11 +12,11 @@ export const Menu = () => (
         <Link to="/about">About</Link>
       </li>
       <li>
-        <Link to="/recent-work">Recent Work</Link>
+        <Link to="/paintings">Recent Work</Link>
       </li>
-      <li>
+      {/* <li>
         <Link to="/cv">CV</Link>
-      </li>
+      </li> */}
       <li>
         <Link to="/contact">Contact</Link>
       </li>

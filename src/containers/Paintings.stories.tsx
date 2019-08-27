@@ -1,7 +1,8 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import Paintings from "./Paintings";
+import { PaintingsPage } from "./Paintings";
+import { paintings } from "../../config/paintings";
 
 const stories = storiesOf("Pages", module);
 
-stories.add("Paintings", () => <Paintings />);
+stories.add("Paintings", () => <PaintingsPage paintings={paintings} />);

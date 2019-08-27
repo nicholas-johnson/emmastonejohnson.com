@@ -3,11 +3,17 @@ import Navigation from "../components/Navigation";
 import Header from "../components/Header";
 import Typography from "../components/Typography";
 import ImageGrid from "../components/ImageGrid";
-import { paintings } from "../../config/paintings";
+import { Painting } from "../../config/paintings";
+
+import { useRouteData } from "react-static";
 
 import "./Paintings.scss";
 
-export default () => (
+type PaintingsPageProps = {
+  paintings: Painting[];
+};
+
+export const PaintingsPage = ({ paintings }: PaintingsPageProps) => (
   <div className="Paintings-page">
     <Typography>
       <Navigation />
@@ -16,6 +22,11 @@ export default () => (
     </Typography>
   </div>
 );
+
+export default () => {
+  const { paintings } = useRouteData();
+  return <PaintingsPage paintings={paintings} />;
+};
 
 // import React from "react";
 // import { useRouteData } from "react-static";

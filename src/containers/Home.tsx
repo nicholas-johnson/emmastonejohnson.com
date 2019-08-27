@@ -1,8 +1,9 @@
 import React from "react";
-import Navigation from "../components/Navigation/index";
-import Header from "../components/Header/index";
-import Typography from "../components/Typography/index";
-import Content from "../components/Content/index";
+import Navigation from "../components/Navigation";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+import Typography from "../components/Typography";
+import Content from "../components/Content";
 import Testimonial from "../content/Testimonial";
 import Carousel from "../components/Carousel";
 
@@ -16,6 +17,7 @@ export default () => (
       <Content>
         <Testimonial />
         <Carousel />
+        <Footer />
       </Content>
     </Typography>
   </div>

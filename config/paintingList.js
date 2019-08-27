@@ -1,18 +1,3 @@
-// import { paintings } as Painting[] from "./paintingList";
-// declare module paintings;
-// import * as paintings from "./paintingList";
-
-export type Painting = {
-  permalink: string;
-  title: string;
-  medium: string;
-  dimensions: string;
-  price: number;
-  date: string;
-  src: string;
-  sold: boolean;
-};
-
 export const paintings = [
   {
     permalink: "blue-scratch",

@@ -13,7 +13,7 @@ const ImageGrid = ({ images }: ImageGridProps) => (
     <ul>
       {images.map(image => (
         <li key={image.permalink}>
-          <Link to={`/post/${image.permalink}/`}>
+          <Link to={`/paintings/${image.permalink}`}>
             <Image {...image} />
           </Link>
         </li>

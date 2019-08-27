@@ -1,5 +1,5 @@
 import path from "path";
-import { paintings } from "./config/x";
+import { paintings } from "./config/paintingList";
 
 export default {
   getRoutes: () => {
@@ -15,23 +15,24 @@ export default {
       {
         path: "/contact",
         template: "src/containers/Contact"
+      },
+      {
+        path: "/paintings",
+        getData: () => ({
+          paintings
+        }),
+        template: "src/containers/Paintings",
+        children: paintings.map((painting, i) => ({
+          path: `/${painting.permalink}`,
+          template: "src/containers/Painting",
+          getData: () => ({
+            paintings,
+            painting,
+            prev: paintings[i - 1],
+            next: paintings[i + 1]
+          })
+        }))
       }
-      // {
-      //   path: "/paintings",
-      //   getData: () => ({
-      //     paintings
-      //   }),
-      //   template: "src/containers/Paintings"
-      //   // children: paintings.map((post, i) => ({
-      //   //   path: `/post/${post.permalink}`,
-      //   //   template: "src/containers/Post",
-      //   //   getData: () => ({
-      //   //     post,
-      //   //     prev: paintings[i - 1],
-      //   //     next: paintings[i + 1]
-      //   //   })
-      //   // }))
-      // }
     ];
   },
   plugins: [
