@@ -93,14 +93,70 @@ const grotto = {
   permalink: "grotto",
   title: "Grotto",
   medium: "Acrylic on Canvas",
-  dimensions: "70cm x 70cm",
+  dimensions: "60cm x 60cm",
   price: 500,
   date: "2018",
   src: "/images/paintings/neon_two.jpg",
   sold: true
 };
 
+const shade = {
+  permalink: "shade",
+  title: "Shade",
+  medium: "Acrylic on Board",
+  dimensions: "20cm x 20cm",
+  price: 80,
+  date: "2018",
+  src: "/images/paintings/shade.jpg",
+  sold: true
+};
+
+const myFathersGarden = {
+  permalink: "my-fathers-garden",
+  title: "My Father's Garden",
+  medium: "Acrylic on Canvas",
+  dimensions: "81cm x 101cm",
+  price: 600,
+  date: "2018",
+  src: "/images/paintings/my_fathers_garden.jpg",
+  sold: false
+};
+
+const marsh = {
+  permalink: "marsh",
+  title: "Marsh",
+  medium: "Acrylic on Canvas",
+  dimensions: "81cm x 101cm",
+  price: 600,
+  date: "2018",
+  src: "/images/paintings/marsh.jpg",
+  sold: false
+};
+
+const dust = {
+  permalink: "dust",
+  title: "Dust",
+  medium: "Acrylic on Canvas",
+  dimensions: "30cm x 40cm",
+  price: 400,
+  date: "2018",
+  src: "/images/paintings/dust.jpg",
+  sold: true
+};
+
+const ammonite = {
+  permalink: "ammonite",
+  title: "Ammonite",
+  medium: "Acrylic on Canvas",
+  dimensions: "20cm x 20cm",
+  price: 400,
+  date: "2018",
+  src: "/images/paintings/ammonite.jpg",
+  sold: true
+};
+
 export const paintings = [
+  dust,
   blueScratch,
   magnolia,
   yoyoMa,
@@ -109,5 +165,11 @@ export const paintings = [
   tangleweed,
   intoThePool,
   smashedPlate,
-  grotto
+  grotto,
+  shade,
+  myFathersGarden,
+  marsh,
+  ammonite
 ];
+
+export const carousel = [];

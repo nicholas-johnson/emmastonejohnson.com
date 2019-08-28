@@ -1,6 +1,6 @@
 export const hamburgerProps = {
   width: 30,
-  height: 21,
+  height: 20,
   color: "#888",
   thickness: 2
 };
