@@ -3,6 +3,9 @@ import Navigation from "../components/Navigation";
 import Header from "../components/Header";
 import Typography from "../components/Typography";
 import ImageGrid from "../components/ImageGrid";
+import Content from "../components/Content";
+import Footer from "../components/Footer";
+import SingleImage from "../components/SingleImage";
 import { useRouteData } from "react-static";
 import { Painting } from "../../config/paintings";
 
@@ -38,36 +41,20 @@ export const PaintingPage = ({
       <Navigation />
       <Header />
       <div className="painting_page">
-        {/* <nav>
-      <div className="next-prev">
-        {prev && <Link to={`/paintings/${prev.permalink}`}>{"<"} prev</Link>}{" "}
-        {next && <Link to={`/paintings/${next.permalink}`}>next {">"}</Link>}
+        {/*
+          <nav>
+            <div className="next-prev">
+              {prev && <Link to={`/paintings/${prev.permalink}`}>{"<"} prev</Link>}{" "}
+              {next && <Link to={`/paintings/${next.permalink}`}>next {">"}</Link>}
+            </div>
+          </nav>
+        */}
+        <SingleImage painting={painting} />
+        <ImageGrid images={filteredPaintings} />
       </div>
-    </nav> */}
-        <div className="zoomed_in">
-          <img src={painting.src} alt={painting.title} />
-          <div className="caption">
-            <p>
-              <span className="title">&lsquo;{painting.title}&rsquo;</span>{" "}
-              <span className="dimensions">{painting.dimensions}</span>{" "}
-              <span className="price">
-                {painting.sold ? <>Sold</> : <>&pound;{painting.price}</>}
-              </span>{" "}
-            </p>
-            <p>
-              <span>
-                <a
-                  className="requestToBuy"
-                  href="mailto:emma@emmastonejohnson.com"
-                >
-                  Request to Buy
-                </a>
-              </span>
-            </p>
-          </div>
-        </div>
-      </div>
-      <ImageGrid images={filteredPaintings} />
+      <Content>
+        <Footer />
+      </Content>
     </Typography>
   );
 };

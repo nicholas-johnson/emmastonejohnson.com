@@ -1,26 +1,3 @@
 .painting_page {
   text-align: center;
-  .zoomed_in {
-    display: inline-block;
-    text-align: center;
-    margin: 0 auto;
-    img {
-      width: auto;
-      display: block;
-      max-width: 100vw;
-      max-height: calc(100vh - 6rem);
-      min-height: 20rem;
-      margin: 0 auto;
-    }
-    .caption {
-      display: flex;
-      justify-content: space-between;
-    }
-    .requestToBuy {
-      text-decoration: none;
-      &:hover {
-        text-decoration: underline;
-      }
-    }
-  }
 }
