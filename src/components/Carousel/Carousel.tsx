@@ -31,7 +31,7 @@ export const Carousel = () => {
           <img src="/images/carousel/blue_scratch.jpg" />
         </div>
         <div className="slide">
-          <img src="/images/carousel/tangleweed.jpg" />
+          <img src="/images/paintings/tangleweed.jpg" />
         </div>
         <div className="slide">
           <img src="/images/carousel/neon.jpg" />

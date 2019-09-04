@@ -24,8 +24,8 @@ const Instagram = () => (
 export const Contact = () => (
   <div className="contact">
     <p>
-      If you'd like to contact me about a commission, painting or exhibition,
-      you can contact me by email or Instagram.
+      If you'd like to get in touch about a commission, painting or exhibition,
+      you can send me an email or look me up on Instagram.
     </p>
     <ul>
       <li>
