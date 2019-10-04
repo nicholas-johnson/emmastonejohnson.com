@@ -18,7 +18,7 @@ const blueScratch = {
   dimensions: "100cm x 140cm",
   price: 1500,
   date: "2018",
-  src: "/images/paintings/blue_scratch.jpg",
+  src: "/images/professional/blue-scratch.jpg",
   sold: false
 };
 
@@ -30,7 +30,7 @@ const magnolia = {
   dimensions: "150cm x 200cm",
   price: 1800,
   date: "2018",
-  src: "/images/paintings/magnolia.jpg",
+  src: "/images/professional/magnolia-compressed.jpg",
   sold: false
 };
 
@@ -52,7 +52,7 @@ const neon = {
   dimensions: "100cm x 120cm",
   price: 1500,
   date: "2018",
-  src: "/images/paintings/neon.jpg",
+  src: "/images/professional/neon-compressed.jpg",
   sold: false
 };
 
@@ -85,7 +85,7 @@ const smashedPlate = {
   dimensions: "100cm x 120cm",
   price: 1800,
   date: "2018",
-  src: "/images/paintings/smashed_plate.jpg",
+  src: "/images/professional/smashed-plate-compressed.jpg",
   sold: false
 };
 
@@ -111,15 +111,26 @@ const shade = {
   sold: true
 };
 
-const myFathersGarden = {
-  permalink: "my-fathers-garden",
-  title: "My Father's Garden",
+const stillLife = {
+  permalink: "still-life",
+  title: "Still Life",
   medium: "Acrylic on Canvas",
   dimensions: "81cm x 101cm",
   price: 600,
   date: "2018",
-  src: "/images/paintings/my_fathers_garden.jpg",
+  src: "/images/professional/still-life-compressed.jpg",
   sold: false
+};
+
+const untitledBlue = {
+  permalink: "untitled-blue",
+  title: "Untitled Blue",
+  medium: "Acrylic on Canvas",
+  dimensions: "100cm x 140cm",
+  price: 1800,
+  date: "2019",
+  src: "/images/professional/untitled-blue-compressed.jpg",
+  sold: true
 };
 
 const marsh = {
@@ -155,7 +166,18 @@ const ammonite = {
   sold: true
 };
 
+const feather = {
+  permalink: "feather",
+  title: "Feather",
+  medium: "Acrylic on Canvas",
+  dimensions: "100cm x 120cm",
+  price: 1500,
+  date: "2019",
+  src: "/images/professional/feather-compressed.jpg",
+};
+
 export const paintings = [
+  feather,
   dust,
   blueScratch,
   magnolia,
@@ -166,10 +188,8 @@ export const paintings = [
   intoThePool,
   smashedPlate,
   grotto,
-  shade,
-  myFathersGarden,
-  marsh,
-  ammonite
+  stillLife,
+  marsh
 ];
 
 export const carousel = [];
