@@ -22,13 +22,13 @@ export const Carousel = () => {
           <img src="/images/carousel/into_the_pool.jpg" />
         </div>
         <div className="slide">
-          <img src="/images/carousel/smashed_plate.jpg" />
+          <img src="/images/professional/smashed-plate-compressed.jpg" />
         </div>
         <div className="slide">
           <img src="/images/carousel/shop.jpg" />
         </div>
         <div className="slide">
-          <img src="/images/carousel/blue_scratch.jpg" />
+          <img src="/images/professional/blue-scratch-compressed.jpg" />
         </div>
         <div className="slide">
           <img src="/images/paintings/tangleweed.jpg" />

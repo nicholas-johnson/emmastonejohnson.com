@@ -18,7 +18,7 @@ const blueScratch = {
   dimensions: "100cm x 140cm",
   price: 1500,
   date: "2018",
-  src: "/images/professional/blue-scratch.jpg",
+  src: "/images/professional/blue-scratch-compressed.jpg",
   sold: false
 };
 
