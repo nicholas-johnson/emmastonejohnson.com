@@ -27,11 +27,11 @@ const magnolia = {
   permalink: "magnolia",
   title: "Magnolia",
   medium: "Acrylic on Canvas",
-  dimensions: "150cm x 200cm",
+  dimensions: "100cm x 140cm",
   price: 1800,
   date: "2018",
   src: "/images/professional/magnolia-compressed.jpg",
-  sold: false
+  sold: true
 };
 
 const yoyoMa = {
@@ -173,7 +173,7 @@ const feather = {
   dimensions: "100cm x 120cm",
   price: 1500,
   date: "2019",
-  src: "/images/professional/feather-compressed.jpg",
+  src: "/images/professional/feather-compressed.jpg"
 };
 
 export const paintings = [
