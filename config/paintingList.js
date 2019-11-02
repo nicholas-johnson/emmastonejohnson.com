@@ -130,7 +130,7 @@ const untitledBlue = {
   price: 1800,
   date: "2019",
   src: "/images/professional/untitled-blue-compressed.jpg",
-  sold: true
+  sold: false
 };
 
 const marsh = {
@@ -177,6 +177,7 @@ const feather = {
 };
 
 export const paintings = [
+  untitledBlue,
   feather,
   dust,
   blueScratch,
