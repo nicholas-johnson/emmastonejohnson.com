@@ -4,7 +4,7 @@ import "./Footer.scss";
 import { EmailIcon, InstagramIcon } from "../Icons";
 
 const Email = () => (
-  <a className="email" href="mailto:emma@emmastonejohnson.com">
+  <a className="email" href="mailto:emma@emmastonejohnson.com" target="_blank">
     <EmailIcon />
   </a>
 );
