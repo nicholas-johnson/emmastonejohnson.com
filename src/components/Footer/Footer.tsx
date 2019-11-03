@@ -12,7 +12,7 @@ const Email = () => (
 const Instagram = () => (
   <a
     className="instagram"
-    href="https:www.instagram.com/emmastonejohnson/"
+    href="https://www.instagram.com/emmastonejohnson/"
     target="_blank"
     rel="noopener noreferrer"
   >
