@@ -53,7 +53,7 @@ const neon = {
   price: 1500,
   date: "2018",
   src: "/images/professional/neon-compressed.jpg",
-  sold: false
+  sold: true
 };
 
 const tangleweed = {
@@ -86,7 +86,7 @@ const smashedPlate = {
   price: 1800,
   date: "2018",
   src: "/images/professional/smashed-plate-compressed.jpg",
-  sold: false
+  sold: true
 };
 
 const grotto = {
@@ -173,7 +173,8 @@ const feather = {
   dimensions: "100cm x 120cm",
   price: 1500,
   date: "2019",
-  src: "/images/professional/feather-compressed.jpg"
+  src: "/images/professional/feather-compressed.jpg",
+  sold: true
 };
 
 export const paintings = [
