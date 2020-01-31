@@ -10,7 +10,6 @@ const mrMagnolia = {
   sold: false
 };
 
-// TODO
 const blueScratch = {
   permalink: "blue-scratch",
   title: "Blue Scratch",
@@ -22,7 +21,6 @@ const blueScratch = {
   sold: false
 };
 
-//TODO
 const magnolia = {
   permalink: "magnolia",
   title: "Magnolia",
@@ -41,7 +39,29 @@ const yoyoMa = {
   dimensions: "100cm x 140cm",
   price: 1800,
   date: "2019",
-  src: "/images/paintings/yo_yo_ma.jpg",
+  src: "/images/professional/yoyo-ma-compressed.jpg",
+  sold: false
+};
+
+const bayeux = {
+  permalink: "bayeux",
+  title: "Remember the Bayeux Tapestry",
+  medium: "Acrylic on Canvas",
+  dimensions: "110cm x 160cm",
+  price: 1950,
+  date: "2020",
+  src: "/images/professional/remember-the-bayeux-tapestry-compressed.jpg",
+  sold: false
+};
+
+const blancmange = {
+  permalink: "blancmange",
+  title: "Ode to Blue Blancmange",
+  medium: "Acrylic on Canvas",
+  dimensions: "100cm x 120cm",
+  price: 1500,
+  date: "2020",
+  src: "/images/professional/ode-to-blue-blancmange-compressed.jpg",
   sold: false
 };
 
@@ -178,6 +198,8 @@ const feather = {
 };
 
 export const paintings = [
+  bayeux,
+  blancmange,
   untitledBlue,
   feather,
   dust,
