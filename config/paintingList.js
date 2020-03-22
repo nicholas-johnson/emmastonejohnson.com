@@ -59,7 +59,7 @@ const blancmange = {
   title: "Ode to Blue Blancmange",
   medium: "Acrylic on Canvas",
   dimensions: "100cm x 120cm",
-  price: 1500,
+  price: 2250,
   date: "2020",
   src: "/images/professional/ode-to-blue-blancmange-compressed.jpg",
   sold: false
@@ -147,7 +147,7 @@ const untitledBlue = {
   title: "Untitled Blue",
   medium: "Acrylic on Canvas",
   dimensions: "100cm x 140cm",
-  price: 1800,
+  price: 2750,
   date: "2019",
   src: "/images/professional/untitled-blue-compressed.jpg",
   sold: false
