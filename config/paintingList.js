@@ -15,7 +15,7 @@ const blueScratch = {
   title: "Blue Scratch",
   medium: "Acrylic on Canvas",
   dimensions: "100cm x 140cm",
-  price: 1500,
+  price: 2750,
   date: "2018",
   src: "/images/professional/blue-scratch-compressed.jpg",
   sold: false
@@ -37,7 +37,7 @@ const yoyoMa = {
   title: "Yo-Yo Ma",
   medium: "Acrylic on Canvas",
   dimensions: "100cm x 140cm",
-  price: 1800,
+  price: 2750,
   date: "2019",
   src: "/images/professional/yoyo-ma-compressed.jpg",
   sold: false
@@ -48,7 +48,7 @@ const bayeux = {
   title: "Remember the Bayeux Tapestry",
   medium: "Acrylic on Canvas",
   dimensions: "110cm x 160cm",
-  price: 1950,
+  price: 3000,
   date: "2020",
   src: "/images/professional/remember-the-bayeux-tapestry-compressed.jpg",
   sold: false

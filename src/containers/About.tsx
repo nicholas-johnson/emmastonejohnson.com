@@ -7,7 +7,7 @@ import Content from "../components/Content";
 
 import ArtistsStatement from "../content/ArtistsStatement";
 import AboutEmma from "../content/AboutEmma";
-import EmmaStandingOnCanvas from "../content/Images/EmmaStandingOnCanvas";
+import EmmaInCoat from "../content/Images/EmmaInCoat";
 
 import "./About.scss";
 
@@ -17,7 +17,7 @@ export default () => (
       <Navigation />
       <Header />
       <Content>
-        <EmmaStandingOnCanvas />
+        <EmmaInCoat />
         <AboutEmma />
         <ArtistsStatement />
         <Footer />
