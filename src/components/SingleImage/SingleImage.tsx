@@ -7,7 +7,7 @@ export type HeaderProps = {
 };
 
 export const SingleImage = ({ painting }: HeaderProps) => {
-  const { src, title, sold, price, dimensions } = painting;
+  const { src, title, sold, dimensions } = painting;
 
   return (
     <div className="single_image">
@@ -17,7 +17,7 @@ export const SingleImage = ({ painting }: HeaderProps) => {
           <span className="title">&lsquo;{title}&rsquo;</span>{" "}
           <span className="dimensions">{dimensions}</span>{" "}
           <span className="price">
-            {sold ? <>Sold</> : <>&pound;{price}</>}
+            {sold ? <>Sold</> : null}
           </span>{" "}
         </p>
         <p>

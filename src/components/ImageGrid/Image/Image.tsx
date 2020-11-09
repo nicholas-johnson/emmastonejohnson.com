@@ -20,7 +20,7 @@ const Image = ({ src, price, title, dimensions, sold }: ImageProps) => (
     <p className="small">
       <span className="title">&lsquo;{title}&rsquo;</span>{" "}
       <span className="dimensions">{dimensions}</span>{" "}
-      <span className="price">{sold ? <>Sold</> : <>&pound;{price}</>}</span>{" "}
+      <span className="price">{sold ? <>Sold</> : null}</span>{" "}
     </p>
   </div>
 );
