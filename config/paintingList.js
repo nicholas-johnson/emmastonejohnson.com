@@ -7,7 +7,7 @@ const mrMagnolia = {
   price: 2000,
   date: "18",
   src: "/images/paintings/mr_magnolia_original@0.5x.jpg",
-  sold: false
+  sold: false,
 };
 
 const blueScratch = {
@@ -18,7 +18,7 @@ const blueScratch = {
   price: 2750,
   date: "2018",
   src: "/images/professional/blue-scratch-compressed.jpg",
-  sold: false
+  sold: false,
 };
 
 const magnolia = {
@@ -29,7 +29,7 @@ const magnolia = {
   price: 1800,
   date: "2018",
   src: "/images/professional/magnolia-compressed.jpg",
-  sold: true
+  sold: true,
 };
 
 const yoyoMa = {
@@ -40,7 +40,7 @@ const yoyoMa = {
   price: 2750,
   date: "2019",
   src: "/images/professional/yoyo-ma-compressed.jpg",
-  sold: false
+  sold: false,
 };
 
 const bayeux = {
@@ -51,7 +51,7 @@ const bayeux = {
   price: 3000,
   date: "2020",
   src: "/images/professional/remember-the-bayeux-tapestry-compressed.jpg",
-  sold: false
+  sold: false,
 };
 
 const blancmange = {
@@ -62,7 +62,7 @@ const blancmange = {
   price: 2250,
   date: "2020",
   src: "/images/professional/ode-to-blue-blancmange-compressed.jpg",
-  sold: false
+  sold: false,
 };
 
 const neon = {
@@ -73,7 +73,7 @@ const neon = {
   price: 1500,
   date: "2018",
   src: "/images/professional/neon-compressed.jpg",
-  sold: true
+  sold: true,
 };
 
 const tangleweed = {
@@ -84,7 +84,7 @@ const tangleweed = {
   price: 1500,
   date: "2018",
   src: "/images/paintings/tangleweed.jpg",
-  sold: false
+  sold: false,
 };
 
 const intoThePool = {
@@ -95,7 +95,7 @@ const intoThePool = {
   price: 1500,
   date: "2018",
   src: "/images/paintings/into_the_pool.jpg",
-  sold: true
+  sold: true,
 };
 
 const smashedPlate = {
@@ -106,7 +106,7 @@ const smashedPlate = {
   price: 1800,
   date: "2018",
   src: "/images/professional/smashed-plate-compressed.jpg",
-  sold: true
+  sold: true,
 };
 
 const grotto = {
@@ -117,7 +117,7 @@ const grotto = {
   price: 500,
   date: "2018",
   src: "/images/paintings/neon_two.jpg",
-  sold: true
+  sold: true,
 };
 
 const shade = {
@@ -128,7 +128,7 @@ const shade = {
   price: 80,
   date: "2018",
   src: "/images/paintings/shade.jpg",
-  sold: true
+  sold: true,
 };
 
 const stillLife = {
@@ -139,7 +139,7 @@ const stillLife = {
   price: 600,
   date: "2018",
   src: "/images/professional/still-life-compressed.jpg",
-  sold: false
+  sold: false,
 };
 
 const untitledBlue = {
@@ -150,7 +150,7 @@ const untitledBlue = {
   price: 2750,
   date: "2019",
   src: "/images/professional/untitled-blue-compressed.jpg",
-  sold: false
+  sold: false,
 };
 
 const marsh = {
@@ -161,7 +161,7 @@ const marsh = {
   price: 600,
   date: "2018",
   src: "/images/paintings/marsh.jpg",
-  sold: false
+  sold: false,
 };
 
 const dust = {
@@ -172,7 +172,7 @@ const dust = {
   price: 400,
   date: "2018",
   src: "/images/paintings/dust.jpg",
-  sold: true
+  sold: true,
 };
 
 const ammonite = {
@@ -183,7 +183,7 @@ const ammonite = {
   price: 400,
   date: "2018",
   src: "/images/paintings/ammonite.jpg",
-  sold: true
+  sold: true,
 };
 
 const feather = {
@@ -194,7 +194,7 @@ const feather = {
   price: 1500,
   date: "2019",
   src: "/images/professional/feather-compressed.jpg",
-  sold: true
+  sold: true,
 };
 
 export const paintings = [
@@ -212,8 +212,6 @@ export const paintings = [
   intoThePool,
   smashedPlate,
   grotto,
-  stillLife,
-  marsh
 ];
 
 export const carousel = [];
