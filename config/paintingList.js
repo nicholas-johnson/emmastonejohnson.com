@@ -208,7 +208,6 @@ export const paintings = [
   yoyoMa,
   mrMagnolia,
   neon,
-  tangleweed,
   intoThePool,
   smashedPlate,
   grotto,
