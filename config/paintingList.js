@@ -198,7 +198,6 @@ const feather = {
 };
 
 export const paintings = [
-  bayeux,
   blancmange,
   untitledBlue,
   feather,
