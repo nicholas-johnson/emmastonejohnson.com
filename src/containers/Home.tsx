@@ -1,24 +1,25 @@
 import React from "react";
-import Navigation from "../components/Navigation";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
 import Typography from "../components/Typography";
-import Content from "../components/Content";
-import Testimonial from "../content/Testimonial";
-import Carousel from "../components/Carousel";
 
 import "./Home.scss";
 
 export default () => (
   <div className="home-page">
     <Typography>
-      <Navigation />
+      {/* <Header /> */}
+      <div style={{
+        textAlign: 'center'
+      }}>
+      <h1 className="biggest">Emma Stone-Johnson</h1>
+      <p>This site is being rebuilt.</p>
+      </div>
+      {/* <Navigation />
       <Header />
       <Content>
         <Testimonial />
         <Carousel />
         <Footer />
-      </Content>
+      </Content> */}
     </Typography>
   </div>
 );
