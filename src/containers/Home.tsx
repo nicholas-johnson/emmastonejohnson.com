@@ -13,7 +13,7 @@ export default () => (
         <h1 className="biggest">Emma Stone-Johnson</h1>
         <p>
           Emma Stone Johnson is currently represented by
-          <a href="https://pontonegallery.com/artists/156-emma-stone-johnson/">Dominic Pontone.</a>
+          <a href="https://pontonegallery.com/artists/156-emma-stone-johnson/works">Dominic Pontone.</a>
         </p>
       </div>
       {/* <Navigation />
