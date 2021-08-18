@@ -12,10 +12,12 @@ export default () => (
       }}>
         <h1 className="biggest">Emma Stone-Johnson</h1>
         <p>
-          Emma Stone-Johnson is currently represented by
+          Emma Stone-Johnson is represented by
         </p>
         <p>
           <a href="https://pontonegallery.com/artists/156-emma-stone-johnson/works">The Pontone Gallery</a>
+        </p>
+        <p>Exhibition: <a href="https://pontonegallery.com/exhibitions/79-emma-stone-johnson-elegant-complexity/overview/">Elegant Complexity</a>
         </p>
         <div style={{
           maxWidth: "500px",
