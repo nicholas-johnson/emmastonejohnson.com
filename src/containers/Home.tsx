@@ -19,6 +19,15 @@ export default () => (
         </p>
         <p>Exhibition: <a href="https://pontonegallery.com/exhibitions/79-emma-stone-johnson-elegant-complexity/overview/">Elegant Complexity</a>
         </p>
+        <a href="https://pontonegallery.com/exhibitions/79/works/artworks-16754-emma-stone-johnson-kissed-into-translucence-2021/">
+          <img
+            style={{
+              maxWidth: '600px'
+            }}
+            alt="Kissed into Translucence"
+            src="https://artlogic-res.cloudinary.com/w_1800,h_1320,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/pontone/images/view/71ddf63e04bd597d4b0df78032715f57j/pontonegallery-emma-stone-johnson-kissed-into-translucence-2021.jpg"
+          />
+        </a>
         <div style={{
           maxWidth: "500px",
           margin: '2em auto',
