@@ -10,8 +10,11 @@ export default () => (
       <div style={{
         textAlign: 'center'
       }}>
-      <h1 className="biggest">Emma Stone-Johnson</h1>
-      <p>This site is being rebuilt.</p>
+        <h1 className="biggest">Emma Stone-Johnson</h1>
+        <p>
+          Emma Stone Johnson is currently represented by
+          <a href="https://pontonegallery.com/artists/156-emma-stone-johnson/">Dominic Pontone.</a>
+        </p>
       </div>
       {/* <Navigation />
       <Header />
