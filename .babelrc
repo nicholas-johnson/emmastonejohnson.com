@@ -1,7 +1,0 @@
-{
-  "presets": [
-    "@babel/react",
-    "@babel/typescript",
-    "react-static/babel-preset.js"
-  ]
-}

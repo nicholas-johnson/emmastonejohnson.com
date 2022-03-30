@@ -1,0 +1,487 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 5,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "4ZbDQaMI8MGUzVIJu8IkPv",
+        "type": "Entry",
+        "createdAt": "2022-03-17T23:01:04.359Z",
+        "updatedAt": "2022-03-19T22:00:03.832Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "aboutPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Emma graduated in 2004 from Chelsea College of Art with a BA (first) in printed textile design. She has exhibited nationally and internationally.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Emma was one of three winners for the Habitat Brighton art competition 2019. Her painting \"Dust\" will be available to buy on a cushion in the Brighton Habitat store and online, Autumn 2020.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Her paintings \"Untitled Blue\" and \"Smashed Plate\" are also featured in George Clarke's Old House, New Home on Channel 4, Sunday 2nd February.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Emma is elated to be commencing a Painting MA at the Royal College of Art, 2020.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "As a child, I drew mainly cats, mostly mine; grey fur, green eyes, pink paw pads. My brother made a golden brick wall out of empty Benson & Hedges boxes. We played Star Wars together. Darth Vader tea parties. My Nanna collected interesting sweet wrappers and foils for me to collage with. Her walls were covered in souvenier spoons. Her kitchen cupboards were always filled with cherry aid, neon red/pink, fermenting sugar, wickedly sweet smelling.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "I wore pink to my brother's funeral.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Images flash before me, flickering through me to arrive onto canvas. A ritual, a way to breathe, to be human. At art school, I printed a life-size pink Darth Vader onto the front of a silk dress. I still wear it sometimes.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Mini splashes of paint; mini defibrillators. A fully loaded brush; applying paint to canvas; making marks. Watching paint sink and sit and slide and run is so pleasurable. I like to see what paint will do, telling me what the canvas needs. It is a living, breathing thing. It makes me feel connected to something greater. Creating transcends the banal, the pain, the boredom.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "A ritual, a dance, a way of speaking and composing my thoughts. The unspoken memories are too embedded to be written down. Language does not fit a feeling so fleeting.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "I question the language of colour, I attempt to paint the texture of memory.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5meF9OfmTzMtWXXwwzxsv8",
+        "type": "Entry",
+        "createdAt": "2022-03-17T12:23:45.134Z",
+        "updatedAt": "2022-03-17T12:23:45.134Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "paintings"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "painting": [
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "2s2mb0Zuqmlfz4fxDdtedE",
+              "type": "Entry",
+              "createdAt": "2022-03-16T15:50:16.830Z",
+              "updatedAt": "2022-03-16T15:52:10.888Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 2,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Bang Bang Gustav",
+              "price": 1000,
+              "sold": true,
+              "visible": true,
+              "permalink": "bang-bang-gustav",
+              "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ],
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "1N05jHtsJ3FMvq2Bqh63Ng",
+              "type": "Entry",
+              "createdAt": "2022-03-13T21:48:28.057Z",
+              "updatedAt": "2022-03-16T15:54:15.572Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 2,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Kissed into Translucence",
+              "price": 1000,
+              "sold": false,
+              "visible": true,
+              "permalink": "kissed-into-translucence",
+              "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ],
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "1N05jHtsJ3FMvq2Bqh63Ng",
+        "type": "Entry",
+        "createdAt": "2022-03-13T21:48:28.057Z",
+        "updatedAt": "2022-03-16T15:54:15.572Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Kissed into Translucence",
+        "price": 1000,
+        "sold": false,
+        "visible": true,
+        "permalink": "kissed-into-translucence",
+        "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "2s2mb0Zuqmlfz4fxDdtedE",
+        "type": "Entry",
+        "createdAt": "2022-03-16T15:50:16.830Z",
+        "updatedAt": "2022-03-16T15:52:10.888Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Bang Bang Gustav",
+        "price": 1000,
+        "sold": true,
+        "visible": true,
+        "permalink": "bang-bang-gustav",
+        "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "JDNxRDKGoMAbZYa2VrmY7",
+        "type": "Entry",
+        "createdAt": "2022-03-10T12:51:56.953Z",
+        "updatedAt": "2022-03-10T12:51:56.953Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "homepage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "backgroundImageInstagramUrl": "https://www.instagram.com/p/CUQaHXtIJ_C"
+      }
+    }
+  ]
+}
