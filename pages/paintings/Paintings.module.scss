@@ -1,20 +1,21 @@
 .container {
-    max-width:600px;
-    margin:0 auto;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 0.5em;
 }
 
 .painting {
-    display:flex;
+    display: flex;
     flex-direction: column;
-    margin:0 0 3em 0;
+    margin: 0 0 3em 0;
     text-align: right;
     letter-spacing: 0.1em;
     h2 {
-        font-weight:normal;
-        margin:1em 0 0 0;
+        font-weight: normal;
+        margin: 1em 0 0 0;
         font-size: 1em;
     }
     p {
-        margin:0;
+        margin: 0;
     }
 }

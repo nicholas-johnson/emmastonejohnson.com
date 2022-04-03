@@ -18,10 +18,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "2s2mb0Zuqmlfz4fxDdtedE",
+        "id": "4ZbDQaMI8MGUzVIJu8IkPv",
         "type": "Entry",
-        "createdAt": "2022-03-16T15:50:16.830Z",
-        "updatedAt": "2022-04-02T16:22:17.743Z",
+        "createdAt": "2022-03-17T23:01:04.359Z",
+        "updatedAt": "2022-04-03T21:30:59.573Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -30,109 +30,6 @@
           }
         },
         "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "painting"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Bang Bang Gustav",
-        "price": 1000,
-        "image": {
-          "metadata": {
-            "tags": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "id3oixfnm9vo"
-              }
-            },
-            "id": "6JurvFqY6MMmJlFBZwyceB",
-            "type": "Asset",
-            "createdAt": "2022-04-02T10:16:18.875Z",
-            "updatedAt": "2022-04-02T10:16:18.875Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "bang-bang-gustav",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
-              "details": {
-                "size": 146392,
-                "image": {
-                  "width": 1276,
-                  "height": 1509
-                }
-              },
-              "fileName": "bang-bang-gustav.jpeg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        "sold": true,
-        "visible": true,
-        "permalink": "bang-bang-gustav",
-        "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
-        "description": {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            }
-          ],
-          "nodeType": "document"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "4ZbDQaMI8MGUzVIJu8IkPv",
-        "type": "Entry",
-        "createdAt": "2022-03-17T23:01:04.359Z",
-        "updatedAt": "2022-03-19T22:00:03.832Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -152,7 +49,7 @@
               "content": [
                 {
                   "nodeType": "text",
-                  "value": "Emma graduated in 2004 from Chelsea College of Art with a BA (first) in printed textile design. She has exhibited nationally and internationally.",
+                  "value": "Emma graduated in 2004 from Chelsea College of Art with a BA (first) in printed textile design. She has exhibited nationally and internationally. ",
                   "marks": [],
                   "data": {}
                 }
@@ -283,10 +180,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "5meF9OfmTzMtWXXwwzxsv8",
+        "id": "1N05jHtsJ3FMvq2Bqh63Ng",
         "type": "Entry",
-        "createdAt": "2022-03-17T12:23:45.134Z",
-        "updatedAt": "2022-03-17T12:23:45.134Z",
+        "createdAt": "2022-03-13T21:48:28.057Z",
+        "updatedAt": "2022-04-03T21:25:02.994Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -294,7 +191,110 @@
             "linkType": "Environment"
           }
         },
-        "revision": 1,
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Kissed into Translucence",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "XKGHSzhpz3CZjKX6mst44",
+            "type": "Asset",
+            "createdAt": "2022-04-02T16:23:15.654Z",
+            "updatedAt": "2022-04-02T16:23:15.654Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "kissed-into-translucence",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/XKGHSzhpz3CZjKX6mst44/a13b34b35967665d6f1a904564086cf3/kissed-into-translucence.jpeg",
+              "details": {
+                "size": 158860,
+                "image": {
+                  "width": 1440,
+                  "height": 1440
+                }
+              },
+              "fileName": "kissed-into-translucence.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "kissed-into-translucence",
+        "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
+        "description": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5meF9OfmTzMtWXXwwzxsv8",
+        "type": "Entry",
+        "createdAt": "2022-03-17T12:23:45.134Z",
+        "updatedAt": "2022-04-03T21:24:51.217Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -424,7 +424,7 @@
               "id": "1N05jHtsJ3FMvq2Bqh63Ng",
               "type": "Entry",
               "createdAt": "2022-03-13T21:48:28.057Z",
-              "updatedAt": "2022-03-16T15:54:15.572Z",
+              "updatedAt": "2022-04-03T21:25:02.994Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -432,7 +432,7 @@
                   "linkType": "Environment"
                 }
               },
-              "revision": 2,
+              "revision": 3,
               "contentType": {
                 "sys": {
                   "type": "Link",
@@ -445,31 +445,75 @@
             "fields": {
               "name": "Kissed into Translucence",
               "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "XKGHSzhpz3CZjKX6mst44",
+                  "type": "Asset",
+                  "createdAt": "2022-04-02T16:23:15.654Z",
+                  "updatedAt": "2022-04-02T16:23:15.654Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "kissed-into-translucence",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/XKGHSzhpz3CZjKX6mst44/a13b34b35967665d6f1a904564086cf3/kissed-into-translucence.jpeg",
+                    "details": {
+                      "size": 158860,
+                      "image": {
+                        "width": 1440,
+                        "height": 1440
+                      }
+                    },
+                    "fileName": "kissed-into-translucence.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
               "sold": false,
               "visible": true,
               "permalink": "kissed-into-translucence",
               "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
               "description": {
-                "nodeType": "document",
                 "data": {},
                 "content": [
                   {
-                    "nodeType": "paragraph",
+                    "data": {},
                     "content": [
                       {
-                        "nodeType": "text",
-                        "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                        "data": {},
                         "marks": [],
-                        "data": {}
+                        "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                        "nodeType": "text"
                       }
                     ],
-                    "data": {}
+                    "nodeType": "paragraph"
                   }
-                ]
+                ],
+                "nodeType": "document"
               }
             }
           }
-        ]
+        ],
+        "name": "Painting List"
       }
     },
     {
@@ -484,10 +528,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "1N05jHtsJ3FMvq2Bqh63Ng",
+        "id": "2s2mb0Zuqmlfz4fxDdtedE",
         "type": "Entry",
-        "createdAt": "2022-03-13T21:48:28.057Z",
-        "updatedAt": "2022-03-16T15:54:15.572Z",
+        "createdAt": "2022-03-16T15:50:16.830Z",
+        "updatedAt": "2022-04-02T16:22:17.743Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -495,7 +539,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 2,
+        "revision": 3,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -506,29 +550,72 @@
         "locale": "en-US"
       },
       "fields": {
-        "name": "Kissed into Translucence",
+        "name": "Bang Bang Gustav",
         "price": 1000,
-        "sold": false,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "6JurvFqY6MMmJlFBZwyceB",
+            "type": "Asset",
+            "createdAt": "2022-04-02T10:16:18.875Z",
+            "updatedAt": "2022-04-02T10:16:18.875Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "bang-bang-gustav",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+              "details": {
+                "size": 146392,
+                "image": {
+                  "width": 1276,
+                  "height": 1509
+                }
+              },
+              "fileName": "bang-bang-gustav.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
         "visible": true,
-        "permalink": "kissed-into-translucence",
-        "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
+        "permalink": "bang-bang-gustav",
+        "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
         "description": {
-          "nodeType": "document",
           "data": {},
           "content": [
             {
-              "nodeType": "paragraph",
+              "data": {},
               "content": [
                 {
-                  "nodeType": "text",
-                  "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                  "data": {},
                   "marks": [],
-                  "data": {}
+                  "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                  "nodeType": "text"
                 }
               ],
-              "data": {}
+              "nodeType": "paragraph"
             }
-          ]
+          ],
+          "nodeType": "document"
         }
       }
     },
@@ -611,6 +698,49 @@
               }
             },
             "fileName": "bang-bang-gustav.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "XKGHSzhpz3CZjKX6mst44",
+          "type": "Asset",
+          "createdAt": "2022-04-02T16:23:15.654Z",
+          "updatedAt": "2022-04-02T16:23:15.654Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "kissed-into-translucence",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/XKGHSzhpz3CZjKX6mst44/a13b34b35967665d6f1a904564086cf3/kissed-into-translucence.jpeg",
+            "details": {
+              "size": 158860,
+              "image": {
+                "width": 1440,
+                "height": 1440
+              }
+            },
+            "fileName": "kissed-into-translucence.jpeg",
             "contentType": "image/jpeg"
           }
         }
