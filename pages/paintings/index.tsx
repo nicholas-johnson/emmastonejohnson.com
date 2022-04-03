@@ -26,7 +26,12 @@ const Home: NextPage = () => {
 
         {paintings.map(painting => (
           <article key={painting.fields.permalink} className={styles.painting}>
-            <Image src={`/paintings/${painting.fields.image?.fields.file.fileName}`} alt={painting.fields.name} width="600" height="600"></Image>
+            <Image
+              src={`/paintings/${painting.fields.image?.fields.file.fileName}`}
+              alt={painting.fields.name}
+              width={painting.fields.image?.fields.file.details.image.width}
+              height={painting.fields.image?.fields.file.details.image.height}
+              layout="responsive"></Image>
             <h2>{painting.fields.name}</h2>
             <ContentfulContent document={painting.fields.description as Document} />
           </article>
