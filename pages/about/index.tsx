@@ -3,16 +3,18 @@ import Head from 'next/head'
 import Link from 'next/link'
 import ContentfulContent from '../../components/ContentfulContent'
 import Header from '../../components/Header'
-import { useAboutContent } from './hooks/useAboutContent'
+import { useAboutContent } from '../../hooks/useAboutContent'
 // import Image from 'next/image'
 import styles from './styles.module.scss'
+
+import { Document } from '@contentful/rich-text-types';
 
 const Home: NextPage = () => {
   const aboutContent = useAboutContent();
   return (
     <div className={styles.container}>
       <Header />
-      <ContentfulContent document={aboutContent.fields.content} />
+      <ContentfulContent document={aboutContent.fields.content as Document} />
 
       {/* <p>
         Emma graduated in 2004 from Chelsea College of Art with a BA (first) in

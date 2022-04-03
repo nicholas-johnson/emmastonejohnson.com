@@ -6,10 +6,12 @@ import styles from './Paintings.module.scss'
 import content from '../../public/content.json'
 import Header from '../../components/Header'
 import ContentfulContent from '../../components/ContentfulContent'
-import { usePaintings } from './hooks/usePaintings'
+import { usePaintings } from '../../hooks/usePaintings'
+import { Document } from '@contentful/rich-text-types';
 
 const Home: NextPage = () => {
   const paintings = usePaintings()
+
   return (
     <>
       <Head>
@@ -23,10 +25,10 @@ const Home: NextPage = () => {
         <Header />
 
         {paintings.map(painting => (
-          <article key={painting.permalink} className={styles.painting}>
-            <Image src={`/instagram/${painting.permalink}.jpeg`} alt={painting.name} width="600" height="600"></Image>
-            <h2>{painting.name}</h2>
-            <ContentfulContent document={painting.description} />
+          <article key={painting.fields.permalink} className={styles.painting}>
+            <Image src={`/paintings/${painting.fields.image?.fields.file.fileName}`} alt={painting.fields.name} width="600" height="600"></Image>
+            <h2>{painting.fields.name}</h2>
+            <ContentfulContent document={painting.fields.description as Document} />
           </article>
         ))}
 

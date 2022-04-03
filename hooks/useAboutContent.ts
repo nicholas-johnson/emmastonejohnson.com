@@ -1,6 +1,6 @@
 
 import { useMemo } from 'react'
-import content from '../../../public/content.json'
+import content from '../public/content.json'
 
 export const useAboutContent = () => useMemo(
     () => content

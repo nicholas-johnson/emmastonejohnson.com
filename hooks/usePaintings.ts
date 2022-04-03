@@ -1,6 +1,6 @@
 
 import { useMemo } from 'react'
-import content from '../../../public/content.json'
+import content from '../public/content.json'
 
 export const usePaintings = () => useMemo(
     () => {
@@ -8,11 +8,14 @@ export const usePaintings = () => useMemo(
             .items
             .filter(item => item.sys.contentType.sys.id === 'paintings');
 
-        if (paintingList.length === 0) return [];
-        const paintings = paintingList[0]
-            .fields
-            .painting
-            .map(painting => painting.fields)
+        if (!paintingList) return [];
+
+        if (!paintingList[0]) return [];
+
+        const paintings = paintingList[0]?.fields?.painting;
+
+        if (!paintings) return [];
+
         return paintings;
     },
-    [])
+    []);
