@@ -18,6 +18,109 @@
             "id": "id3oixfnm9vo"
           }
         },
+        "id": "2s2mb0Zuqmlfz4fxDdtedE",
+        "type": "Entry",
+        "createdAt": "2022-03-16T15:50:16.830Z",
+        "updatedAt": "2022-04-02T16:22:17.743Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Bang Bang Gustav",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "6JurvFqY6MMmJlFBZwyceB",
+            "type": "Asset",
+            "createdAt": "2022-04-02T10:16:18.875Z",
+            "updatedAt": "2022-04-02T10:16:18.875Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "bang-bang-gustav",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+              "details": {
+                "size": 146392,
+                "image": {
+                  "width": 1276,
+                  "height": 1509
+                }
+              },
+              "fileName": "bang-bang-gustav.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "bang-bang-gustav",
+        "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
+        "description": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
         "id": "4ZbDQaMI8MGUzVIJu8IkPv",
         "type": "Entry",
         "createdAt": "2022-03-17T23:01:04.359Z",
@@ -218,7 +321,7 @@
               "id": "2s2mb0Zuqmlfz4fxDdtedE",
               "type": "Entry",
               "createdAt": "2022-03-16T15:50:16.830Z",
-              "updatedAt": "2022-03-16T15:52:10.888Z",
+              "updatedAt": "2022-04-02T16:22:17.743Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -226,7 +329,7 @@
                   "linkType": "Environment"
                 }
               },
-              "revision": 2,
+              "revision": 3,
               "contentType": {
                 "sys": {
                   "type": "Link",
@@ -239,27 +342,70 @@
             "fields": {
               "name": "Bang Bang Gustav",
               "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "6JurvFqY6MMmJlFBZwyceB",
+                  "type": "Asset",
+                  "createdAt": "2022-04-02T10:16:18.875Z",
+                  "updatedAt": "2022-04-02T10:16:18.875Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "bang-bang-gustav",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+                    "details": {
+                      "size": 146392,
+                      "image": {
+                        "width": 1276,
+                        "height": 1509
+                      }
+                    },
+                    "fileName": "bang-bang-gustav.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
               "sold": true,
               "visible": true,
               "permalink": "bang-bang-gustav",
               "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
               "description": {
-                "nodeType": "document",
                 "data": {},
                 "content": [
                   {
-                    "nodeType": "paragraph",
+                    "data": {},
                     "content": [
                       {
-                        "nodeType": "text",
-                        "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                        "data": {},
                         "marks": [],
-                        "data": {}
+                        "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                        "nodeType": "text"
                       }
                     ],
-                    "data": {}
+                    "nodeType": "paragraph"
                   }
-                ]
+                ],
+                "nodeType": "document"
               }
             }
           },
@@ -398,66 +544,6 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "2s2mb0Zuqmlfz4fxDdtedE",
-        "type": "Entry",
-        "createdAt": "2022-03-16T15:50:16.830Z",
-        "updatedAt": "2022-03-16T15:52:10.888Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "painting"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Bang Bang Gustav",
-        "price": 1000,
-        "sold": true,
-        "visible": true,
-        "permalink": "bang-bang-gustav",
-        "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
-        "description": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            }
-          ]
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
         "id": "JDNxRDKGoMAbZYa2VrmY7",
         "type": "Entry",
         "createdAt": "2022-03-10T12:51:56.953Z",
@@ -483,5 +569,52 @@
         "backgroundImageInstagramUrl": "https://www.instagram.com/p/CUQaHXtIJ_C"
       }
     }
-  ]
+  ],
+  "includes": {
+    "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "6JurvFqY6MMmJlFBZwyceB",
+          "type": "Asset",
+          "createdAt": "2022-04-02T10:16:18.875Z",
+          "updatedAt": "2022-04-02T10:16:18.875Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "bang-bang-gustav",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+            "details": {
+              "size": 146392,
+              "image": {
+                "width": 1276,
+                "height": 1509
+              }
+            },
+            "fileName": "bang-bang-gustav.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    ]
+  }
 }
