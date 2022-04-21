@@ -6,7 +6,7 @@ export const usePaintings = () => useMemo(
     () => {
         const paintingList = content
             .items
-            .filter(item => item.sys.contentType.sys.id === 'paintings');
+            .filter(item => item.sys.contentType.sys.id === 'paintings')
 
         if (!paintingList) return [];
 

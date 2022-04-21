@@ -10,7 +10,8 @@ import { usePaintings } from '../../hooks/usePaintings'
 import { Document } from '@contentful/rich-text-types';
 
 const Home: NextPage = () => {
-  const paintings = usePaintings()
+  const paintings = usePaintings();
+  if (!paintings) return null;
 
   return (
     <>
@@ -24,18 +25,21 @@ const Home: NextPage = () => {
 
         <Header />
 
-        {paintings.map(painting => (
-          <article key={painting.fields.permalink} className={styles.painting}>
-            <Image
-              src={`/paintings/${painting.fields.image?.fields.file.fileName}`}
-              alt={painting.fields.name}
-              width={painting.fields.image?.fields.file.details.image.width}
-              height={painting.fields.image?.fields.file.details.image.height}
-              layout="responsive"></Image>
-            <h2>{painting.fields.name}</h2>
-            <ContentfulContent document={painting.fields.description as Document} />
-          </article>
-        ))}
+        {
+        paintings
+          .filter(painting => painting.fields)
+          .map(painting => (
+            <article key={painting.fields?.permalink} className={styles.painting}>
+               <Image
+                 src={`/paintings/${painting.fields?.image?.fields.file.fileName}`}
+                 alt={painting.fields?.name}
+                 width={painting.fields?.image?.fields.file.details.image.width}
+                 height={painting.fields?.image?.fields.file.details.image.height}
+                 layout="responsive"></Image>
+               <h2>{painting.fields?.name}</h2>
+               <ContentfulContent document={painting.fields?.description as Document} />
+            </article>
+          ))}
 
       </div>
     </>

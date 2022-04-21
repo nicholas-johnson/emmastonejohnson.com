@@ -2,10 +2,468 @@
   "sys": {
     "type": "Array"
   },
-  "total": 5,
+  "total": 6,
   "skip": 0,
   "limit": 100,
   "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5meF9OfmTzMtWXXwwzxsv8",
+        "type": "Entry",
+        "createdAt": "2022-03-17T12:23:45.134Z",
+        "updatedAt": "2022-04-20T10:51:35.274Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "paintings"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "painting": [
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "2s2mb0Zuqmlfz4fxDdtedE",
+              "type": "Entry",
+              "createdAt": "2022-03-16T15:50:16.830Z",
+              "updatedAt": "2022-04-02T16:22:17.743Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 3,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Bang Bang Gustav",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "6JurvFqY6MMmJlFBZwyceB",
+                  "type": "Asset",
+                  "createdAt": "2022-04-02T10:16:18.875Z",
+                  "updatedAt": "2022-04-02T10:16:18.875Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "bang-bang-gustav",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+                    "details": {
+                      "size": 146392,
+                      "image": {
+                        "width": 1276,
+                        "height": 1509
+                      }
+                    },
+                    "fileName": "bang-bang-gustav.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "bang-bang-gustav",
+              "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
+              "description": {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "marks": [],
+                        "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
+                        "nodeType": "text"
+                      }
+                    ],
+                    "nodeType": "paragraph"
+                  }
+                ],
+                "nodeType": "document"
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "1N05jHtsJ3FMvq2Bqh63Ng",
+              "type": "Entry",
+              "createdAt": "2022-03-13T21:48:28.057Z",
+              "updatedAt": "2022-04-03T21:25:02.994Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 3,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Kissed into Translucence",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "XKGHSzhpz3CZjKX6mst44",
+                  "type": "Asset",
+                  "createdAt": "2022-04-02T16:23:15.654Z",
+                  "updatedAt": "2022-04-02T16:23:15.654Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "kissed-into-translucence",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/XKGHSzhpz3CZjKX6mst44/a13b34b35967665d6f1a904564086cf3/kissed-into-translucence.jpeg",
+                    "details": {
+                      "size": 158860,
+                      "image": {
+                        "width": 1440,
+                        "height": 1440
+                      }
+                    },
+                    "fileName": "kissed-into-translucence.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "kissed-into-translucence",
+              "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
+              "description": {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "marks": [],
+                        "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
+                        "nodeType": "text"
+                      }
+                    ],
+                    "nodeType": "paragraph"
+                  }
+                ],
+                "nodeType": "document"
+              }
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5h0LsZcUsKw26lFqEGyyva"
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "38fvzKUORNO6u3jMJbLJOt",
+              "type": "Entry",
+              "createdAt": "2022-04-20T10:51:20.874Z",
+              "updatedAt": "2022-04-20T10:51:20.874Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Neon Bones",
+              "price": 10000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "5DkMC7UmstxGC9NXvyHV9U",
+                  "type": "Asset",
+                  "createdAt": "2022-04-20T10:48:17.063Z",
+                  "updatedAt": "2022-04-20T10:48:17.063Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Neon Bones",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/5DkMC7UmstxGC9NXvyHV9U/ea494a5836cd21919fef828d01efe1f2/Cecilia___Emma_S.J.0019.jpg",
+                    "details": {
+                      "size": 5338035,
+                      "image": {
+                        "width": 7201,
+                        "height": 6143
+                      }
+                    },
+                    "fileName": "Cecilia & Emma S.J.0019.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "neon-bones",
+              "instagram": "ghjg",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw Pigment & Acrylic on canvas 200x200cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "name": "Painting List"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "38fvzKUORNO6u3jMJbLJOt",
+        "type": "Entry",
+        "createdAt": "2022-04-20T10:51:20.874Z",
+        "updatedAt": "2022-04-20T10:51:20.874Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Neon Bones",
+        "price": 10000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "5DkMC7UmstxGC9NXvyHV9U",
+            "type": "Asset",
+            "createdAt": "2022-04-20T10:48:17.063Z",
+            "updatedAt": "2022-04-20T10:48:17.063Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Neon Bones",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/5DkMC7UmstxGC9NXvyHV9U/ea494a5836cd21919fef828d01efe1f2/Cecilia___Emma_S.J.0019.jpg",
+              "details": {
+                "size": 5338035,
+                "image": {
+                  "width": 7201,
+                  "height": 6143
+                }
+              },
+              "fileName": "Cecilia & Emma S.J.0019.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "neon-bones",
+        "instagram": "ghjg",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw Pigment & Acrylic on canvas 200x200cm 2022",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "metadata": {
         "tags": []
@@ -283,251 +741,6 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "5meF9OfmTzMtWXXwwzxsv8",
-        "type": "Entry",
-        "createdAt": "2022-03-17T12:23:45.134Z",
-        "updatedAt": "2022-04-03T21:24:51.217Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "paintings"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "painting": [
-          {
-            "metadata": {
-              "tags": []
-            },
-            "sys": {
-              "space": {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "Space",
-                  "id": "id3oixfnm9vo"
-                }
-              },
-              "id": "2s2mb0Zuqmlfz4fxDdtedE",
-              "type": "Entry",
-              "createdAt": "2022-03-16T15:50:16.830Z",
-              "updatedAt": "2022-04-02T16:22:17.743Z",
-              "environment": {
-                "sys": {
-                  "id": "master",
-                  "type": "Link",
-                  "linkType": "Environment"
-                }
-              },
-              "revision": 3,
-              "contentType": {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "ContentType",
-                  "id": "painting"
-                }
-              },
-              "locale": "en-US"
-            },
-            "fields": {
-              "name": "Bang Bang Gustav",
-              "price": 1000,
-              "image": {
-                "metadata": {
-                  "tags": []
-                },
-                "sys": {
-                  "space": {
-                    "sys": {
-                      "type": "Link",
-                      "linkType": "Space",
-                      "id": "id3oixfnm9vo"
-                    }
-                  },
-                  "id": "6JurvFqY6MMmJlFBZwyceB",
-                  "type": "Asset",
-                  "createdAt": "2022-04-02T10:16:18.875Z",
-                  "updatedAt": "2022-04-02T10:16:18.875Z",
-                  "environment": {
-                    "sys": {
-                      "id": "master",
-                      "type": "Link",
-                      "linkType": "Environment"
-                    }
-                  },
-                  "revision": 1,
-                  "locale": "en-US"
-                },
-                "fields": {
-                  "title": "bang-bang-gustav",
-                  "description": "",
-                  "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
-                    "details": {
-                      "size": 146392,
-                      "image": {
-                        "width": 1276,
-                        "height": 1509
-                      }
-                    },
-                    "fileName": "bang-bang-gustav.jpeg",
-                    "contentType": "image/jpeg"
-                  }
-                }
-              },
-              "sold": true,
-              "visible": true,
-              "permalink": "bang-bang-gustav",
-              "instagram": "https://www.instagram.com/p/CT4OS7OIWJ_/",
-              "description": {
-                "data": {},
-                "content": [
-                  {
-                    "data": {},
-                    "content": [
-                      {
-                        "data": {},
-                        "marks": [],
-                        "value": "110x130cm. Raw pigment, ink and acrylic on canvas. 2021",
-                        "nodeType": "text"
-                      }
-                    ],
-                    "nodeType": "paragraph"
-                  }
-                ],
-                "nodeType": "document"
-              }
-            }
-          },
-          {
-            "metadata": {
-              "tags": []
-            },
-            "sys": {
-              "space": {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "Space",
-                  "id": "id3oixfnm9vo"
-                }
-              },
-              "id": "1N05jHtsJ3FMvq2Bqh63Ng",
-              "type": "Entry",
-              "createdAt": "2022-03-13T21:48:28.057Z",
-              "updatedAt": "2022-04-03T21:25:02.994Z",
-              "environment": {
-                "sys": {
-                  "id": "master",
-                  "type": "Link",
-                  "linkType": "Environment"
-                }
-              },
-              "revision": 3,
-              "contentType": {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "ContentType",
-                  "id": "painting"
-                }
-              },
-              "locale": "en-US"
-            },
-            "fields": {
-              "name": "Kissed into Translucence",
-              "price": 1000,
-              "image": {
-                "metadata": {
-                  "tags": []
-                },
-                "sys": {
-                  "space": {
-                    "sys": {
-                      "type": "Link",
-                      "linkType": "Space",
-                      "id": "id3oixfnm9vo"
-                    }
-                  },
-                  "id": "XKGHSzhpz3CZjKX6mst44",
-                  "type": "Asset",
-                  "createdAt": "2022-04-02T16:23:15.654Z",
-                  "updatedAt": "2022-04-02T16:23:15.654Z",
-                  "environment": {
-                    "sys": {
-                      "id": "master",
-                      "type": "Link",
-                      "linkType": "Environment"
-                    }
-                  },
-                  "revision": 1,
-                  "locale": "en-US"
-                },
-                "fields": {
-                  "title": "kissed-into-translucence",
-                  "description": "",
-                  "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/XKGHSzhpz3CZjKX6mst44/a13b34b35967665d6f1a904564086cf3/kissed-into-translucence.jpeg",
-                    "details": {
-                      "size": 158860,
-                      "image": {
-                        "width": 1440,
-                        "height": 1440
-                      }
-                    },
-                    "fileName": "kissed-into-translucence.jpeg",
-                    "contentType": "image/jpeg"
-                  }
-                }
-              },
-              "sold": false,
-              "visible": true,
-              "permalink": "kissed-into-translucence",
-              "instagram": "https://www.instagram.com/p/COrv_3tlIUl/",
-              "description": {
-                "data": {},
-                "content": [
-                  {
-                    "data": {},
-                    "content": [
-                      {
-                        "data": {},
-                        "marks": [],
-                        "value": "150x200cm, raw pigment, ink and acrylic on canvas, 2021",
-                        "nodeType": "text"
-                      }
-                    ],
-                    "nodeType": "paragraph"
-                  }
-                ],
-                "nodeType": "document"
-              }
-            }
-          }
-        ],
-        "name": "Painting List"
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
         "id": "2s2mb0Zuqmlfz4fxDdtedE",
         "type": "Entry",
         "createdAt": "2022-03-16T15:50:16.830Z",
@@ -657,8 +870,64 @@
       }
     }
   ],
+  "errors": [
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Entry",
+        "id": "5h0LsZcUsKw26lFqEGyyva"
+      }
+    }
+  ],
   "includes": {
     "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "5DkMC7UmstxGC9NXvyHV9U",
+          "type": "Asset",
+          "createdAt": "2022-04-20T10:48:17.063Z",
+          "updatedAt": "2022-04-20T10:48:17.063Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Neon Bones",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/5DkMC7UmstxGC9NXvyHV9U/ea494a5836cd21919fef828d01efe1f2/Cecilia___Emma_S.J.0019.jpg",
+            "details": {
+              "size": 5338035,
+              "image": {
+                "width": 7201,
+                "height": 6143
+              }
+            },
+            "fileName": "Cecilia & Emma S.J.0019.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
       {
         "metadata": {
           "tags": []
