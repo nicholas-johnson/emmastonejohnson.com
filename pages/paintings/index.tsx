@@ -33,7 +33,15 @@ const Home: NextPage = () => {
               <img 
                 src={`${painting.fields?.image?.fields.file.url}?w=600`}
                 alt={painting.fields?.name} 
+                width="100%"
+                height={`${painting.fields?.image?.fields.file.details.image.height / painting.fields?.image?.fields.file.details.image.width * 100}%`}
               />
+              {/* <Image
+                src={`/paintings/${painting.fields?.permalink}.jpg`}
+                alt={painting.fields?.name}
+                width={painting.fields?.image?.fields.file.details.image.width}
+                height={painting.fields?.image?.fields.file.details.image.height}
+                layout="responsive"></Image> */}
                <h2>{painting.fields?.name}</h2>
                <ContentfulContent document={painting.fields?.description as Document} />
             </article>
