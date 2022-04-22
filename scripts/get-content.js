@@ -1,7 +1,7 @@
 const path = require("path");
-const fs = require("fs");
 const contentful = require("contentful");
-const download = require('image-downloader')
+const download = require('image-downloader');
+const fs = require('fs');
 
 const filePath = path.join(__dirname, "../public/content.json");
 const client = contentful.createClient({
@@ -9,35 +9,41 @@ const client = contentful.createClient({
     accessToken: "w0--AEFU_m_hjgfzOa154dJQ4w_GX6KBh3gv_dQd24E"
 });
 
-const downloadProcessedImages = (data) => {
-    const asset = client.getAsset('5DkMC7UmstxGC9NXvyHV9U')
-        .then((asset) => console.log(`${asset.fields.file.url}?w=100&h=100`)) 
-}
-
 const downloadImages = (data) => {
-    const urls = data
+    const paintings = data
         .items
         .filter(
             item => item.sys.contentType.sys.id === 'painting'
         )
         .map(
-            painting => painting.fields.image?.fields.file.url
+            painting => ({
+                url: `${painting.fields.image?.fields.file.url}?w=600`, 
+                slug: painting.fields.permalink
+            })
         )
-        .map(
-            url => `${url}?w=600`
-        )
-        .filter(url => url)
-        .map(url => `https:${url}`)
-    console.log('downloading images', { urls })
+        .filter(({url}) => url)
+        .map(painting => (
+            {
+                ...painting, 
+                url: `https:${painting.url}`,
+            }
+        ))
+
+    console.log('downloading images', { paintings })
 
     return Promise.all(
-        urls.map(
-            url => download.image({
+        paintings.map(
+            ({slug, url}) => download.image({
                 url,
                 dest: `${__dirname}/../public/paintings`
             })
                 .then(({ filename }) => {
-                    console.log('Saved to', filename)
+                    const oldPath = filename;                    
+                    const newPath = `${__dirname}/../public/paintings/${slug}.jpg`
+                    console.log({oldPath, newPath})                 
+                    fs.renameSync( oldPath, newPath, () => {
+                        console.log('Saved to', newPath)
+                    });  
                 })
                 .catch((err) => console.error(err))
         )

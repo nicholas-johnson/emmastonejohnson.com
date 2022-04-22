@@ -31,7 +31,7 @@ const Home: NextPage = () => {
           .map(painting => (
             <article key={painting.fields?.permalink} className={styles.painting}>
                <Image
-                 src={`/paintings/${painting.fields?.image?.fields.file.fileName}`}
+                 src={`/paintings/${painting.fields?.permalink}.jpg`}
                  alt={painting.fields?.name}
                  width={painting.fields?.image?.fields.file.details.image.width}
                  height={painting.fields?.image?.fields.file.details.image.height}
