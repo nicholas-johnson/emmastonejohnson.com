@@ -28,24 +28,28 @@ const Home: NextPage = () => {
         {
         paintings
           .filter(painting => painting.fields)
-          .map(painting => (
-            <article key={painting.fields?.permalink} className={styles.painting}>
-              <img 
-                src={`${painting.fields?.image?.fields.file.url}?w=600`}
-                alt={painting.fields?.name} 
-                width="100%"
-                height={`${painting.fields?.image?.fields.file.details.image.height / painting.fields?.image?.fields.file.details.image.width * 100}%`}
-              />
-              {/* <Image
-                src={`/paintings/${painting.fields?.permalink}.jpg`}
-                alt={painting.fields?.name}
-                width={painting.fields?.image?.fields.file.details.image.width}
-                height={painting.fields?.image?.fields.file.details.image.height}
-                layout="responsive"></Image> */}
-               <h2>{painting.fields?.name}</h2>
-               <ContentfulContent document={painting.fields?.description as Document} />
-            </article>
-          ))}
+          .map(painting => {
+            const height = painting.fields?.image?.fields?.file?.details?.image?.height || 1
+            const width = painting.fields?.image?.fields?.file?.details?.image?.width || 1;
+            return (
+              <article key={painting.fields?.permalink} className={styles.painting}>
+                <img 
+                  src={`${painting.fields?.image?.fields.file.url}?w=600`}
+                  alt={painting.fields?.name} 
+                  width="100%"
+                  height={`${width / height * 100}%`}
+                />
+                {/* <Image
+                  src={`/paintings/${painting.fields?.permalink}.jpg`}
+                  alt={painting.fields?.name}
+                  width={painting.fields?.image?.fields.file.details.image.width}
+                  height={painting.fields?.image?.fields.file.details.image.height}
+                  layout="responsive"></Image> */}
+                <h2>{painting.fields?.name}</h2>
+                <ContentfulContent document={painting.fields?.description as Document} />
+              </article>
+            )
+          })}
 
       </div>
     </>
