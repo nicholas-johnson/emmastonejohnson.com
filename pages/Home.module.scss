@@ -8,7 +8,7 @@
   overflow: hidden;
   background-size: cover;
   background-position: center 60%;
-  background-image: url("/instagram/home.jpg");
+  background-image: url("/home.jpg");
 
   ul {
     list-style: none;
@@ -17,6 +17,9 @@
     text-align: center;
     display: flex;
     padding-bottom: 7rem;
+    a {
+      color: white;
+    }
   }
 
   li {
@@ -30,16 +33,13 @@
     display: block;
     padding: 10px;
     margin: 5px;
+    color: white;
     // letter-spacing: 0.1em;
   }
 
   @media only screen and (max-device-width: 1000px) and (orientation: portrait) {
-    div.spacer {
-      display: none;
-    }
-
     ul {
-      padding-bottom: 6rem;
+      padding-bottom: 2rem;
     }
 
     ul a {

@@ -15,7 +15,6 @@ const Home: NextPage = () => {
       </Head>
 
       <div className={styles.container}>
-        <div className={styles.spacer}></div>
         <Header />
         <ul>
           <li>
