@@ -1,24 +1,22 @@
-.header {
-  position: absolute;
-  width: 100%;
-}
-
 .container {
-  display:flex;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   width: 100%;
   height: 100vh;
   overflow: hidden;
   background-size: cover;
-  background-position: center;
-  background-image: url('/instagram/home.jpg');
+  background-position: center 60%;
+  background-image: url("/instagram/home.jpg");
 
   ul {
     list-style: none;
     margin: 0;
     padding: 0;
     text-align: center;
+    display: flex;
+    padding-bottom: 7rem;
   }
 
   li {
@@ -32,13 +30,27 @@
     display: block;
     padding: 10px;
     margin: 5px;
-    letter-spacing: 0.1em;
+    // letter-spacing: 0.1em;
   }
-}
 
-@media (max-width: 600px) {
-  .grid {
-    width: 100%;
-    flex-direction: column;
+  @media only screen and (max-device-width: 1000px) and (orientation: portrait) {
+    div.spacer {
+      display: none;
+    }
+
+    ul {
+      padding-bottom: 6rem;
+    }
+
+    ul a {
+      color: white;
+    }
+  }
+
+  // Landscape
+  @media only screen and (max-device-width: 1000px) and (orientation: landscape) {
+    ul {
+      padding-bottom: 2rem;
+    }
   }
 }

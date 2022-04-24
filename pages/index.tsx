@@ -1,9 +1,9 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import Link from 'next/link'
-import Header from '../components/Header'
+import type { NextPage } from "next";
+import Head from "next/head";
+import Link from "next/link";
+import Header from "../components/Header";
 // import Image from 'next/image'
-import styles from './Home.module.scss'
+import styles from "./Home.module.scss";
 
 const Home: NextPage = () => {
   return (
@@ -14,10 +14,9 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className={styles.header}>
-        <Header />
-      </div>
       <div className={styles.container}>
+        <div className={styles.spacer}></div>
+        <Header />
         <ul>
           <li>
             <Link href="/paintings">Paintings</Link>
@@ -29,10 +28,9 @@ const Home: NextPage = () => {
             <Link href="/about">About</Link>
           </li>
         </ul>
-
       </div>
     </>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
