@@ -4,7 +4,8 @@
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
   overflow: hidden;
   background-size: cover;
   background-position: center 60%;
@@ -34,9 +35,9 @@
     padding: 10px;
     margin: 5px;
     color: white;
-    // letter-spacing: 0.1em;
   }
 
+  // Portrait mobile
   @media only screen and (max-device-width: 1000px) and (orientation: portrait) {
     ul {
       padding-bottom: 2rem;
@@ -47,7 +48,7 @@
     }
   }
 
-  // Landscape
+  // Landscape Mobile
   @media only screen and (max-device-width: 1000px) and (orientation: landscape) {
     ul {
       padding-bottom: 2rem;
