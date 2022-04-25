@@ -4,8 +4,7 @@
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
+  height: 100%;
   overflow: hidden;
   background-size: cover;
   background-position: center 60%;
@@ -39,6 +38,7 @@
 
   // Portrait mobile
   @media only screen and (max-device-width: 1000px) and (orientation: portrait) {
+    // min-height: -webkit-fill-available;
     ul {
       padding-bottom: 2rem;
     }
@@ -50,6 +50,7 @@
 
   // Landscape Mobile
   @media only screen and (max-device-width: 1000px) and (orientation: landscape) {
+    // min-height: -webkit-fill-available;
     ul {
       padding-bottom: 2rem;
     }
