@@ -15,6 +15,8 @@ const Home: NextPage = () => {
 
   const paintings = paintingList.fields.painting;
 
+  if (!paintings) return null;
+
   return (
     <>
       <Head>
@@ -44,12 +46,6 @@ const Home: NextPage = () => {
                   width="100%"
                   height={`${(width / height) * 100}%`}
                 />
-                {/* <Image
-                  src={`/paintings/${painting.fields?.permalink}.jpg`}
-                  alt={painting.fields?.name}
-                  width={painting.fields?.image?.fields.file.details.image.width}
-                  height={painting.fields?.image?.fields.file.details.image.height}
-                  layout="responsive"></Image> */}
                 <h2>{painting.fields?.name}</h2>
                 <ContentfulContent
                   document={painting.fields?.description as Document}
