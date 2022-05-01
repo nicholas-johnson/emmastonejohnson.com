@@ -39,9 +39,8 @@
 
   // Portrait mobile
   @media only screen and (max-device-width: 1000px) and (orientation: portrait) {
-    // min-height: -webkit-fill-available;
     ul {
-      padding-bottom: 2rem;
+      flex-direction: column;
     }
 
     ul a {
