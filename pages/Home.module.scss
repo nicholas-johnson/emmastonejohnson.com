@@ -20,6 +20,10 @@
     a {
       color: white;
       font-weight: 900;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 
