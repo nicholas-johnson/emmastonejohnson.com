@@ -2,7 +2,7 @@
   "sys": {
     "type": "Array"
   },
-  "total": 6,
+  "total": 21,
   "skip": 0,
   "limit": 100,
   "items": [
@@ -18,10 +18,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "5meF9OfmTzMtWXXwwzxsv8",
+        "id": "13e6pmE2KqTEmMySiEDrYl",
         "type": "Entry",
-        "createdAt": "2022-03-17T12:23:45.134Z",
-        "updatedAt": "2022-04-20T10:51:35.274Z",
+        "createdAt": "2022-05-01T07:32:50.864Z",
+        "updatedAt": "2022-05-01T07:32:50.864Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -29,7 +29,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 3,
+        "revision": 1,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -40,6 +40,44 @@
         "locale": "en-US"
       },
       "fields": {
+        "name": "List of other images"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5meF9OfmTzMtWXXwwzxsv8",
+        "type": "Entry",
+        "createdAt": "2022-03-17T12:23:45.134Z",
+        "updatedAt": "2022-05-01T07:31:57.191Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 11,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "paintings"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "List of paintings",
         "painting": [
           {
             "metadata": {
@@ -92,7 +130,7 @@
                   "id": "6JurvFqY6MMmJlFBZwyceB",
                   "type": "Asset",
                   "createdAt": "2022-04-02T10:16:18.875Z",
-                  "updatedAt": "2022-04-02T10:16:18.875Z",
+                  "updatedAt": "2022-04-26T12:55:02.270Z",
                   "environment": {
                     "sys": {
                       "id": "master",
@@ -100,22 +138,22 @@
                       "linkType": "Environment"
                     }
                   },
-                  "revision": 1,
+                  "revision": 2,
                   "locale": "en-US"
                 },
                 "fields": {
                   "title": "bang-bang-gustav",
                   "description": "",
                   "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/dec4af733159123870e72f1ffc496518/IMG_0710_2.jpg",
                     "details": {
-                      "size": 146392,
+                      "size": 3555491,
                       "image": {
-                        "width": 1276,
-                        "height": 1509
+                        "width": 3024,
+                        "height": 4032
                       }
                     },
-                    "fileName": "bang-bang-gustav.jpeg",
+                    "fileName": "IMG_0710 2.jpg",
                     "contentType": "image/jpeg"
                   }
                 }
@@ -141,6 +179,211 @@
                   }
                 ],
                 "nodeType": "document"
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "6WnULey2HEPpHRHG8m8bkD",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:28:34.466Z",
+              "updatedAt": "2022-04-26T15:28:34.466Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Flavus Kissing Rubeus",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "7AAvmBl9xW794pMUwFbJjz",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:27:58.599Z",
+                  "updatedAt": "2022-04-26T15:27:58.599Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Flavus Kissing Rubeus",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/7AAvmBl9xW794pMUwFbJjz/dad4e0d7e2855a9e6a9dc95508c65c47/Flavus_Kissing_Rubeus.jpg",
+                    "details": {
+                      "size": 6013605,
+                      "image": {
+                        "width": 8256,
+                        "height": 6192
+                      }
+                    },
+                    "fileName": "Flavus Kissing Rubeus.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "flavus-kissing-rubeus",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 150x200cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "38fvzKUORNO6u3jMJbLJOt",
+              "type": "Entry",
+              "createdAt": "2022-04-20T10:51:20.874Z",
+              "updatedAt": "2022-04-20T10:51:20.874Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Neon Bones",
+              "price": 10000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "5DkMC7UmstxGC9NXvyHV9U",
+                  "type": "Asset",
+                  "createdAt": "2022-04-20T10:48:17.063Z",
+                  "updatedAt": "2022-04-20T10:48:17.063Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Neon Bones",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/5DkMC7UmstxGC9NXvyHV9U/ea494a5836cd21919fef828d01efe1f2/Cecilia___Emma_S.J.0019.jpg",
+                    "details": {
+                      "size": 5338035,
+                      "image": {
+                        "width": 7201,
+                        "height": 6143
+                      }
+                    },
+                    "fileName": "Cecilia & Emma S.J.0019.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "neon-bones",
+              "instagram": "ghjg",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw Pigment & Acrylic on canvas 200x200cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
               }
             }
           },
@@ -248,13 +491,6 @@
             }
           },
           {
-            "sys": {
-              "type": "Link",
-              "linkType": "Entry",
-              "id": "5h0LsZcUsKw26lFqEGyyva"
-            }
-          },
-          {
             "metadata": {
               "tags": []
             },
@@ -266,10 +502,10 @@
                   "id": "id3oixfnm9vo"
                 }
               },
-              "id": "38fvzKUORNO6u3jMJbLJOt",
+              "id": "4A0Ww4VJk2SDosyWyEEDGh",
               "type": "Entry",
-              "createdAt": "2022-04-20T10:51:20.874Z",
-              "updatedAt": "2022-04-20T10:51:20.874Z",
+              "createdAt": "2022-04-26T12:53:13.290Z",
+              "updatedAt": "2022-04-26T12:53:13.290Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -288,8 +524,8 @@
               "locale": "en-US"
             },
             "fields": {
-              "name": "Neon Bones",
-              "price": 10000,
+              "name": "Slurred Punctuation ",
+              "price": 1000,
               "image": {
                 "metadata": {
                   "tags": []
@@ -302,10 +538,10 @@
                       "id": "id3oixfnm9vo"
                     }
                   },
-                  "id": "5DkMC7UmstxGC9NXvyHV9U",
+                  "id": "3S6p8xb5euMFFrKIxARi1d",
                   "type": "Asset",
-                  "createdAt": "2022-04-20T10:48:17.063Z",
-                  "updatedAt": "2022-04-20T10:48:17.063Z",
+                  "createdAt": "2022-04-26T12:52:40.738Z",
+                  "updatedAt": "2022-04-26T12:52:40.738Z",
                   "environment": {
                     "sys": {
                       "id": "master",
@@ -317,26 +553,25 @@
                   "locale": "en-US"
                 },
                 "fields": {
-                  "title": "Neon Bones",
+                  "title": "Slurred Punctuation ",
                   "description": "",
                   "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/5DkMC7UmstxGC9NXvyHV9U/ea494a5836cd21919fef828d01efe1f2/Cecilia___Emma_S.J.0019.jpg",
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/3S6p8xb5euMFFrKIxARi1d/f973600fc48b359a9f1f13fe84ce5b42/Cecilia___Emma_S.J.0018.jpg",
                     "details": {
-                      "size": 5338035,
+                      "size": 5711726,
                       "image": {
-                        "width": 7201,
-                        "height": 6143
+                        "width": 8256,
+                        "height": 6192
                       }
                     },
-                    "fileName": "Cecilia & Emma S.J.0019.jpg",
+                    "fileName": "Cecilia & Emma S.J.0018.jpg",
                     "contentType": "image/jpeg"
                   }
                 }
               },
-              "sold": false,
+              "sold": true,
               "visible": true,
-              "permalink": "neon-bones",
-              "instagram": "ghjg",
+              "permalink": "slurred-punctuation",
               "description": {
                 "nodeType": "document",
                 "data": {},
@@ -347,7 +582,1231 @@
                     "content": [
                       {
                         "nodeType": "text",
-                        "value": "Raw Pigment & Acrylic on canvas 200x200cm 2022",
+                        "value": "Raw pigment, acrylic & ink on canvas 170x200cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "5h0LsZcUsKw26lFqEGyyva",
+              "type": "Entry",
+              "createdAt": "2022-04-26T13:03:07.209Z",
+              "updatedAt": "2022-04-26T13:03:07.209Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Delicate Thuds ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "6lULTLQsiCpVoE0T2GbtRk",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T13:01:56.780Z",
+                  "updatedAt": "2022-04-26T13:01:56.780Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Delicate Thuds",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/6lULTLQsiCpVoE0T2GbtRk/b95e4b95fdce203da81097b7b82e188e/IMG_9A9AF874EC0E-1.jpeg",
+                    "details": {
+                      "size": 999928,
+                      "image": {
+                        "width": 1242,
+                        "height": 1083
+                      }
+                    },
+                    "fileName": "IMG_9A9AF874EC0E-1.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "delicate-thuds",
+              "description": {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "marks": [],
+                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2021",
+                        "nodeType": "text"
+                      }
+                    ],
+                    "nodeType": "paragraph"
+                  }
+                ],
+                "nodeType": "document"
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "6o9NwdDNYb8EeMTQgMPht3",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:00:58.640Z",
+              "updatedAt": "2022-04-26T15:00:58.640Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Float",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "7mm0mHmcbSsdMZ9XaVhOxF",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:00:08.189Z",
+                  "updatedAt": "2022-04-26T15:00:08.189Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Float",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/7mm0mHmcbSsdMZ9XaVhOxF/5b3d99054c95bde17f859f5e1ab27bf5/Float.jpg",
+                    "details": {
+                      "size": 6134718,
+                      "image": {
+                        "width": 8256,
+                        "height": 6192
+                      }
+                    },
+                    "fileName": "Float.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "float",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "5P18eyplSVUOjmnaXhq6RI",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:04:02.137Z",
+              "updatedAt": "2022-04-26T15:04:02.137Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Blueprint ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "5l78WaAQHAmyTZ0orPhKgN",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:03:09.317Z",
+                  "updatedAt": "2022-04-26T15:03:09.317Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Blueprint",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/5l78WaAQHAmyTZ0orPhKgN/839ecd5738d938fa3d7bfeef0b3f98af/IMG_B145AE58F1C1-1.jpeg",
+                    "details": {
+                      "size": 822728,
+                      "image": {
+                        "width": 1242,
+                        "height": 1362
+                      }
+                    },
+                    "fileName": "IMG_B145AE58F1C1-1.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "blueprint",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 80x100cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "4fgKjCdvKpTfMYL3YCQJMP",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:10:06.189Z",
+              "updatedAt": "2022-04-26T15:10:06.189Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Soft Stars",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "11wYx5troKIRdRmlrvcshY",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:05:20.819Z",
+                  "updatedAt": "2022-04-26T15:05:20.819Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Soft Stars",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/11wYx5troKIRdRmlrvcshY/bd9f90bdf40423aef1861a54beec431a/IMG_B39E346C2639-1.jpeg",
+                    "details": {
+                      "size": 988192,
+                      "image": {
+                        "width": 1116,
+                        "height": 1350
+                      }
+                    },
+                    "fileName": "IMG_B39E346C2639-1.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "soft-stars",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 152x137cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "gBTP7KpOLoBvZRzW11D1S",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:12:45.756Z",
+              "updatedAt": "2022-04-26T15:12:45.756Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Elphaba",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "nI6mKTwme1DmsoeYObk0Q",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:11:41.913Z",
+                  "updatedAt": "2022-04-26T15:11:41.913Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Elphaba",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/nI6mKTwme1DmsoeYObk0Q/eec70288fdaf78b03977af8bb05bc1e3/IMG_C1C86D1D779B-1.jpeg",
+                    "details": {
+                      "size": 725357,
+                      "image": {
+                        "width": 1242,
+                        "height": 1242
+                      }
+                    },
+                    "fileName": "IMG_C1C86D1D779B-1.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "elphaba",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "5RrflInr2GJ6ttp8a7EFDV",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:15:08.643Z",
+              "updatedAt": "2022-04-26T15:15:08.643Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "High C & G on the piano, flick",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "d3AgnF7v5f74TuolbS03A",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:14:14.043Z",
+                  "updatedAt": "2022-04-26T15:14:14.043Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "High C & G on the piano, flick",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/d3AgnF7v5f74TuolbS03A/03cdc3142b48be888f15ac2691c0a84a/IMG_F3F859517935-1.jpeg",
+                    "details": {
+                      "size": 776924,
+                      "image": {
+                        "width": 1242,
+                        "height": 1520
+                      }
+                    },
+                    "fileName": "IMG_F3F859517935-1.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "high-c-and-g-on-the-piano-flick",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "40m9fPJeXUKStjJX28zMYF",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:34:23.288Z",
+              "updatedAt": "2022-04-26T15:34:23.288Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "New painting ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "70sJru6aFSv2Aeruyl0W6a",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:33:38.827Z",
+                  "updatedAt": "2022-04-26T15:33:38.827Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "new painting ",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/70sJru6aFSv2Aeruyl0W6a/6ef30f0fee45a96f0e3e632ca200a778/new_painting.jpg",
+                    "details": {
+                      "size": 5971604,
+                      "image": {
+                        "width": 8256,
+                        "height": 6192
+                      }
+                    },
+                    "fileName": "new painting.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "new-painting",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "2iZ3GGlfp1nBHdLj1bIUJQ",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:38:05.015Z",
+              "updatedAt": "2022-04-26T15:38:05.015Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "You were coated in star guts, incandescent ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "sUzZDj82E74KDyISK4QSD",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:36:45.873Z",
+                  "updatedAt": "2022-04-26T15:36:45.873Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "You were coated in star guts, incandescent ",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/sUzZDj82E74KDyISK4QSD/f82419f9e15309f8690d3b0fbcf9c245/-You_were_coated_in_star_guts__incandescent-_170x200cm_ink__pigment__aluminium_powder___acrylic_on_canvas.2021JPG.JPG",
+                    "details": {
+                      "size": 2302074,
+                      "image": {
+                        "width": 2810,
+                        "height": 3311
+                      }
+                    },
+                    "fileName": "-You were coated in star guts, incandescent- 170x200cm ink, pigment, aluminium powder & acrylic on canvas.2021JPG.JPG",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "you-were-coated-in-star-guts-incandescent",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink, acrylic, & aluminium powder on canvas 170x200cm 2021 ",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "363nQtbHhhjBwiuyMUrwwj",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:42:26.999Z",
+              "updatedAt": "2022-04-26T15:42:26.999Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "The stage floor was every colour",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "3vQqpR8AGu2OPOTI89Ept2",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:41:26.854Z",
+                  "updatedAt": "2022-04-26T15:41:26.854Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "The stage floor was every colour",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/3vQqpR8AGu2OPOTI89Ept2/965969f3a8195f0bf04004647e2e8e36/-The_stage_floor_was_every_colour-__oil__pigment__ink___acrylic_on_canvas_110x130cm_.JPG",
+                    "details": {
+                      "size": 2510436,
+                      "image": {
+                        "width": 3325,
+                        "height": 3589
+                      }
+                    },
+                    "fileName": "-The stage floor was every colour- (oil, pigment, ink & acrylic on canvas 110x130cm).JPG",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "the-stage-floor-was-every-colour",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "shqdhUxqD2dG1KR1WcI23",
+              "type": "Entry",
+              "createdAt": "2022-04-26T15:52:16.808Z",
+              "updatedAt": "2022-04-26T16:06:38.299Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 2,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "From left",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "4oaMhRpoMangZx1pGqwL0g",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T15:46:37.205Z",
+                  "updatedAt": "2022-04-26T15:46:37.205Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "gallery shot (soft stars)",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/4oaMhRpoMangZx1pGqwL0g/69b50531fa79e6a11971e6c309d80efc/gallery_shot__soft_stars_.jpg",
+                    "details": {
+                      "size": 257849,
+                      "image": {
+                        "width": 1280,
+                        "height": 720
+                      }
+                    },
+                    "fileName": "gallery shot (soft stars).jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "suns-machinery-ancient-creature-you-were-coated-in-star-guts-incandescent",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "The Sun's Machinery, raw pigment, ink & acrylic on canvas, 150x200cm 2021, Ancient Creature, raw pigment, ink & acrylic on canvas, 170x200cm 2021, You were coated in star guts, incandescent, raw pigment, ink, aluminium powder & acrylic on canvas 170x200cm 2021, Soft Stars, raw pigment, ink & acrylic on canvas 152x137cm 2021 ",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "1h3PLdGjhRpaC6wsRaR0E3",
+              "type": "Entry",
+              "createdAt": "2022-04-26T16:10:52.411Z",
+              "updatedAt": "2022-04-26T16:10:52.411Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Sunlight is on my tongue",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "lNi17tWhPVxZFHixIqA2i",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T16:09:53.926Z",
+                  "updatedAt": "2022-04-26T16:09:53.926Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "sunlight is on my tongue",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/lNi17tWhPVxZFHixIqA2i/9a9332687bfc38a6f4cdb83811f10604/sunlight_is_on_my_tongue.jpg",
+                    "details": {
+                      "size": 590133,
+                      "image": {
+                        "width": 1546,
+                        "height": 1839
+                      }
+                    },
+                    "fileName": "sunlight is on my tongue.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "sunlight-is-on-my-tongue",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Raw pigment, ink & acrylic on canvas, 180x180cm 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "7y5EUCcRdjcblI8rNcpghx",
+              "type": "Entry",
+              "createdAt": "2022-04-26T16:43:53.403Z",
+              "updatedAt": "2022-04-26T16:43:53.403Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Studio shot summer ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "5HT7vEM3msmiOcDvKNNvz0",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T16:42:12.426Z",
+                  "updatedAt": "2022-04-26T16:42:12.426Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Sunlight is on my tongue",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/5HT7vEM3msmiOcDvKNNvz0/7b15d44b417de9544eb0e89791a56ccd/Screenshot_2022-04-26_at_17.41.01.png",
+                    "details": {
+                      "size": 2036450,
+                      "image": {
+                        "width": 984,
+                        "height": 1140
+                      }
+                    },
+                    "fileName": "Screenshot 2022-04-26 at 17.41.01.png",
+                    "contentType": "image/png"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "studio-shot-summer",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "2021 at the Royal College of Art",
                         "marks": [],
                         "data": {}
                       }
@@ -357,8 +1816,1541 @@
               }
             }
           }
-        ],
-        "name": "Painting List"
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "7y5EUCcRdjcblI8rNcpghx",
+        "type": "Entry",
+        "createdAt": "2022-04-26T16:43:53.403Z",
+        "updatedAt": "2022-04-26T16:43:53.403Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Studio shot summer ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "5HT7vEM3msmiOcDvKNNvz0",
+            "type": "Asset",
+            "createdAt": "2022-04-26T16:42:12.426Z",
+            "updatedAt": "2022-04-26T16:42:12.426Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Sunlight is on my tongue",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/5HT7vEM3msmiOcDvKNNvz0/7b15d44b417de9544eb0e89791a56ccd/Screenshot_2022-04-26_at_17.41.01.png",
+              "details": {
+                "size": 2036450,
+                "image": {
+                  "width": 984,
+                  "height": 1140
+                }
+              },
+              "fileName": "Screenshot 2022-04-26 at 17.41.01.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "studio-shot-summer",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2021 at the Royal College of Art",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "1h3PLdGjhRpaC6wsRaR0E3",
+        "type": "Entry",
+        "createdAt": "2022-04-26T16:10:52.411Z",
+        "updatedAt": "2022-04-26T16:10:52.411Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Sunlight is on my tongue",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "lNi17tWhPVxZFHixIqA2i",
+            "type": "Asset",
+            "createdAt": "2022-04-26T16:09:53.926Z",
+            "updatedAt": "2022-04-26T16:09:53.926Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "sunlight is on my tongue",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/lNi17tWhPVxZFHixIqA2i/9a9332687bfc38a6f4cdb83811f10604/sunlight_is_on_my_tongue.jpg",
+              "details": {
+                "size": 590133,
+                "image": {
+                  "width": 1546,
+                  "height": 1839
+                }
+              },
+              "fileName": "sunlight is on my tongue.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "sunlight-is-on-my-tongue",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas, 180x180cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "shqdhUxqD2dG1KR1WcI23",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:52:16.808Z",
+        "updatedAt": "2022-04-26T16:06:38.299Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "From left",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "4oaMhRpoMangZx1pGqwL0g",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:46:37.205Z",
+            "updatedAt": "2022-04-26T15:46:37.205Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "gallery shot (soft stars)",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/4oaMhRpoMangZx1pGqwL0g/69b50531fa79e6a11971e6c309d80efc/gallery_shot__soft_stars_.jpg",
+              "details": {
+                "size": 257849,
+                "image": {
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "fileName": "gallery shot (soft stars).jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "suns-machinery-ancient-creature-you-were-coated-in-star-guts-incandescent",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "The Sun's Machinery, raw pigment, ink & acrylic on canvas, 150x200cm 2021, Ancient Creature, raw pigment, ink & acrylic on canvas, 170x200cm 2021, You were coated in star guts, incandescent, raw pigment, ink, aluminium powder & acrylic on canvas 170x200cm 2021, Soft Stars, raw pigment, ink & acrylic on canvas 152x137cm 2021 ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "363nQtbHhhjBwiuyMUrwwj",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:42:26.999Z",
+        "updatedAt": "2022-04-26T15:42:26.999Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "The stage floor was every colour",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "3vQqpR8AGu2OPOTI89Ept2",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:41:26.854Z",
+            "updatedAt": "2022-04-26T15:41:26.854Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "The stage floor was every colour",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/3vQqpR8AGu2OPOTI89Ept2/965969f3a8195f0bf04004647e2e8e36/-The_stage_floor_was_every_colour-__oil__pigment__ink___acrylic_on_canvas_110x130cm_.JPG",
+              "details": {
+                "size": 2510436,
+                "image": {
+                  "width": 3325,
+                  "height": 3589
+                }
+              },
+              "fileName": "-The stage floor was every colour- (oil, pigment, ink & acrylic on canvas 110x130cm).JPG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "the-stage-floor-was-every-colour",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "2iZ3GGlfp1nBHdLj1bIUJQ",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:38:05.015Z",
+        "updatedAt": "2022-04-26T15:38:05.015Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "You were coated in star guts, incandescent ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "sUzZDj82E74KDyISK4QSD",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:36:45.873Z",
+            "updatedAt": "2022-04-26T15:36:45.873Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "You were coated in star guts, incandescent ",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/sUzZDj82E74KDyISK4QSD/f82419f9e15309f8690d3b0fbcf9c245/-You_were_coated_in_star_guts__incandescent-_170x200cm_ink__pigment__aluminium_powder___acrylic_on_canvas.2021JPG.JPG",
+              "details": {
+                "size": 2302074,
+                "image": {
+                  "width": 2810,
+                  "height": 3311
+                }
+              },
+              "fileName": "-You were coated in star guts, incandescent- 170x200cm ink, pigment, aluminium powder & acrylic on canvas.2021JPG.JPG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "you-were-coated-in-star-guts-incandescent",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink, acrylic, & aluminium powder on canvas 170x200cm 2021 ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "40m9fPJeXUKStjJX28zMYF",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:34:23.288Z",
+        "updatedAt": "2022-04-26T15:34:23.288Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "New painting ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "70sJru6aFSv2Aeruyl0W6a",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:33:38.827Z",
+            "updatedAt": "2022-04-26T15:33:38.827Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "new painting ",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/70sJru6aFSv2Aeruyl0W6a/6ef30f0fee45a96f0e3e632ca200a778/new_painting.jpg",
+              "details": {
+                "size": 5971604,
+                "image": {
+                  "width": 8256,
+                  "height": 6192
+                }
+              },
+              "fileName": "new painting.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "new-painting",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2022",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6WnULey2HEPpHRHG8m8bkD",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:28:34.466Z",
+        "updatedAt": "2022-04-26T15:28:34.466Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Flavus Kissing Rubeus",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "7AAvmBl9xW794pMUwFbJjz",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:27:58.599Z",
+            "updatedAt": "2022-04-26T15:27:58.599Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Flavus Kissing Rubeus",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/7AAvmBl9xW794pMUwFbJjz/dad4e0d7e2855a9e6a9dc95508c65c47/Flavus_Kissing_Rubeus.jpg",
+              "details": {
+                "size": 6013605,
+                "image": {
+                  "width": 8256,
+                  "height": 6192
+                }
+              },
+              "fileName": "Flavus Kissing Rubeus.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "flavus-kissing-rubeus",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 150x200cm 2022",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5RrflInr2GJ6ttp8a7EFDV",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:15:08.643Z",
+        "updatedAt": "2022-04-26T15:15:08.643Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "High C & G on the piano, flick",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "d3AgnF7v5f74TuolbS03A",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:14:14.043Z",
+            "updatedAt": "2022-04-26T15:14:14.043Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "High C & G on the piano, flick",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/d3AgnF7v5f74TuolbS03A/03cdc3142b48be888f15ac2691c0a84a/IMG_F3F859517935-1.jpeg",
+              "details": {
+                "size": 776924,
+                "image": {
+                  "width": 1242,
+                  "height": 1520
+                }
+              },
+              "fileName": "IMG_F3F859517935-1.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "high-c-and-g-on-the-piano-flick",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "gBTP7KpOLoBvZRzW11D1S",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:12:45.756Z",
+        "updatedAt": "2022-04-26T15:12:45.756Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Elphaba",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "nI6mKTwme1DmsoeYObk0Q",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:11:41.913Z",
+            "updatedAt": "2022-04-26T15:11:41.913Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Elphaba",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/nI6mKTwme1DmsoeYObk0Q/eec70288fdaf78b03977af8bb05bc1e3/IMG_C1C86D1D779B-1.jpeg",
+              "details": {
+                "size": 725357,
+                "image": {
+                  "width": 1242,
+                  "height": 1242
+                }
+              },
+              "fileName": "IMG_C1C86D1D779B-1.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "elphaba",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "4fgKjCdvKpTfMYL3YCQJMP",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:10:06.189Z",
+        "updatedAt": "2022-04-26T15:10:06.189Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Soft Stars",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "11wYx5troKIRdRmlrvcshY",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:05:20.819Z",
+            "updatedAt": "2022-04-26T15:05:20.819Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Soft Stars",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/11wYx5troKIRdRmlrvcshY/bd9f90bdf40423aef1861a54beec431a/IMG_B39E346C2639-1.jpeg",
+              "details": {
+                "size": 988192,
+                "image": {
+                  "width": 1116,
+                  "height": 1350
+                }
+              },
+              "fileName": "IMG_B39E346C2639-1.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "soft-stars",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 152x137cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5P18eyplSVUOjmnaXhq6RI",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:04:02.137Z",
+        "updatedAt": "2022-04-26T15:04:02.137Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Blueprint ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "5l78WaAQHAmyTZ0orPhKgN",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:03:09.317Z",
+            "updatedAt": "2022-04-26T15:03:09.317Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Blueprint",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/5l78WaAQHAmyTZ0orPhKgN/839ecd5738d938fa3d7bfeef0b3f98af/IMG_B145AE58F1C1-1.jpeg",
+              "details": {
+                "size": 822728,
+                "image": {
+                  "width": 1242,
+                  "height": 1362
+                }
+              },
+              "fileName": "IMG_B145AE58F1C1-1.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "blueprint",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 80x100cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6o9NwdDNYb8EeMTQgMPht3",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:00:58.640Z",
+        "updatedAt": "2022-04-26T15:00:58.640Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Float",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "7mm0mHmcbSsdMZ9XaVhOxF",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:00:08.189Z",
+            "updatedAt": "2022-04-26T15:00:08.189Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Float",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/7mm0mHmcbSsdMZ9XaVhOxF/5b3d99054c95bde17f859f5e1ab27bf5/Float.jpg",
+              "details": {
+                "size": 6134718,
+                "image": {
+                  "width": 8256,
+                  "height": 6192
+                }
+              },
+              "fileName": "Float.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "float",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2022",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5h0LsZcUsKw26lFqEGyyva",
+        "type": "Entry",
+        "createdAt": "2022-04-26T13:03:07.209Z",
+        "updatedAt": "2022-04-26T13:03:07.209Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Delicate Thuds ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "6lULTLQsiCpVoE0T2GbtRk",
+            "type": "Asset",
+            "createdAt": "2022-04-26T13:01:56.780Z",
+            "updatedAt": "2022-04-26T13:01:56.780Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Delicate Thuds",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/6lULTLQsiCpVoE0T2GbtRk/b95e4b95fdce203da81097b7b82e188e/IMG_9A9AF874EC0E-1.jpeg",
+              "details": {
+                "size": 999928,
+                "image": {
+                  "width": 1242,
+                  "height": 1083
+                }
+              },
+              "fileName": "IMG_9A9AF874EC0E-1.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "delicate-thuds",
+        "description": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2021",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "4A0Ww4VJk2SDosyWyEEDGh",
+        "type": "Entry",
+        "createdAt": "2022-04-26T12:53:13.290Z",
+        "updatedAt": "2022-04-26T12:53:13.290Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Slurred Punctuation ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "3S6p8xb5euMFFrKIxARi1d",
+            "type": "Asset",
+            "createdAt": "2022-04-26T12:52:40.738Z",
+            "updatedAt": "2022-04-26T12:52:40.738Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Slurred Punctuation ",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/3S6p8xb5euMFFrKIxARi1d/f973600fc48b359a9f1f13fe84ce5b42/Cecilia___Emma_S.J.0018.jpg",
+              "details": {
+                "size": 5711726,
+                "image": {
+                  "width": 8256,
+                  "height": 6192
+                }
+              },
+              "fileName": "Cecilia & Emma S.J.0018.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "slurred-punctuation",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, acrylic & ink on canvas 170x200cm 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "4ZbDQaMI8MGUzVIJu8IkPv",
+        "type": "Entry",
+        "createdAt": "2022-03-17T23:01:04.359Z",
+        "updatedAt": "2022-04-26T10:07:53.328Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "aboutPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "What would it be like to walk through a museum of melted paintings? Their colours seeping over the floor. Juice dripping and split. The marks; slurred punctuation. The residue forms gullies and small pools/worlds. The floor would be an ocean, a world lung. How obscene. What an adventure. (Words Inspired by the poet Anne Carson.) ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "I’m ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "colour ",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "coding; an archaeological forensic investigation into my own psyche. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "My studio practice is chancy, it includes an investigation into pigments, what is colour, constructing new brushes and writing. The brushes I make look like my childhood birthday cakes. I like a mark to appear as if out of nowhere like on an old blurry 90s TV screen. I like to work on a large scale, I want them to be larger than me. They are oversized letters, they are billboards, they are satellites. Hunting. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Paintings are vessels for the artists’ inner worlds, the canvas a flickering light display. Painting is a living breathing thing, it makes me feel connected to something greater. Creating transcends the banal and the boredom. A ritual, a dance. I’m not interested in painting anything too representational; because when form is missing all that is le is the sensation of presence and the colour and texture of memory. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     {
@@ -459,168 +3451,6 @@
                   "data": {}
                 }
               ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "4ZbDQaMI8MGUzVIJu8IkPv",
-        "type": "Entry",
-        "createdAt": "2022-03-17T23:01:04.359Z",
-        "updatedAt": "2022-04-03T21:30:59.573Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "aboutPage"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "content": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Emma graduated in 2004 from Chelsea College of Art with a BA (first) in printed textile design. She has exhibited nationally and internationally. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Emma was one of three winners for the Habitat Brighton art competition 2019. Her painting \"Dust\" will be available to buy on a cushion in the Brighton Habitat store and online, Autumn 2020.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Her paintings \"Untitled Blue\" and \"Smashed Plate\" are also featured in George Clarke's Old House, New Home on Channel 4, Sunday 2nd February.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Emma is elated to be commencing a Painting MA at the Royal College of Art, 2020.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "As a child, I drew mainly cats, mostly mine; grey fur, green eyes, pink paw pads. My brother made a golden brick wall out of empty Benson & Hedges boxes. We played Star Wars together. Darth Vader tea parties. My Nanna collected interesting sweet wrappers and foils for me to collage with. Her walls were covered in souvenier spoons. Her kitchen cupboards were always filled with cherry aid, neon red/pink, fermenting sugar, wickedly sweet smelling.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "I wore pink to my brother's funeral.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Images flash before me, flickering through me to arrive onto canvas. A ritual, a way to breathe, to be human. At art school, I printed a life-size pink Darth Vader onto the front of a silk dress. I still wear it sometimes.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Mini splashes of paint; mini defibrillators. A fully loaded brush; applying paint to canvas; making marks. Watching paint sink and sit and slide and run is so pleasurable. I like to see what paint will do, telling me what the canvas needs. It is a living, breathing thing. It makes me feel connected to something greater. Creating transcends the banal, the pain, the boredom.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "A ritual, a dance, a way of speaking and composing my thoughts. The unspoken memories are too embedded to be written down. Language does not fit a feeling so fleeting.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
-            },
-            {
-              "nodeType": "paragraph",
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "I question the language of colour, I attempt to paint the texture of memory.",
-                  "marks": [],
-                  "data": {}
-                }
-              ],
-              "data": {}
             }
           ]
         }
@@ -780,7 +3610,7 @@
             "id": "6JurvFqY6MMmJlFBZwyceB",
             "type": "Asset",
             "createdAt": "2022-04-02T10:16:18.875Z",
-            "updatedAt": "2022-04-02T10:16:18.875Z",
+            "updatedAt": "2022-04-26T12:55:02.270Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -788,22 +3618,22 @@
                 "linkType": "Environment"
               }
             },
-            "revision": 1,
+            "revision": 2,
             "locale": "en-US"
           },
           "fields": {
             "title": "bang-bang-gustav",
             "description": "",
             "file": {
-              "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+              "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/dec4af733159123870e72f1ffc496518/IMG_0710_2.jpg",
               "details": {
-                "size": 146392,
+                "size": 3555491,
                 "image": {
-                  "width": 1276,
-                  "height": 1509
+                  "width": 3024,
+                  "height": 4032
                 }
               },
-              "fileName": "bang-bang-gustav.jpeg",
+              "fileName": "IMG_0710 2.jpg",
               "contentType": "image/jpeg"
             }
           }
@@ -870,21 +3700,180 @@
       }
     }
   ],
-  "errors": [
-    {
-      "sys": {
-        "id": "notResolvable",
-        "type": "error"
-      },
-      "details": {
-        "type": "Link",
-        "linkType": "Entry",
-        "id": "5h0LsZcUsKw26lFqEGyyva"
-      }
-    }
-  ],
   "includes": {
     "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "11wYx5troKIRdRmlrvcshY",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:05:20.819Z",
+          "updatedAt": "2022-04-26T15:05:20.819Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Soft Stars",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/11wYx5troKIRdRmlrvcshY/bd9f90bdf40423aef1861a54beec431a/IMG_B39E346C2639-1.jpeg",
+            "details": {
+              "size": 988192,
+              "image": {
+                "width": 1116,
+                "height": 1350
+              }
+            },
+            "fileName": "IMG_B39E346C2639-1.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "3S6p8xb5euMFFrKIxARi1d",
+          "type": "Asset",
+          "createdAt": "2022-04-26T12:52:40.738Z",
+          "updatedAt": "2022-04-26T12:52:40.738Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Slurred Punctuation ",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/3S6p8xb5euMFFrKIxARi1d/f973600fc48b359a9f1f13fe84ce5b42/Cecilia___Emma_S.J.0018.jpg",
+            "details": {
+              "size": 5711726,
+              "image": {
+                "width": 8256,
+                "height": 6192
+              }
+            },
+            "fileName": "Cecilia & Emma S.J.0018.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "3vQqpR8AGu2OPOTI89Ept2",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:41:26.854Z",
+          "updatedAt": "2022-04-26T15:41:26.854Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "The stage floor was every colour",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/3vQqpR8AGu2OPOTI89Ept2/965969f3a8195f0bf04004647e2e8e36/-The_stage_floor_was_every_colour-__oil__pigment__ink___acrylic_on_canvas_110x130cm_.JPG",
+            "details": {
+              "size": 2510436,
+              "image": {
+                "width": 3325,
+                "height": 3589
+              }
+            },
+            "fileName": "-The stage floor was every colour- (oil, pigment, ink & acrylic on canvas 110x130cm).JPG",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "4oaMhRpoMangZx1pGqwL0g",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:46:37.205Z",
+          "updatedAt": "2022-04-26T15:46:37.205Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "gallery shot (soft stars)",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/4oaMhRpoMangZx1pGqwL0g/69b50531fa79e6a11971e6c309d80efc/gallery_shot__soft_stars_.jpg",
+            "details": {
+              "size": 257849,
+              "image": {
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "fileName": "gallery shot (soft stars).jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
       {
         "metadata": {
           "tags": []
@@ -940,10 +3929,10 @@
               "id": "id3oixfnm9vo"
             }
           },
-          "id": "6JurvFqY6MMmJlFBZwyceB",
+          "id": "5HT7vEM3msmiOcDvKNNvz0",
           "type": "Asset",
-          "createdAt": "2022-04-02T10:16:18.875Z",
-          "updatedAt": "2022-04-02T10:16:18.875Z",
+          "createdAt": "2022-04-26T16:42:12.426Z",
+          "updatedAt": "2022-04-26T16:42:12.426Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -955,18 +3944,276 @@
           "locale": "en-US"
         },
         "fields": {
+          "title": "Sunlight is on my tongue",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/5HT7vEM3msmiOcDvKNNvz0/7b15d44b417de9544eb0e89791a56ccd/Screenshot_2022-04-26_at_17.41.01.png",
+            "details": {
+              "size": 2036450,
+              "image": {
+                "width": 984,
+                "height": 1140
+              }
+            },
+            "fileName": "Screenshot 2022-04-26 at 17.41.01.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "5l78WaAQHAmyTZ0orPhKgN",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:03:09.317Z",
+          "updatedAt": "2022-04-26T15:03:09.317Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Blueprint",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/5l78WaAQHAmyTZ0orPhKgN/839ecd5738d938fa3d7bfeef0b3f98af/IMG_B145AE58F1C1-1.jpeg",
+            "details": {
+              "size": 822728,
+              "image": {
+                "width": 1242,
+                "height": 1362
+              }
+            },
+            "fileName": "IMG_B145AE58F1C1-1.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "6JurvFqY6MMmJlFBZwyceB",
+          "type": "Asset",
+          "createdAt": "2022-04-02T10:16:18.875Z",
+          "updatedAt": "2022-04-26T12:55:02.270Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "locale": "en-US"
+        },
+        "fields": {
           "title": "bang-bang-gustav",
           "description": "",
           "file": {
-            "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/4e3fb6b13f1b270e9bdeb257ca87c3f3/bang-bang-gustav.jpeg",
+            "url": "//images.ctfassets.net/id3oixfnm9vo/6JurvFqY6MMmJlFBZwyceB/dec4af733159123870e72f1ffc496518/IMG_0710_2.jpg",
             "details": {
-              "size": 146392,
+              "size": 3555491,
               "image": {
-                "width": 1276,
-                "height": 1509
+                "width": 3024,
+                "height": 4032
               }
             },
-            "fileName": "bang-bang-gustav.jpeg",
+            "fileName": "IMG_0710 2.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "6lULTLQsiCpVoE0T2GbtRk",
+          "type": "Asset",
+          "createdAt": "2022-04-26T13:01:56.780Z",
+          "updatedAt": "2022-04-26T13:01:56.780Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Delicate Thuds",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/6lULTLQsiCpVoE0T2GbtRk/b95e4b95fdce203da81097b7b82e188e/IMG_9A9AF874EC0E-1.jpeg",
+            "details": {
+              "size": 999928,
+              "image": {
+                "width": 1242,
+                "height": 1083
+              }
+            },
+            "fileName": "IMG_9A9AF874EC0E-1.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "70sJru6aFSv2Aeruyl0W6a",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:33:38.827Z",
+          "updatedAt": "2022-04-26T15:33:38.827Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "new painting ",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/70sJru6aFSv2Aeruyl0W6a/6ef30f0fee45a96f0e3e632ca200a778/new_painting.jpg",
+            "details": {
+              "size": 5971604,
+              "image": {
+                "width": 8256,
+                "height": 6192
+              }
+            },
+            "fileName": "new painting.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "7AAvmBl9xW794pMUwFbJjz",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:27:58.599Z",
+          "updatedAt": "2022-04-26T15:27:58.599Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Flavus Kissing Rubeus",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/7AAvmBl9xW794pMUwFbJjz/dad4e0d7e2855a9e6a9dc95508c65c47/Flavus_Kissing_Rubeus.jpg",
+            "details": {
+              "size": 6013605,
+              "image": {
+                "width": 8256,
+                "height": 6192
+              }
+            },
+            "fileName": "Flavus Kissing Rubeus.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "7mm0mHmcbSsdMZ9XaVhOxF",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:00:08.189Z",
+          "updatedAt": "2022-04-26T15:00:08.189Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Float",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/7mm0mHmcbSsdMZ9XaVhOxF/5b3d99054c95bde17f859f5e1ab27bf5/Float.jpg",
+            "details": {
+              "size": 6134718,
+              "image": {
+                "width": 8256,
+                "height": 6192
+              }
+            },
+            "fileName": "Float.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -1010,6 +4257,178 @@
               }
             },
             "fileName": "kissed-into-translucence.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "d3AgnF7v5f74TuolbS03A",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:14:14.043Z",
+          "updatedAt": "2022-04-26T15:14:14.043Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "High C & G on the piano, flick",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/d3AgnF7v5f74TuolbS03A/03cdc3142b48be888f15ac2691c0a84a/IMG_F3F859517935-1.jpeg",
+            "details": {
+              "size": 776924,
+              "image": {
+                "width": 1242,
+                "height": 1520
+              }
+            },
+            "fileName": "IMG_F3F859517935-1.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "lNi17tWhPVxZFHixIqA2i",
+          "type": "Asset",
+          "createdAt": "2022-04-26T16:09:53.926Z",
+          "updatedAt": "2022-04-26T16:09:53.926Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "sunlight is on my tongue",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/lNi17tWhPVxZFHixIqA2i/9a9332687bfc38a6f4cdb83811f10604/sunlight_is_on_my_tongue.jpg",
+            "details": {
+              "size": 590133,
+              "image": {
+                "width": 1546,
+                "height": 1839
+              }
+            },
+            "fileName": "sunlight is on my tongue.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "nI6mKTwme1DmsoeYObk0Q",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:11:41.913Z",
+          "updatedAt": "2022-04-26T15:11:41.913Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Elphaba",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/nI6mKTwme1DmsoeYObk0Q/eec70288fdaf78b03977af8bb05bc1e3/IMG_C1C86D1D779B-1.jpeg",
+            "details": {
+              "size": 725357,
+              "image": {
+                "width": 1242,
+                "height": 1242
+              }
+            },
+            "fileName": "IMG_C1C86D1D779B-1.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "sUzZDj82E74KDyISK4QSD",
+          "type": "Asset",
+          "createdAt": "2022-04-26T15:36:45.873Z",
+          "updatedAt": "2022-04-26T15:36:45.873Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "You were coated in star guts, incandescent ",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/sUzZDj82E74KDyISK4QSD/f82419f9e15309f8690d3b0fbcf9c245/-You_were_coated_in_star_guts__incandescent-_170x200cm_ink__pigment__aluminium_powder___acrylic_on_canvas.2021JPG.JPG",
+            "details": {
+              "size": 2302074,
+              "image": {
+                "width": 2810,
+                "height": 3311
+              }
+            },
+            "fileName": "-You were coated in star guts, incandescent- 170x200cm ink, pigment, aluminium powder & acrylic on canvas.2021JPG.JPG",
             "contentType": "image/jpeg"
           }
         }
