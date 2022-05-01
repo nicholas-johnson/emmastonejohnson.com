@@ -2,7 +2,7 @@
 import { useMemo } from 'react'
 import content from '../public/content.json'
 
-export const usePaintings = () => useMemo(
+export const usePaintings = (listId: number) => useMemo(
     () => {
         const paintingList = content
             .items
@@ -12,7 +12,7 @@ export const usePaintings = () => useMemo(
 
         if (!paintingList[0]) return [];
 
-        const paintings = paintingList[0]?.fields?.painting;
+        const paintings = paintingList[listId]?.fields?.painting;
 
         if (!paintings) return [];
 
