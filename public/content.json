@@ -2,10 +2,48 @@
   "sys": {
     "type": "Array"
   },
-  "total": 24,
+  "total": 25,
   "skip": 0,
   "limit": 100,
   "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6isEO4PBDXacIWIatzWC5v",
+        "type": "Entry",
+        "createdAt": "2022-05-01T10:53:22.089Z",
+        "updatedAt": "2022-05-01T10:53:22.089Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "contentPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "CV",
+        "permalink": "cv"
+      }
+    },
     {
       "metadata": {
         "tags": []
