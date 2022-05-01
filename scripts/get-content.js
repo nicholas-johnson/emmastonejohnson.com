@@ -56,7 +56,7 @@ client
         fs.writeFileSync(filePath, JSON.stringify(data, null, 2))
         return data;
     })
-    .then(data => {
-        downloadImages(data)
-    })
+    // .then(data => {
+    //     downloadImages(data)
+    // })
     .catch(err => console.log(err));
