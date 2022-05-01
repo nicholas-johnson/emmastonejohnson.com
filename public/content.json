@@ -2,7 +2,7 @@
   "sys": {
     "type": "Array"
   },
-  "total": 21,
+  "total": 24,
   "skip": 0,
   "limit": 100,
   "items": [
@@ -18,10 +18,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "13e6pmE2KqTEmMySiEDrYl",
+        "id": "7LuYPUTLqOxcYuyIRUWZkH",
         "type": "Entry",
-        "createdAt": "2022-05-01T07:32:50.864Z",
-        "updatedAt": "2022-05-01T07:32:50.864Z",
+        "createdAt": "2022-05-01T10:31:30.914Z",
+        "updatedAt": "2022-05-01T10:31:30.914Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -34,13 +34,222 @@
           "sys": {
             "type": "Link",
             "linkType": "ContentType",
+            "id": "contentPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Interviews",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "https://www.paolita.co.uk/2021/10/artist-focus-emma-stone-johnson/"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Interview with Paolita, London",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Paolita, is a British premium swim and resort wear brand, based in London and founded in 2010 by Anna Paola.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "permalink": "interviews"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6kteuYRSCTl5B8QcWVy0W3",
+        "type": "Entry",
+        "createdAt": "2022-05-01T10:30:47.285Z",
+        "updatedAt": "2022-05-01T10:30:47.285Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "contentPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "About",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "What would it be like to walk through a museum of melted paintings? Their colours seeping over the floor. Juice dripping and split. The marks; slurred punctuation. The residue forms gullies and small pools/worlds. The floor would be an ocean, a world lung. How obscene. What an adventure. (Words Inspired by the poet Anne Carson.) ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "As a child I drew cats, mostly mine; green eyes, pink paw pads, grey fur - a grey so complex, a colour that contained all colours. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "I’m ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "colour ",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "coding; an archaeological forensic investigation into my own psyche. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "My studio practice is chancy, it includes an investigation into pigments, what is colour, constructing new brushes and writing. The brushes I make look like my childhood birthday cakes. I like a mark to appear as if out of nowhere like on an old blurry 90s TV screen. I like to work on a large scale, I want them to be larger than me. They are oversized letters, they are billboards, they are satellites. Hunting. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Paintings are vessels for the artists’ inner worlds, the canvas a flickering light display. Painting is a living breathing thing, it makes me feel connected to something greater. Creating transcends the banal and the boredom. A ritual, a dance. I’m not interested in painting anything too representational; because when form is missing all that is left is the sensation of presence and the colour and texture of memory. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "permalink": "about"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "13e6pmE2KqTEmMySiEDrYl",
+        "type": "Entry",
+        "createdAt": "2022-05-01T07:32:50.864Z",
+        "updatedAt": "2022-05-01T10:04:23.314Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
             "id": "paintings"
           }
         },
         "locale": "en-US"
       },
       "fields": {
-        "name": "List of other images"
+        "name": "List of other images",
+        "permalink": "other_images"
       }
     },
     {
@@ -58,7 +267,7 @@
         "id": "5meF9OfmTzMtWXXwwzxsv8",
         "type": "Entry",
         "createdAt": "2022-03-17T12:23:45.134Z",
-        "updatedAt": "2022-05-01T07:31:57.191Z",
+        "updatedAt": "2022-05-01T10:03:04.164Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -66,7 +275,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 11,
+        "revision": 14,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -275,6 +484,108 @@
                       {
                         "nodeType": "text",
                         "value": "Raw pigment, ink & acrylic on canvas 150x200cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "JnM0scSReCa2X7WGIn26O",
+              "type": "Entry",
+              "createdAt": "2022-05-01T09:42:44.044Z",
+              "updatedAt": "2022-05-01T09:43:15.297Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 2,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Royal College of Art Studio Shot ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "56EQKR8ZCIvVanvVVEZ3Jq",
+                  "type": "Asset",
+                  "createdAt": "2022-05-01T09:40:52.547Z",
+                  "updatedAt": "2022-05-01T09:40:52.547Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "rca studio shot",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/56EQKR8ZCIvVanvVVEZ3Jq/93c69118368c3ff868815201afc32454/rca_studio_shot.jpg",
+                    "details": {
+                      "size": 5062856,
+                      "image": {
+                        "width": 2449,
+                        "height": 3951
+                      }
+                    },
+                    "fileName": "rca studio shot.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "royal-college-of-art-studio-shot",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "April 2022",
                         "marks": [],
                         "data": {}
                       }
@@ -589,108 +900,6 @@
                     ]
                   }
                 ]
-              }
-            }
-          },
-          {
-            "metadata": {
-              "tags": []
-            },
-            "sys": {
-              "space": {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "Space",
-                  "id": "id3oixfnm9vo"
-                }
-              },
-              "id": "5h0LsZcUsKw26lFqEGyyva",
-              "type": "Entry",
-              "createdAt": "2022-04-26T13:03:07.209Z",
-              "updatedAt": "2022-04-26T13:03:07.209Z",
-              "environment": {
-                "sys": {
-                  "id": "master",
-                  "type": "Link",
-                  "linkType": "Environment"
-                }
-              },
-              "revision": 1,
-              "contentType": {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "ContentType",
-                  "id": "painting"
-                }
-              },
-              "locale": "en-US"
-            },
-            "fields": {
-              "name": "Delicate Thuds ",
-              "price": 1000,
-              "image": {
-                "metadata": {
-                  "tags": []
-                },
-                "sys": {
-                  "space": {
-                    "sys": {
-                      "type": "Link",
-                      "linkType": "Space",
-                      "id": "id3oixfnm9vo"
-                    }
-                  },
-                  "id": "6lULTLQsiCpVoE0T2GbtRk",
-                  "type": "Asset",
-                  "createdAt": "2022-04-26T13:01:56.780Z",
-                  "updatedAt": "2022-04-26T13:01:56.780Z",
-                  "environment": {
-                    "sys": {
-                      "id": "master",
-                      "type": "Link",
-                      "linkType": "Environment"
-                    }
-                  },
-                  "revision": 1,
-                  "locale": "en-US"
-                },
-                "fields": {
-                  "title": "Delicate Thuds",
-                  "description": "",
-                  "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/6lULTLQsiCpVoE0T2GbtRk/b95e4b95fdce203da81097b7b82e188e/IMG_9A9AF874EC0E-1.jpeg",
-                    "details": {
-                      "size": 999928,
-                      "image": {
-                        "width": 1242,
-                        "height": 1083
-                      }
-                    },
-                    "fileName": "IMG_9A9AF874EC0E-1.jpeg",
-                    "contentType": "image/jpeg"
-                  }
-                }
-              },
-              "sold": true,
-              "visible": true,
-              "permalink": "delicate-thuds",
-              "description": {
-                "data": {},
-                "content": [
-                  {
-                    "data": {},
-                    "content": [
-                      {
-                        "data": {},
-                        "marks": [],
-                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2021",
-                        "nodeType": "text"
-                      }
-                    ],
-                    "nodeType": "paragraph"
-                  }
-                ],
-                "nodeType": "document"
               }
             }
           },
@@ -1216,10 +1425,10 @@
                   "id": "id3oixfnm9vo"
                 }
               },
-              "id": "40m9fPJeXUKStjJX28zMYF",
+              "id": "3kG8MyJGzxPeDeTWZPtwGE",
               "type": "Entry",
-              "createdAt": "2022-04-26T15:34:23.288Z",
-              "updatedAt": "2022-04-26T15:34:23.288Z",
+              "createdAt": "2022-05-01T09:36:01.966Z",
+              "updatedAt": "2022-05-01T09:36:01.966Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -1238,7 +1447,7 @@
               "locale": "en-US"
             },
             "fields": {
-              "name": "New painting ",
+              "name": "Ancient Creature (left) You were coated in star guts, incandescent (right)",
               "price": 1000,
               "image": {
                 "metadata": {
@@ -1252,10 +1461,10 @@
                       "id": "id3oixfnm9vo"
                     }
                   },
-                  "id": "70sJru6aFSv2Aeruyl0W6a",
+                  "id": "7HOwevSkF9IFRAyHXRVbGl",
                   "type": "Asset",
-                  "createdAt": "2022-04-26T15:33:38.827Z",
-                  "updatedAt": "2022-04-26T15:33:38.827Z",
+                  "createdAt": "2022-05-01T09:33:31.229Z",
+                  "updatedAt": "2022-05-01T09:33:31.229Z",
                   "environment": {
                     "sys": {
                       "id": "master",
@@ -1267,25 +1476,25 @@
                   "locale": "en-US"
                 },
                 "fields": {
-                  "title": "new painting ",
+                  "title": "ancient creature + suns machinery",
                   "description": "",
                   "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/70sJru6aFSv2Aeruyl0W6a/6ef30f0fee45a96f0e3e632ca200a778/new_painting.jpg",
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/7HOwevSkF9IFRAyHXRVbGl/2fae9361a3495d3de0024fc4075b62d0/ancient_creature___suns_machinery.jpg",
                     "details": {
-                      "size": 5971604,
+                      "size": 245455,
                       "image": {
-                        "width": 8256,
-                        "height": 6192
+                        "width": 1280,
+                        "height": 720
                       }
                     },
-                    "fileName": "new painting.jpg",
+                    "fileName": "ancient creature + suns machinery.jpg",
                     "contentType": "image/jpeg"
                   }
                 }
               },
               "sold": true,
               "visible": true,
-              "permalink": "new-painting",
+              "permalink": "ancient-creature-left-you-were-coated-in-star-guts-incandescent-right",
               "description": {
                 "nodeType": "document",
                 "data": {},
@@ -1296,7 +1505,7 @@
                     "content": [
                       {
                         "nodeType": "text",
-                        "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2022",
+                        "value": "Raw pigment, acrylic, ink & aluminium powder on canvas 170x200cm 2021",
                         "marks": [],
                         "data": {}
                       }
@@ -1304,6 +1513,115 @@
                   }
                 ]
               }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "5h0LsZcUsKw26lFqEGyyva",
+              "type": "Entry",
+              "createdAt": "2022-04-26T13:03:07.209Z",
+              "updatedAt": "2022-04-26T13:03:07.209Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Delicate Thuds ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "6lULTLQsiCpVoE0T2GbtRk",
+                  "type": "Asset",
+                  "createdAt": "2022-04-26T13:01:56.780Z",
+                  "updatedAt": "2022-04-26T13:01:56.780Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Delicate Thuds",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/6lULTLQsiCpVoE0T2GbtRk/b95e4b95fdce203da81097b7b82e188e/IMG_9A9AF874EC0E-1.jpeg",
+                    "details": {
+                      "size": 999928,
+                      "image": {
+                        "width": 1242,
+                        "height": 1083
+                      }
+                    },
+                    "fileName": "IMG_9A9AF874EC0E-1.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "delicate-thuds",
+              "description": {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "marks": [],
+                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2021",
+                        "nodeType": "text"
+                      }
+                    ],
+                    "nodeType": "paragraph"
+                  }
+                ],
+                "nodeType": "document"
+              }
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "40m9fPJeXUKStjJX28zMYF"
             }
           },
           {
@@ -1729,7 +2047,7 @@
               "id": "7y5EUCcRdjcblI8rNcpghx",
               "type": "Entry",
               "createdAt": "2022-04-26T16:43:53.403Z",
-              "updatedAt": "2022-04-26T16:43:53.403Z",
+              "updatedAt": "2022-05-01T09:46:05.759Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -1737,7 +2055,7 @@
                   "linkType": "Environment"
                 }
               },
-              "revision": 1,
+              "revision": 2,
               "contentType": {
                 "sys": {
                   "type": "Link",
@@ -1748,7 +2066,7 @@
               "locale": "en-US"
             },
             "fields": {
-              "name": "Studio shot summer ",
+              "name": "RCA Studio Shot ",
               "price": 1000,
               "image": {
                 "metadata": {
@@ -1797,6 +2115,108 @@
               "visible": true,
               "permalink": "studio-shot-summer",
               "description": {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "marks": [],
+                        "value": "Royal College of Art, June 2021",
+                        "nodeType": "text"
+                      }
+                    ],
+                    "nodeType": "paragraph"
+                  }
+                ],
+                "nodeType": "document"
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "7dptZufwp9BPbPNEGETM5E",
+              "type": "Entry",
+              "createdAt": "2022-05-01T09:48:17.221Z",
+              "updatedAt": "2022-05-01T09:48:17.221Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Apec, Hove ",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "4R2zOVSdwWpC6zOu6XCVf",
+                  "type": "Asset",
+                  "createdAt": "2022-05-01T09:47:36.472Z",
+                  "updatedAt": "2022-05-01T09:47:36.472Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Apec Studio Shot",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/4R2zOVSdwWpC6zOu6XCVf/9a571dcf27da7a2e4ad42f72647c153b/Hove_Studio_shot.jpg",
+                    "details": {
+                      "size": 7481258,
+                      "image": {
+                        "width": 3024,
+                        "height": 4032
+                      }
+                    },
+                    "fileName": "Hove Studio shot.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "apec-hove",
+              "description": {
                 "nodeType": "document",
                 "data": {},
                 "content": [
@@ -1806,7 +2226,7 @@
                     "content": [
                       {
                         "nodeType": "text",
-                        "value": "2021 at the Royal College of Art",
+                        "value": "Studio shot, September 2021",
                         "marks": [],
                         "data": {}
                       }
@@ -1816,7 +2236,8 @@
               }
             }
           }
-        ]
+        ],
+        "permalink": "paintings"
       }
     },
     {
@@ -1831,10 +2252,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "7y5EUCcRdjcblI8rNcpghx",
+        "id": "7dptZufwp9BPbPNEGETM5E",
         "type": "Entry",
-        "createdAt": "2022-04-26T16:43:53.403Z",
-        "updatedAt": "2022-04-26T16:43:53.403Z",
+        "createdAt": "2022-05-01T09:48:17.221Z",
+        "updatedAt": "2022-05-01T09:48:17.221Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1853,7 +2274,109 @@
         "locale": "en-US"
       },
       "fields": {
-        "name": "Studio shot summer ",
+        "name": "Apec, Hove ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "4R2zOVSdwWpC6zOu6XCVf",
+            "type": "Asset",
+            "createdAt": "2022-05-01T09:47:36.472Z",
+            "updatedAt": "2022-05-01T09:47:36.472Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Apec Studio Shot",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/4R2zOVSdwWpC6zOu6XCVf/9a571dcf27da7a2e4ad42f72647c153b/Hove_Studio_shot.jpg",
+              "details": {
+                "size": 7481258,
+                "image": {
+                  "width": 3024,
+                  "height": 4032
+                }
+              },
+              "fileName": "Hove Studio shot.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "apec-hove",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Studio shot, September 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "7y5EUCcRdjcblI8rNcpghx",
+        "type": "Entry",
+        "createdAt": "2022-04-26T16:43:53.403Z",
+        "updatedAt": "2022-05-01T09:46:05.759Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "RCA Studio Shot ",
         "price": 1000,
         "image": {
           "metadata": {
@@ -1902,6 +2425,108 @@
         "visible": true,
         "permalink": "studio-shot-summer",
         "description": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Royal College of Art, June 2021",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "JnM0scSReCa2X7WGIn26O",
+        "type": "Entry",
+        "createdAt": "2022-05-01T09:42:44.044Z",
+        "updatedAt": "2022-05-01T09:43:15.297Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Royal College of Art Studio Shot ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "56EQKR8ZCIvVanvVVEZ3Jq",
+            "type": "Asset",
+            "createdAt": "2022-05-01T09:40:52.547Z",
+            "updatedAt": "2022-05-01T09:40:52.547Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "rca studio shot",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/56EQKR8ZCIvVanvVVEZ3Jq/93c69118368c3ff868815201afc32454/rca_studio_shot.jpg",
+              "details": {
+                "size": 5062856,
+                "image": {
+                  "width": 2449,
+                  "height": 3951
+                }
+              },
+              "fileName": "rca studio shot.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "royal-college-of-art-studio-shot",
+        "description": {
           "nodeType": "document",
           "data": {},
           "content": [
@@ -1911,7 +2536,109 @@
               "content": [
                 {
                   "nodeType": "text",
-                  "value": "2021 at the Royal College of Art",
+                  "value": "April 2022",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "3kG8MyJGzxPeDeTWZPtwGE",
+        "type": "Entry",
+        "createdAt": "2022-05-01T09:36:01.966Z",
+        "updatedAt": "2022-05-01T09:36:01.966Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Ancient Creature (left) You were coated in star guts, incandescent (right)",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "7HOwevSkF9IFRAyHXRVbGl",
+            "type": "Asset",
+            "createdAt": "2022-05-01T09:33:31.229Z",
+            "updatedAt": "2022-05-01T09:33:31.229Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "ancient creature + suns machinery",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/7HOwevSkF9IFRAyHXRVbGl/2fae9361a3495d3de0024fc4075b62d0/ancient_creature___suns_machinery.jpg",
+              "details": {
+                "size": 245455,
+                "image": {
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "fileName": "ancient creature + suns machinery.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "ancient-creature-left-you-were-coated-in-star-guts-incandescent-right",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, acrylic, ink & aluminium powder on canvas 170x200cm 2021",
                   "marks": [],
                   "data": {}
                 }
@@ -2320,108 +3047,6 @@
                 {
                   "nodeType": "text",
                   "value": "Raw pigment, ink, acrylic, & aluminium powder on canvas 170x200cm 2021 ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "40m9fPJeXUKStjJX28zMYF",
-        "type": "Entry",
-        "createdAt": "2022-04-26T15:34:23.288Z",
-        "updatedAt": "2022-04-26T15:34:23.288Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "painting"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "New painting ",
-        "price": 1000,
-        "image": {
-          "metadata": {
-            "tags": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "id3oixfnm9vo"
-              }
-            },
-            "id": "70sJru6aFSv2Aeruyl0W6a",
-            "type": "Asset",
-            "createdAt": "2022-04-26T15:33:38.827Z",
-            "updatedAt": "2022-04-26T15:33:38.827Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "new painting ",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/id3oixfnm9vo/70sJru6aFSv2Aeruyl0W6a/6ef30f0fee45a96f0e3e632ca200a778/new_painting.jpg",
-              "details": {
-                "size": 5971604,
-                "image": {
-                  "width": 8256,
-                  "height": 6192
-                }
-              },
-              "fileName": "new painting.jpg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        "sold": true,
-        "visible": true,
-        "permalink": "new-painting",
-        "description": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Raw pigment, ink & acrylic on canvas 170x200cm 2022",
                   "marks": [],
                   "data": {}
                 }
@@ -3259,112 +3884,6 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "4ZbDQaMI8MGUzVIJu8IkPv",
-        "type": "Entry",
-        "createdAt": "2022-03-17T23:01:04.359Z",
-        "updatedAt": "2022-04-26T10:07:53.328Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 4,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "aboutPage"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "content": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "What would it be like to walk through a museum of melted paintings? Their colours seeping over the floor. Juice dripping and split. The marks; slurred punctuation. The residue forms gullies and small pools/worlds. The floor would be an ocean, a world lung. How obscene. What an adventure. (Words Inspired by the poet Anne Carson.) ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "I’m ",
-                  "marks": [],
-                  "data": {}
-                },
-                {
-                  "nodeType": "text",
-                  "value": "colour ",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "data": {}
-                },
-                {
-                  "nodeType": "text",
-                  "value": "coding; an archaeological forensic investigation into my own psyche. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "My studio practice is chancy, it includes an investigation into pigments, what is colour, constructing new brushes and writing. The brushes I make look like my childhood birthday cakes. I like a mark to appear as if out of nowhere like on an old blurry 90s TV screen. I like to work on a large scale, I want them to be larger than me. They are oversized letters, they are billboards, they are satellites. Hunting. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Paintings are vessels for the artists’ inner worlds, the canvas a flickering light display. Painting is a living breathing thing, it makes me feel connected to something greater. Creating transcends the banal and the boredom. A ritual, a dance. I’m not interested in painting anything too representational; because when form is missing all that is le is the sensation of presence and the colour and texture of memory. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
         "id": "38fvzKUORNO6u3jMJbLJOt",
         "type": "Entry",
         "createdAt": "2022-04-20T10:51:20.874Z",
@@ -3700,6 +4219,19 @@
       }
     }
   ],
+  "errors": [
+    {
+      "sys": {
+        "id": "notResolvable",
+        "type": "error"
+      },
+      "details": {
+        "type": "Link",
+        "linkType": "Entry",
+        "id": "40m9fPJeXUKStjJX28zMYF"
+      }
+    }
+  ],
   "includes": {
     "Asset": [
       {
@@ -3843,6 +4375,49 @@
               "id": "id3oixfnm9vo"
             }
           },
+          "id": "4R2zOVSdwWpC6zOu6XCVf",
+          "type": "Asset",
+          "createdAt": "2022-05-01T09:47:36.472Z",
+          "updatedAt": "2022-05-01T09:47:36.472Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Apec Studio Shot",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/4R2zOVSdwWpC6zOu6XCVf/9a571dcf27da7a2e4ad42f72647c153b/Hove_Studio_shot.jpg",
+            "details": {
+              "size": 7481258,
+              "image": {
+                "width": 3024,
+                "height": 4032
+              }
+            },
+            "fileName": "Hove Studio shot.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
           "id": "4oaMhRpoMangZx1pGqwL0g",
           "type": "Asset",
           "createdAt": "2022-04-26T15:46:37.205Z",
@@ -3870,6 +4445,49 @@
               }
             },
             "fileName": "gallery shot (soft stars).jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "56EQKR8ZCIvVanvVVEZ3Jq",
+          "type": "Asset",
+          "createdAt": "2022-05-01T09:40:52.547Z",
+          "updatedAt": "2022-05-01T09:40:52.547Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "rca studio shot",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/56EQKR8ZCIvVanvVVEZ3Jq/93c69118368c3ff868815201afc32454/rca_studio_shot.jpg",
+            "details": {
+              "size": 5062856,
+              "image": {
+                "width": 2449,
+                "height": 3951
+              }
+            },
+            "fileName": "rca studio shot.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -4101,49 +4719,6 @@
               "id": "id3oixfnm9vo"
             }
           },
-          "id": "70sJru6aFSv2Aeruyl0W6a",
-          "type": "Asset",
-          "createdAt": "2022-04-26T15:33:38.827Z",
-          "updatedAt": "2022-04-26T15:33:38.827Z",
-          "environment": {
-            "sys": {
-              "id": "master",
-              "type": "Link",
-              "linkType": "Environment"
-            }
-          },
-          "revision": 1,
-          "locale": "en-US"
-        },
-        "fields": {
-          "title": "new painting ",
-          "description": "",
-          "file": {
-            "url": "//images.ctfassets.net/id3oixfnm9vo/70sJru6aFSv2Aeruyl0W6a/6ef30f0fee45a96f0e3e632ca200a778/new_painting.jpg",
-            "details": {
-              "size": 5971604,
-              "image": {
-                "width": 8256,
-                "height": 6192
-              }
-            },
-            "fileName": "new painting.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
-      {
-        "metadata": {
-          "tags": []
-        },
-        "sys": {
-          "space": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Space",
-              "id": "id3oixfnm9vo"
-            }
-          },
           "id": "7AAvmBl9xW794pMUwFbJjz",
           "type": "Asset",
           "createdAt": "2022-04-26T15:27:58.599Z",
@@ -4171,6 +4746,49 @@
               }
             },
             "fileName": "Flavus Kissing Rubeus.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "7HOwevSkF9IFRAyHXRVbGl",
+          "type": "Asset",
+          "createdAt": "2022-05-01T09:33:31.229Z",
+          "updatedAt": "2022-05-01T09:33:31.229Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "ancient creature + suns machinery",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/7HOwevSkF9IFRAyHXRVbGl/2fae9361a3495d3de0024fc4075b62d0/ancient_creature___suns_machinery.jpg",
+            "details": {
+              "size": 245455,
+              "image": {
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "fileName": "ancient creature + suns machinery.jpg",
             "contentType": "image/jpeg"
           }
         }

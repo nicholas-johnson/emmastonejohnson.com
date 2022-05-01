@@ -10,8 +10,10 @@ import { usePaintings } from "../../hooks/usePaintings";
 import { Document } from "@contentful/rich-text-types";
 
 const Home: NextPage = () => {
-  const paintings = usePaintings(1);
-  if (!paintings) return null;
+  const paintingList = usePaintings("paintings");
+  if (!paintingList) return null;
+
+  const paintings = paintingList.fields.painting;
 
   return (
     <>
