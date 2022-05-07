@@ -26,9 +26,9 @@ const Home: NextPage = () => {
           <li>
             <Link href="/about">About</Link>
           </li>
-          <li>
+          {/* <li>
             <Link href="/cv">CV</Link>
-          </li>
+          </li> */}
           <li>
             <Link href="/interviews">Interviews</Link>
           </li>
