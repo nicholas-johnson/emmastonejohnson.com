@@ -11,5 +11,8 @@
   }
   a {
     text-decoration: none;
+    &:hover {
+      color: rgb(0, 255, 0);
+    }
   }
 }
