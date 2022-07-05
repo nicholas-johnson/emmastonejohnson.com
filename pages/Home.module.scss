@@ -8,7 +8,11 @@
   overflow: hidden;
   background-size: cover;
   background-position: center 60%;
-  background-image: url("/home.jpg");
+  background-image: url("/home/home-landscape.jpg");
+  @media only screen and (orientation: portrait) {
+    background-image: url("/home/home-portrait.jpg");
+    background-position: center;
+  }
 
   ul {
     list-style: none;
