@@ -2,7 +2,7 @@
   "sys": {
     "type": "Array"
   },
-  "total": 25,
+  "total": 28,
   "skip": 0,
   "limit": 100,
   "items": [
@@ -21,7 +21,7 @@
         "id": "6isEO4PBDXacIWIatzWC5v",
         "type": "Entry",
         "createdAt": "2022-05-01T10:53:22.089Z",
-        "updatedAt": "2022-05-01T11:12:05.853Z",
+        "updatedAt": "2023-01-29T22:02:04.580Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -29,7 +29,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 2,
+        "revision": 3,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -57,18 +57,6 @@
                       "type": "bold"
                     }
                   ],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "\nBorn 1982, Brighton",
-                  "marks": [],
                   "data": {}
                 }
               ]
@@ -107,7 +95,7 @@
               "content": [
                 {
                   "nodeType": "text",
-                  "value": "Chelsea College of Art BA Textile Design (first) 2004",
+                  "value": "Chelsea College of Art BA Textile Design 2004",
                   "marks": [],
                   "data": {}
                 }
@@ -141,6 +129,30 @@
               "content": [
                 {
                   "nodeType": "text",
+                  "value": "2023 January, Natasha Arselan Gallery, Group Show 'I feel everything all at once' London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 November, Guts Gallery, Group Show 'Buffer' London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
                   "value": "2022 April, Chicago Expo booth 366 with Pontone Gallery",
                   "marks": [],
                   "data": {}
@@ -153,7 +165,31 @@
               "content": [
                 {
                   "nodeType": "text",
+                  "value": "2022 May, Royal College of Art, MA painting Grad Show, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
                   "value": "2022 February, Group show Pontone & Albemarle Galleries, Soho London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2021 January, Royal College of Art, 'Wip Show' London",
                   "marks": [],
                   "data": {}
                 }
@@ -189,7 +225,7 @@
               "content": [
                 {
                   "nodeType": "text",
-                  "value": "Paintings held in private collections throughout Europe, US & South America ",
+                  "value": "Paintings held in private collections throughout Europe, US & South America including the Newman Collection",
                   "marks": [],
                   "data": {}
                 }
@@ -201,10 +237,32 @@
               "content": [
                 {
                   "nodeType": "text",
-                  "value": "\n",
+                  "value": "Residencies",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023, January - February, The Fores Project, London  ",
                   "marks": [],
                   "data": {}
-                },
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
                 {
                   "nodeType": "text",
                   "value": "Awards",
@@ -223,7 +281,7 @@
               "content": [
                 {
                   "nodeType": "text",
-                  "value": "2021 Chelsea Arts Club Materials & Research Award",
+                  "value": "2021 Chelsea Arts Club Materials & Research Award, London",
                   "marks": [],
                   "data": {}
                 }
@@ -258,256 +316,10 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "7LuYPUTLqOxcYuyIRUWZkH",
-        "type": "Entry",
-        "createdAt": "2022-05-01T10:31:30.914Z",
-        "updatedAt": "2022-05-01T10:31:30.914Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "contentPage"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "title": "Interviews",
-        "content": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "",
-                  "marks": [],
-                  "data": {}
-                },
-                {
-                  "nodeType": "hyperlink",
-                  "data": {
-                    "uri": "https://www.paolita.co.uk/2021/10/artist-focus-emma-stone-johnson/"
-                  },
-                  "content": [
-                    {
-                      "nodeType": "text",
-                      "value": "Interview with Paolita, London",
-                      "marks": [],
-                      "data": {}
-                    }
-                  ]
-                },
-                {
-                  "nodeType": "text",
-                  "value": "",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Paolita, is a British premium swim and resort wear brand, based in London and founded in 2010 by Anna Paola.",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
-        },
-        "permalink": "interviews"
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "6kteuYRSCTl5B8QcWVy0W3",
-        "type": "Entry",
-        "createdAt": "2022-05-01T10:30:47.285Z",
-        "updatedAt": "2022-05-01T10:30:47.285Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "contentPage"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "title": "About",
-        "content": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "What would it be like to walk through a museum of melted paintings? Their colours seeping over the floor. Juice dripping and split. The marks; slurred punctuation. The residue forms gullies and small pools/worlds. The floor would be an ocean, a world lung. How obscene. What an adventure. (Words Inspired by the poet Anne Carson.) ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "As a child I drew cats, mostly mine; green eyes, pink paw pads, grey fur - a grey so complex, a colour that contained all colours. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "I’m ",
-                  "marks": [],
-                  "data": {}
-                },
-                {
-                  "nodeType": "text",
-                  "value": "colour ",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "data": {}
-                },
-                {
-                  "nodeType": "text",
-                  "value": "coding; an archaeological forensic investigation into my own psyche. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "My studio practice is chancy, it includes an investigation into pigments, what is colour, constructing new brushes and writing. The brushes I make look like my childhood birthday cakes. I like a mark to appear as if out of nowhere like on an old blurry 90s TV screen. I like to work on a large scale, I want them to be larger than me. They are oversized letters, they are billboards, they are satellites. Hunting. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Paintings are vessels for the artists’ inner worlds, the canvas a flickering light display. Painting is a living breathing thing, it makes me feel connected to something greater. Creating transcends the banal and the boredom. A ritual, a dance. I’m not interested in painting anything too representational; because when form is missing all that is left is the sensation of presence and the colour and texture of memory. ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
-        },
-        "permalink": "about"
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "13e6pmE2KqTEmMySiEDrYl",
-        "type": "Entry",
-        "createdAt": "2022-05-01T07:32:50.864Z",
-        "updatedAt": "2022-05-01T10:04:23.314Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "paintings"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "List of other images",
-        "permalink": "other_images"
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
         "id": "5meF9OfmTzMtWXXwwzxsv8",
         "type": "Entry",
         "createdAt": "2022-03-17T12:23:45.134Z",
-        "updatedAt": "2022-05-01T10:03:04.164Z",
+        "updatedAt": "2023-01-29T21:50:06.583Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -515,7 +327,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 14,
+        "revision": 19,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -1056,7 +868,7 @@
               "id": "4A0Ww4VJk2SDosyWyEEDGh",
               "type": "Entry",
               "createdAt": "2022-04-26T12:53:13.290Z",
-              "updatedAt": "2022-04-26T12:53:13.290Z",
+              "updatedAt": "2022-05-01T21:58:56.565Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -1064,7 +876,7 @@
                   "linkType": "Environment"
                 }
               },
-              "revision": 1,
+              "revision": 2,
               "contentType": {
                 "sys": {
                   "type": "Link",
@@ -1133,7 +945,109 @@
                     "content": [
                       {
                         "nodeType": "text",
-                        "value": "Raw pigment, acrylic & ink on canvas 170x200cm 2021",
+                        "value": "Raw pigment, acrylic & ink on canvas 170x200cm 2022",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "7485tcKQZCpD5x640Gb3PR",
+              "type": "Entry",
+              "createdAt": "2022-05-01T21:53:42.140Z",
+              "updatedAt": "2022-05-01T21:53:42.140Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Studio Shot, January 2022",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "1ZUGVhJXrpsZCLdaRNRvgA",
+                  "type": "Asset",
+                  "createdAt": "2022-05-01T21:53:00.875Z",
+                  "updatedAt": "2022-05-01T21:53:00.875Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Screenshot 2022-05-01 at 22.49.46",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/1ZUGVhJXrpsZCLdaRNRvgA/3f992c22a23d88712d93002fb445bf0f/Screenshot_2022-05-01_at_22.49.46.png",
+                    "details": {
+                      "size": 2064569,
+                      "image": {
+                        "width": 1156,
+                        "height": 1154
+                      }
+                    },
+                    "fileName": "Screenshot 2022-05-01 at 22.49.46.png",
+                    "contentType": "image/png"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "studio-shot-january-2022",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Hand made brush ",
                         "marks": [],
                         "data": {}
                       }
@@ -1158,7 +1072,7 @@
               "id": "6o9NwdDNYb8EeMTQgMPht3",
               "type": "Entry",
               "createdAt": "2022-04-26T15:00:58.640Z",
-              "updatedAt": "2022-04-26T15:00:58.640Z",
+              "updatedAt": "2023-01-29T21:49:54.637Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -1166,7 +1080,7 @@
                   "linkType": "Environment"
                 }
               },
-              "revision": 1,
+              "revision": 2,
               "contentType": {
                 "sys": {
                   "type": "Link",
@@ -1177,7 +1091,7 @@
               "locale": "en-US"
             },
             "fields": {
-              "name": "Float",
+              "name": "Soothsayer",
               "price": 1000,
               "image": {
                 "metadata": {
@@ -1226,22 +1140,22 @@
               "visible": true,
               "permalink": "float",
               "description": {
-                "nodeType": "document",
                 "data": {},
                 "content": [
                   {
-                    "nodeType": "paragraph",
                     "data": {},
                     "content": [
                       {
-                        "nodeType": "text",
-                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2022",
+                        "data": {},
                         "marks": [],
-                        "data": {}
+                        "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2022",
+                        "nodeType": "text"
                       }
-                    ]
+                    ],
+                    "nodeType": "paragraph"
                   }
-                ]
+                ],
+                "nodeType": "document"
               }
             }
           },
@@ -1359,10 +1273,10 @@
                   "id": "id3oixfnm9vo"
                 }
               },
-              "id": "4fgKjCdvKpTfMYL3YCQJMP",
+              "id": "1oVOSd70iVd6ZleaAlPe10",
               "type": "Entry",
-              "createdAt": "2022-04-26T15:10:06.189Z",
-              "updatedAt": "2022-04-26T15:10:06.189Z",
+              "createdAt": "2022-05-01T21:46:18.754Z",
+              "updatedAt": "2022-05-01T21:46:18.754Z",
               "environment": {
                 "sys": {
                   "id": "master",
@@ -1381,7 +1295,7 @@
               "locale": "en-US"
             },
             "fields": {
-              "name": "Soft Stars",
+              "name": "Studio shot 2021 ",
               "price": 1000,
               "image": {
                 "metadata": {
@@ -1395,10 +1309,10 @@
                       "id": "id3oixfnm9vo"
                     }
                   },
-                  "id": "11wYx5troKIRdRmlrvcshY",
+                  "id": "OSL9IJ6OldGQf5Vp1TFem",
                   "type": "Asset",
-                  "createdAt": "2022-04-26T15:05:20.819Z",
-                  "updatedAt": "2022-04-26T15:05:20.819Z",
+                  "createdAt": "2022-05-01T21:45:22.066Z",
+                  "updatedAt": "2022-05-01T21:45:22.066Z",
                   "environment": {
                     "sys": {
                       "id": "master",
@@ -1410,25 +1324,25 @@
                   "locale": "en-US"
                 },
                 "fields": {
-                  "title": "Soft Stars",
+                  "title": "Screenshot 2022-05-01 at 21.20.03",
                   "description": "",
                   "file": {
-                    "url": "//images.ctfassets.net/id3oixfnm9vo/11wYx5troKIRdRmlrvcshY/bd9f90bdf40423aef1861a54beec431a/IMG_B39E346C2639-1.jpeg",
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/OSL9IJ6OldGQf5Vp1TFem/74c6574a97f533eddb7f970a0c31bb5a/Screenshot_2022-05-01_at_21.20.03.png",
                     "details": {
-                      "size": 988192,
+                      "size": 1994729,
                       "image": {
-                        "width": 1116,
-                        "height": 1350
+                        "width": 934,
+                        "height": 1170
                       }
                     },
-                    "fileName": "IMG_B39E346C2639-1.jpeg",
-                    "contentType": "image/jpeg"
+                    "fileName": "Screenshot 2022-05-01 at 21.20.03.png",
+                    "contentType": "image/png"
                   }
                 }
               },
-              "sold": true,
+              "sold": false,
               "visible": true,
-              "permalink": "soft-stars",
+              "permalink": "studio-shot-2021",
               "description": {
                 "nodeType": "document",
                 "data": {},
@@ -1439,7 +1353,7 @@
                     "content": [
                       {
                         "nodeType": "text",
-                        "value": "Raw pigment, ink & acrylic on canvas 152x137cm 2021",
+                        "value": "Hand made brush ",
                         "marks": [],
                         "data": {}
                       }
@@ -1978,6 +1892,108 @@
                   "id": "id3oixfnm9vo"
                 }
               },
+              "id": "5FhpuI9OHBUam0D6Jvxlhi",
+              "type": "Entry",
+              "createdAt": "2022-05-01T21:51:42.318Z",
+              "updatedAt": "2022-05-01T21:51:42.318Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Studio Shot",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "3Yd4SIIfQ53WcUtbCp4Uom",
+                  "type": "Asset",
+                  "createdAt": "2022-05-01T21:51:09.354Z",
+                  "updatedAt": "2022-05-01T21:51:09.354Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Screenshot 2022-05-01 at 22.48.51",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/3Yd4SIIfQ53WcUtbCp4Uom/82874b2275ed44ed798fec995daf5dcc/Screenshot_2022-05-01_at_22.48.51.png",
+                    "details": {
+                      "size": 1108082,
+                      "image": {
+                        "width": 604,
+                        "height": 1040
+                      }
+                    },
+                    "fileName": "Screenshot 2022-05-01 at 22.48.51.png",
+                    "contentType": "image/png"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "studio-shot",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "June, 2021",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
               "id": "363nQtbHhhjBwiuyMUrwwj",
               "type": "Entry",
               "createdAt": "2022-04-26T15:42:26.999Z",
@@ -2478,6 +2494,762 @@
           }
         ],
         "permalink": "paintings"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6o9NwdDNYb8EeMTQgMPht3",
+        "type": "Entry",
+        "createdAt": "2022-04-26T15:00:58.640Z",
+        "updatedAt": "2023-01-29T21:49:54.637Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Soothsayer",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "7mm0mHmcbSsdMZ9XaVhOxF",
+            "type": "Asset",
+            "createdAt": "2022-04-26T15:00:08.189Z",
+            "updatedAt": "2022-04-26T15:00:08.189Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Float",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/7mm0mHmcbSsdMZ9XaVhOxF/5b3d99054c95bde17f859f5e1ab27bf5/Float.jpg",
+              "details": {
+                "size": 6134718,
+                "image": {
+                  "width": 8256,
+                  "height": 6192
+                }
+              },
+              "fileName": "Float.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "float",
+        "description": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2022",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "4A0Ww4VJk2SDosyWyEEDGh",
+        "type": "Entry",
+        "createdAt": "2022-04-26T12:53:13.290Z",
+        "updatedAt": "2022-05-01T21:58:56.565Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Slurred Punctuation ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "3S6p8xb5euMFFrKIxARi1d",
+            "type": "Asset",
+            "createdAt": "2022-04-26T12:52:40.738Z",
+            "updatedAt": "2022-04-26T12:52:40.738Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Slurred Punctuation ",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/3S6p8xb5euMFFrKIxARi1d/f973600fc48b359a9f1f13fe84ce5b42/Cecilia___Emma_S.J.0018.jpg",
+              "details": {
+                "size": 5711726,
+                "image": {
+                  "width": 8256,
+                  "height": 6192
+                }
+              },
+              "fileName": "Cecilia & Emma S.J.0018.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "slurred-punctuation",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Raw pigment, acrylic & ink on canvas 170x200cm 2022",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "7485tcKQZCpD5x640Gb3PR",
+        "type": "Entry",
+        "createdAt": "2022-05-01T21:53:42.140Z",
+        "updatedAt": "2022-05-01T21:53:42.140Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Studio Shot, January 2022",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "1ZUGVhJXrpsZCLdaRNRvgA",
+            "type": "Asset",
+            "createdAt": "2022-05-01T21:53:00.875Z",
+            "updatedAt": "2022-05-01T21:53:00.875Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Screenshot 2022-05-01 at 22.49.46",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/1ZUGVhJXrpsZCLdaRNRvgA/3f992c22a23d88712d93002fb445bf0f/Screenshot_2022-05-01_at_22.49.46.png",
+              "details": {
+                "size": 2064569,
+                "image": {
+                  "width": 1156,
+                  "height": 1154
+                }
+              },
+              "fileName": "Screenshot 2022-05-01 at 22.49.46.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "studio-shot-january-2022",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Hand made brush ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "5FhpuI9OHBUam0D6Jvxlhi",
+        "type": "Entry",
+        "createdAt": "2022-05-01T21:51:42.318Z",
+        "updatedAt": "2022-05-01T21:51:42.318Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Studio Shot",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "3Yd4SIIfQ53WcUtbCp4Uom",
+            "type": "Asset",
+            "createdAt": "2022-05-01T21:51:09.354Z",
+            "updatedAt": "2022-05-01T21:51:09.354Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Screenshot 2022-05-01 at 22.48.51",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/3Yd4SIIfQ53WcUtbCp4Uom/82874b2275ed44ed798fec995daf5dcc/Screenshot_2022-05-01_at_22.48.51.png",
+              "details": {
+                "size": 1108082,
+                "image": {
+                  "width": 604,
+                  "height": 1040
+                }
+              },
+              "fileName": "Screenshot 2022-05-01 at 22.48.51.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "studio-shot",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "June, 2021",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "1oVOSd70iVd6ZleaAlPe10",
+        "type": "Entry",
+        "createdAt": "2022-05-01T21:46:18.754Z",
+        "updatedAt": "2022-05-01T21:46:18.754Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Studio shot 2021 ",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "OSL9IJ6OldGQf5Vp1TFem",
+            "type": "Asset",
+            "createdAt": "2022-05-01T21:45:22.066Z",
+            "updatedAt": "2022-05-01T21:45:22.066Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Screenshot 2022-05-01 at 21.20.03",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/OSL9IJ6OldGQf5Vp1TFem/74c6574a97f533eddb7f970a0c31bb5a/Screenshot_2022-05-01_at_21.20.03.png",
+              "details": {
+                "size": 1994729,
+                "image": {
+                  "width": 934,
+                  "height": 1170
+                }
+              },
+              "fileName": "Screenshot 2022-05-01 at 21.20.03.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "studio-shot-2021",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Hand made brush ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "7LuYPUTLqOxcYuyIRUWZkH",
+        "type": "Entry",
+        "createdAt": "2022-05-01T10:31:30.914Z",
+        "updatedAt": "2022-05-01T10:31:30.914Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "contentPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Interviews",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "https://www.paolita.co.uk/2021/10/artist-focus-emma-stone-johnson/"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Interview with Paolita, London",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Paolita, is a British premium swim and resort wear brand, based in London and founded in 2010 by Anna Paola.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "permalink": "interviews"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6kteuYRSCTl5B8QcWVy0W3",
+        "type": "Entry",
+        "createdAt": "2022-05-01T10:30:47.285Z",
+        "updatedAt": "2022-05-01T10:30:47.285Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "contentPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "About",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "What would it be like to walk through a museum of melted paintings? Their colours seeping over the floor. Juice dripping and split. The marks; slurred punctuation. The residue forms gullies and small pools/worlds. The floor would be an ocean, a world lung. How obscene. What an adventure. (Words Inspired by the poet Anne Carson.) ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "As a child I drew cats, mostly mine; green eyes, pink paw pads, grey fur - a grey so complex, a colour that contained all colours. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "I’m ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "colour ",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "coding; an archaeological forensic investigation into my own psyche. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "My studio practice is chancy, it includes an investigation into pigments, what is colour, constructing new brushes and writing. The brushes I make look like my childhood birthday cakes. I like a mark to appear as if out of nowhere like on an old blurry 90s TV screen. I like to work on a large scale, I want them to be larger than me. They are oversized letters, they are billboards, they are satellites. Hunting. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Paintings are vessels for the artists’ inner worlds, the canvas a flickering light display. Painting is a living breathing thing, it makes me feel connected to something greater. Creating transcends the banal and the boredom. A ritual, a dance. I’m not interested in painting anything too representational; because when form is missing all that is left is the sensation of presence and the colour and texture of memory. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "permalink": "about"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "13e6pmE2KqTEmMySiEDrYl",
+        "type": "Entry",
+        "createdAt": "2022-05-01T07:32:50.864Z",
+        "updatedAt": "2022-05-01T10:04:23.314Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "paintings"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "List of other images",
+        "permalink": "other_images"
       }
     },
     {
@@ -3818,108 +4590,6 @@
             "id": "id3oixfnm9vo"
           }
         },
-        "id": "6o9NwdDNYb8EeMTQgMPht3",
-        "type": "Entry",
-        "createdAt": "2022-04-26T15:00:58.640Z",
-        "updatedAt": "2022-04-26T15:00:58.640Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "painting"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Float",
-        "price": 1000,
-        "image": {
-          "metadata": {
-            "tags": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "id3oixfnm9vo"
-              }
-            },
-            "id": "7mm0mHmcbSsdMZ9XaVhOxF",
-            "type": "Asset",
-            "createdAt": "2022-04-26T15:00:08.189Z",
-            "updatedAt": "2022-04-26T15:00:08.189Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "Float",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/id3oixfnm9vo/7mm0mHmcbSsdMZ9XaVhOxF/5b3d99054c95bde17f859f5e1ab27bf5/Float.jpg",
-              "details": {
-                "size": 6134718,
-                "image": {
-                  "width": 8256,
-                  "height": 6192
-                }
-              },
-              "fileName": "Float.jpg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        "sold": false,
-        "visible": true,
-        "permalink": "float",
-        "description": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Raw pigment, ink & acrylic on canvas 110x130cm 2022",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
         "id": "5h0LsZcUsKw26lFqEGyyva",
         "type": "Entry",
         "createdAt": "2022-04-26T13:03:07.209Z",
@@ -4007,108 +4677,6 @@
             }
           ],
           "nodeType": "document"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "4A0Ww4VJk2SDosyWyEEDGh",
-        "type": "Entry",
-        "createdAt": "2022-04-26T12:53:13.290Z",
-        "updatedAt": "2022-04-26T12:53:13.290Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 1,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "painting"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Slurred Punctuation ",
-        "price": 1000,
-        "image": {
-          "metadata": {
-            "tags": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "id3oixfnm9vo"
-              }
-            },
-            "id": "3S6p8xb5euMFFrKIxARi1d",
-            "type": "Asset",
-            "createdAt": "2022-04-26T12:52:40.738Z",
-            "updatedAt": "2022-04-26T12:52:40.738Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "Slurred Punctuation ",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/id3oixfnm9vo/3S6p8xb5euMFFrKIxARi1d/f973600fc48b359a9f1f13fe84ce5b42/Cecilia___Emma_S.J.0018.jpg",
-              "details": {
-                "size": 5711726,
-                "image": {
-                  "width": 8256,
-                  "height": 6192
-                }
-              },
-              "fileName": "Cecilia & Emma S.J.0018.jpg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        "sold": true,
-        "visible": true,
-        "permalink": "slurred-punctuation",
-        "description": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Raw pigment, acrylic & ink on canvas 170x200cm 2021",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
         }
       }
     },
@@ -4529,6 +5097,49 @@
               "id": "id3oixfnm9vo"
             }
           },
+          "id": "1ZUGVhJXrpsZCLdaRNRvgA",
+          "type": "Asset",
+          "createdAt": "2022-05-01T21:53:00.875Z",
+          "updatedAt": "2022-05-01T21:53:00.875Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Screenshot 2022-05-01 at 22.49.46",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/1ZUGVhJXrpsZCLdaRNRvgA/3f992c22a23d88712d93002fb445bf0f/Screenshot_2022-05-01_at_22.49.46.png",
+            "details": {
+              "size": 2064569,
+              "image": {
+                "width": 1156,
+                "height": 1154
+              }
+            },
+            "fileName": "Screenshot 2022-05-01 at 22.49.46.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
           "id": "3S6p8xb5euMFFrKIxARi1d",
           "type": "Asset",
           "createdAt": "2022-04-26T12:52:40.738Z",
@@ -4557,6 +5168,49 @@
             },
             "fileName": "Cecilia & Emma S.J.0018.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "3Yd4SIIfQ53WcUtbCp4Uom",
+          "type": "Asset",
+          "createdAt": "2022-05-01T21:51:09.354Z",
+          "updatedAt": "2022-05-01T21:51:09.354Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Screenshot 2022-05-01 at 22.48.51",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/3Yd4SIIfQ53WcUtbCp4Uom/82874b2275ed44ed798fec995daf5dcc/Screenshot_2022-05-01_at_22.48.51.png",
+            "details": {
+              "size": 1108082,
+              "image": {
+                "width": 604,
+                "height": 1040
+              }
+            },
+            "fileName": "Screenshot 2022-05-01 at 22.48.51.png",
+            "contentType": "image/png"
           }
         }
       },
@@ -5073,6 +5727,49 @@
             },
             "fileName": "Float.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "OSL9IJ6OldGQf5Vp1TFem",
+          "type": "Asset",
+          "createdAt": "2022-05-01T21:45:22.066Z",
+          "updatedAt": "2022-05-01T21:45:22.066Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Screenshot 2022-05-01 at 21.20.03",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/OSL9IJ6OldGQf5Vp1TFem/74c6574a97f533eddb7f970a0c31bb5a/Screenshot_2022-05-01_at_21.20.03.png",
+            "details": {
+              "size": 1994729,
+              "image": {
+                "width": 934,
+                "height": 1170
+              }
+            },
+            "fileName": "Screenshot 2022-05-01 at 21.20.03.png",
+            "contentType": "image/png"
           }
         }
       },
