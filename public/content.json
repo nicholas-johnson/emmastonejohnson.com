@@ -2,311 +2,14 @@
   "sys": {
     "type": "Array"
   },
-  "total": 28,
+  "total": 31,
   "skip": 0,
   "limit": 100,
   "items": [
     {
       "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "id3oixfnm9vo"
-          }
-        },
-        "id": "6isEO4PBDXacIWIatzWC5v",
-        "type": "Entry",
-        "createdAt": "2022-05-01T10:53:22.089Z",
-        "updatedAt": "2023-01-29T22:02:04.580Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 3,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "contentPage"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "title": "CV",
-        "content": {
-          "nodeType": "document",
-          "data": {},
-          "content": [
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Curriculum Vitae ",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Education",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Royal College of Art MA Painting 2022",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Chelsea College of Art BA Textile Design 2004",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "\n",
-                  "marks": [],
-                  "data": {}
-                },
-                {
-                  "nodeType": "text",
-                  "value": "Shows",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2023 January, Natasha Arselan Gallery, Group Show 'I feel everything all at once' London",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2022 November, Guts Gallery, Group Show 'Buffer' London",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2022 April, Chicago Expo booth 366 with Pontone Gallery",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2022 May, Royal College of Art, MA painting Grad Show, London",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2022 February, Group show Pontone & Albemarle Galleries, Soho London",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2021 January, Royal College of Art, 'Wip Show' London",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2021 November, The Auction Collective Group Show 50x£50 at Soho Revue, London  ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2021 September, Solo Show Pontone Gallery, Soho London ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Paintings held in private collections throughout Europe, US & South America including the Newman Collection",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Residencies",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2023, January - February, The Fores Project, London  ",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "Awards",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "2021 Chelsea Arts Club Materials & Research Award, London",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            },
-            {
-              "nodeType": "paragraph",
-              "data": {},
-              "content": [
-                {
-                  "nodeType": "text",
-                  "value": "\n\n\n",
-                  "marks": [],
-                  "data": {}
-                }
-              ]
-            }
-          ]
-        },
-        "permalink": "cv"
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -319,7 +22,7 @@
         "id": "5meF9OfmTzMtWXXwwzxsv8",
         "type": "Entry",
         "createdAt": "2022-03-17T12:23:45.134Z",
-        "updatedAt": "2023-01-29T21:50:06.583Z",
+        "updatedAt": "2024-10-21T10:20:24.618Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -327,7 +30,8 @@
             "linkType": "Environment"
           }
         },
-        "revision": 19,
+        "publishedVersion": 65,
+        "revision": 22,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -342,7 +46,326 @@
         "painting": [
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "387xrFzOzEnqqJSQ4QsHyu",
+              "type": "Entry",
+              "createdAt": "2024-10-21T10:11:34.089Z",
+              "updatedAt": "2024-10-21T10:11:34.089Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "publishedVersion": 9,
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Semi Darkness",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": [],
+                  "concepts": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "4F55I5quYEWSwIds2PDwC6",
+                  "type": "Asset",
+                  "createdAt": "2024-10-21T10:10:13.838Z",
+                  "updatedAt": "2024-10-21T10:10:13.838Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "publishedVersion": 3,
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "-Semi-darkness- 180x180cm",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/4F55I5quYEWSwIds2PDwC6/363d2171dff6c5790bb6bccb777b1e70/-Semi-darkness-_180x180cm.JPG",
+                    "details": {
+                      "size": 2209236,
+                      "image": {
+                        "width": 2766,
+                        "height": 2766
+                      }
+                    },
+                    "fileName": "-Semi-darkness- 180x180cm.JPG",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": true,
+              "visible": true,
+              "permalink": "semi-darkness",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "180x180cm pigment, ink, liquid aluminium & acrylic on canvas 2024",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": [],
+              "concepts": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "1plQZuCThVYaJkIm9qeBU1",
+              "type": "Entry",
+              "createdAt": "2024-10-21T10:19:36.948Z",
+              "updatedAt": "2024-10-21T10:19:36.948Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "publishedVersion": 12,
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Soft Gloss",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": [],
+                  "concepts": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "3y8Xx6xdLItGg4SRcho1O",
+                  "type": "Asset",
+                  "createdAt": "2024-10-21T10:14:32.350Z",
+                  "updatedAt": "2024-10-21T10:14:32.350Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "publishedVersion": 4,
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Art Asia 2024",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/3y8Xx6xdLItGg4SRcho1O/f875a9e4a3c0d3e30868b4f0289ffd5a/11.jpeg",
+                    "details": {
+                      "size": 2204721,
+                      "image": {
+                        "width": 2953,
+                        "height": 1969
+                      }
+                    },
+                    "fileName": "11.jpeg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "soft-gloss",
+              "description": {
+                "nodeType": "document",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "paragraph",
+                    "data": {},
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "2024, Asia Art Center, Taipei",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": [],
+              "concepts": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "id3oixfnm9vo"
+                }
+              },
+              "id": "21Nzk9BAGRguiAHWAlfgn4",
+              "type": "Entry",
+              "createdAt": "2023-09-25T21:26:08.977Z",
+              "updatedAt": "2023-09-25T21:26:08.977Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "publishedVersion": 5,
+              "revision": 1,
+              "contentType": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "ContentType",
+                  "id": "painting"
+                }
+              },
+              "locale": "en-US"
+            },
+            "fields": {
+              "name": "Steel blue with crimps of early history",
+              "price": 1000,
+              "image": {
+                "metadata": {
+                  "tags": [],
+                  "concepts": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "id3oixfnm9vo"
+                    }
+                  },
+                  "id": "4fXVLPyYdaO4Nl6ZD0diHj",
+                  "type": "Asset",
+                  "createdAt": "2023-09-25T21:26:00.096Z",
+                  "updatedAt": "2023-09-25T21:26:00.096Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "publishedVersion": 4,
+                  "revision": 1,
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "title": "Steel blue with crimps of early history",
+                  "description": "",
+                  "file": {
+                    "url": "//images.ctfassets.net/id3oixfnm9vo/4fXVLPyYdaO4Nl6ZD0diHj/c0297278d1bb53e10ecaeb121ca62ed9/9FBACEB9-7B16-4E05-871F-C1A47554D6ABESJ6__1_.jpg",
+                    "details": {
+                      "size": 4191174,
+                      "image": {
+                        "width": 4390,
+                        "height": 5168
+                      }
+                    },
+                    "fileName": "9FBACEB9-7B16-4E05-871F-C1A47554D6ABESJ6 (1).jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              },
+              "sold": false,
+              "visible": true,
+              "permalink": "steel-blue-with-crimps-of-early-history",
+              "description": {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "marks": [],
+                        "value": "170x200cm pigment, ink, liquid aluminium & acrylic on canvas 2023",
+                        "nodeType": "text"
+                      }
+                    ],
+                    "nodeType": "paragraph"
+                  }
+                ],
+                "nodeType": "document"
+              }
+            }
+          },
+          {
+            "metadata": {
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -363,6 +386,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 16,
               "revision": 3,
               "contentType": {
                 "sys": {
@@ -378,7 +402,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -399,6 +424,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 12,
                   "revision": 2,
                   "locale": "en-US"
                 },
@@ -445,7 +471,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -466,6 +493,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 8,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -481,7 +509,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -502,6 +531,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 5,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -547,7 +577,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -568,6 +599,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 12,
               "revision": 2,
               "contentType": {
                 "sys": {
@@ -583,7 +615,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -604,6 +637,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 8,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -649,7 +683,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -670,6 +705,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 10,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -685,7 +721,8 @@
               "price": 10000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -706,6 +743,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 5,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -752,7 +790,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -773,6 +812,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 16,
               "revision": 3,
               "contentType": {
                 "sys": {
@@ -788,7 +828,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -809,6 +850,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -855,7 +897,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -876,6 +919,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 14,
               "revision": 2,
               "contentType": {
                 "sys": {
@@ -891,7 +935,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -912,6 +957,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 8,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -957,7 +1003,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -978,6 +1025,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 10,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -993,7 +1041,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1014,6 +1063,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1059,7 +1109,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1080,6 +1131,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 9,
               "revision": 2,
               "contentType": {
                 "sys": {
@@ -1095,7 +1147,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1116,6 +1169,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 7,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1161,7 +1215,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1182,6 +1237,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 10,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1197,7 +1253,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1218,6 +1275,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 5,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1263,7 +1321,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1284,6 +1343,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 8,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1299,7 +1359,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1320,6 +1381,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1365,7 +1427,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1386,6 +1449,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 9,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1401,7 +1465,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1422,6 +1487,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 4,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1467,7 +1533,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1488,6 +1555,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 10,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1503,7 +1571,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1524,6 +1593,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 7,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1569,7 +1639,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1590,6 +1661,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 24,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1605,7 +1677,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1626,6 +1699,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1671,7 +1745,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1692,6 +1767,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 12,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1707,7 +1783,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1728,6 +1805,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 4,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1780,7 +1858,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1801,6 +1880,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 15,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1816,7 +1896,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1837,6 +1918,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 6,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1882,7 +1964,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -1903,6 +1986,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 7,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -1918,7 +2002,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -1939,6 +2024,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -1984,7 +2070,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -2005,6 +2092,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 12,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -2020,7 +2108,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -2041,6 +2130,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 5,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -2086,7 +2176,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -2107,6 +2198,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 47,
               "revision": 2,
               "contentType": {
                 "sys": {
@@ -2122,7 +2214,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -2143,6 +2236,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -2188,7 +2282,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -2209,6 +2304,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 8,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -2224,7 +2320,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -2245,6 +2342,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 3,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -2290,7 +2388,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -2311,6 +2410,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 19,
               "revision": 2,
               "contentType": {
                 "sys": {
@@ -2326,7 +2426,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -2347,6 +2448,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 5,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -2392,7 +2494,8 @@
           },
           {
             "metadata": {
-              "tags": []
+              "tags": [],
+              "concepts": []
             },
             "sys": {
               "space": {
@@ -2413,6 +2516,7 @@
                   "linkType": "Environment"
                 }
               },
+              "publishedVersion": 8,
               "revision": 1,
               "contentType": {
                 "sys": {
@@ -2428,7 +2532,8 @@
               "price": 1000,
               "image": {
                 "metadata": {
-                  "tags": []
+                  "tags": [],
+                  "concepts": []
                 },
                 "sys": {
                   "space": {
@@ -2449,6 +2554,7 @@
                       "linkType": "Environment"
                     }
                   },
+                  "publishedVersion": 6,
                   "revision": 1,
                   "locale": "en-US"
                 },
@@ -2498,7 +2604,1002 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "1plQZuCThVYaJkIm9qeBU1",
+        "type": "Entry",
+        "createdAt": "2024-10-21T10:19:36.948Z",
+        "updatedAt": "2024-10-21T10:19:36.948Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Soft Gloss",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "3y8Xx6xdLItGg4SRcho1O",
+            "type": "Asset",
+            "createdAt": "2024-10-21T10:14:32.350Z",
+            "updatedAt": "2024-10-21T10:14:32.350Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 4,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Art Asia 2024",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/3y8Xx6xdLItGg4SRcho1O/f875a9e4a3c0d3e30868b4f0289ffd5a/11.jpeg",
+              "details": {
+                "size": 2204721,
+                "image": {
+                  "width": 2953,
+                  "height": 1969
+                }
+              },
+              "fileName": "11.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "soft-gloss",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2024, Asia Art Center, Taipei",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "387xrFzOzEnqqJSQ4QsHyu",
+        "type": "Entry",
+        "createdAt": "2024-10-21T10:11:34.089Z",
+        "updatedAt": "2024-10-21T10:11:34.089Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Semi Darkness",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "4F55I5quYEWSwIds2PDwC6",
+            "type": "Asset",
+            "createdAt": "2024-10-21T10:10:13.838Z",
+            "updatedAt": "2024-10-21T10:10:13.838Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "-Semi-darkness- 180x180cm",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/4F55I5quYEWSwIds2PDwC6/363d2171dff6c5790bb6bccb777b1e70/-Semi-darkness-_180x180cm.JPG",
+              "details": {
+                "size": 2209236,
+                "image": {
+                  "width": 2766,
+                  "height": 2766
+                }
+              },
+              "fileName": "-Semi-darkness- 180x180cm.JPG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": true,
+        "visible": true,
+        "permalink": "semi-darkness",
+        "description": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "180x180cm pigment, ink, liquid aluminium & acrylic on canvas 2024",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "6isEO4PBDXacIWIatzWC5v",
+        "type": "Entry",
+        "createdAt": "2022-05-01T10:53:22.089Z",
+        "updatedAt": "2024-10-21T10:03:02.214Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 151,
+        "revision": 10,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "contentPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "CV",
+        "content": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Education",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 Royal College of Art MA Painting",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2004 Chelsea College of Art BA Textile Design",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Solo Exhibitions",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2024 March ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "‘Soft Gloss’",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " Asia Art Center, Taipei, Taiwan ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 Oct ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "‘Flexed Sky, Glittered Earth’",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " Makasiini Contemporary, Finland",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2021 Nov ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'Complexity'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " Pontone Gallery, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Group Exhibitions",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2024 Jun ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'Shelter from the Storm'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": ", Makasiini Gallery, Finland",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2024 May ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'A Journey Into The Unknown'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": ", Haricot Gallery, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2024 Feb ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'Beyond Boundaries'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": ", Guts Gallery, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 Dec Untitled Art, Miami Beach, Makasiini Contemporary, booth b16",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 Nov Art021 Shanghai Contemporary Art Fair, Booth E08, Asia Art Center, Taipei",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 Nov ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "‘Never the right time’",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " Commune Gallery, Vienna ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 Sep ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'On the Voyage'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " Art Asia Centre, Beijing ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 June Makasini Gallery, Finland 'About Art'",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'Abstract'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " July Taymour Grahne Projects   London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 April  ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'Away'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " VinVin Gallery, Vienna ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 Jan The Fores Project, London, Residency Presentation",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 Nov Natasha Arselan Galley online presentation ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'I feel everything all at once'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 Nov Guts Gallery ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'Buffer'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 June Royal College of Art Degree Show, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 Chicago Expo booth 366, Pontone Gallery, Chicago",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2022 Pontone & Albemarle Galleries, group show, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2021 Nov The Auction Collective Group Show ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": "'50x£50'",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "text",
+                  "value": " Soho Revue, London",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Awards",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2021 Chelsea Arts Club Materials & Research",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Residencies",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2024 Borlase Smart John Wells Trust, Cornwall ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "2023 The Fores Project, London ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "permalink": "cv"
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "id3oixfnm9vo"
+          }
+        },
+        "id": "21Nzk9BAGRguiAHWAlfgn4",
+        "type": "Entry",
+        "createdAt": "2023-09-25T21:26:08.977Z",
+        "updatedAt": "2023-09-25T21:26:08.977Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "painting"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Steel blue with crimps of early history",
+        "price": 1000,
+        "image": {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "id3oixfnm9vo"
+              }
+            },
+            "id": "4fXVLPyYdaO4Nl6ZD0diHj",
+            "type": "Asset",
+            "createdAt": "2023-09-25T21:26:00.096Z",
+            "updatedAt": "2023-09-25T21:26:00.096Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 4,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Steel blue with crimps of early history",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/id3oixfnm9vo/4fXVLPyYdaO4Nl6ZD0diHj/c0297278d1bb53e10ecaeb121ca62ed9/9FBACEB9-7B16-4E05-871F-C1A47554D6ABESJ6__1_.jpg",
+              "details": {
+                "size": 4191174,
+                "image": {
+                  "width": 4390,
+                  "height": 5168
+                }
+              },
+              "fileName": "9FBACEB9-7B16-4E05-871F-C1A47554D6ABESJ6 (1).jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "sold": false,
+        "visible": true,
+        "permalink": "steel-blue-with-crimps-of-early-history",
+        "description": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "170x200cm pigment, ink, liquid aluminium & acrylic on canvas 2023",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -2519,6 +3620,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 9,
         "revision": 2,
         "contentType": {
           "sys": {
@@ -2534,7 +3636,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -2555,6 +3658,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 7,
             "revision": 1,
             "locale": "en-US"
           },
@@ -2600,7 +3704,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -2621,6 +3726,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 14,
         "revision": 2,
         "contentType": {
           "sys": {
@@ -2636,7 +3742,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -2657,6 +3764,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 8,
             "revision": 1,
             "locale": "en-US"
           },
@@ -2702,7 +3810,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -2723,6 +3832,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 10,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -2738,7 +3848,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -2759,6 +3870,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -2804,7 +3916,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -2825,6 +3938,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 7,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -2840,7 +3954,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -2861,6 +3976,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -2906,7 +4022,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -2927,6 +4044,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 8,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -2942,7 +4060,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -2963,6 +4082,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3008,7 +4128,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3029,6 +4150,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 3,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -3096,7 +4218,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3117,6 +4240,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 2,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -3216,7 +4340,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3237,6 +4362,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 6,
         "revision": 3,
         "contentType": {
           "sys": {
@@ -3254,7 +4380,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3275,6 +4402,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 8,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -3290,7 +4418,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3311,6 +4440,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 6,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3356,7 +4486,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3377,6 +4508,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 19,
         "revision": 2,
         "contentType": {
           "sys": {
@@ -3392,7 +4524,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3413,6 +4546,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 5,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3458,7 +4592,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3479,6 +4614,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 12,
         "revision": 2,
         "contentType": {
           "sys": {
@@ -3494,7 +4630,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3515,6 +4652,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 8,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3560,7 +4698,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3581,6 +4720,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 24,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -3596,7 +4736,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3617,6 +4758,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3662,7 +4804,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3683,6 +4826,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 8,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -3698,7 +4842,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3719,6 +4864,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3764,7 +4910,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3785,6 +4932,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 47,
         "revision": 2,
         "contentType": {
           "sys": {
@@ -3800,7 +4948,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3821,6 +4970,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3866,7 +5016,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3887,6 +5038,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 12,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -3902,7 +5054,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -3923,6 +5076,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 5,
             "revision": 1,
             "locale": "en-US"
           },
@@ -3968,7 +5122,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -3989,6 +5144,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 15,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4004,7 +5160,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4025,6 +5182,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 6,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4070,7 +5228,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4091,6 +5250,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 8,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4106,7 +5266,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4127,6 +5288,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 5,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4172,7 +5334,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4193,6 +5356,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 10,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4208,7 +5372,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4229,6 +5394,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 7,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4274,7 +5440,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4295,6 +5462,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 9,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4310,7 +5478,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4331,6 +5500,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 4,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4376,7 +5546,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4397,6 +5568,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 11,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4412,7 +5584,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4433,6 +5606,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 5,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4478,7 +5652,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4499,6 +5674,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 10,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4514,7 +5690,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4535,6 +5712,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 5,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4580,7 +5758,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4601,6 +5780,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 12,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4616,7 +5796,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4637,6 +5818,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 4,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4682,7 +5864,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4703,6 +5886,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 10,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -4718,7 +5902,8 @@
         "price": 10000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4739,6 +5924,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 5,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4785,7 +5971,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4806,6 +5993,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 16,
         "revision": 3,
         "contentType": {
           "sys": {
@@ -4821,7 +6009,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4842,6 +6031,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 3,
             "revision": 1,
             "locale": "en-US"
           },
@@ -4888,7 +6078,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -4909,6 +6100,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 16,
         "revision": 3,
         "contentType": {
           "sys": {
@@ -4924,7 +6116,8 @@
         "price": 1000,
         "image": {
           "metadata": {
-            "tags": []
+            "tags": [],
+            "concepts": []
           },
           "sys": {
             "space": {
@@ -4945,6 +6138,7 @@
                 "linkType": "Environment"
               }
             },
+            "publishedVersion": 12,
             "revision": 2,
             "locale": "en-US"
           },
@@ -4991,7 +6185,8 @@
     },
     {
       "metadata": {
-        "tags": []
+        "tags": [],
+        "concepts": []
       },
       "sys": {
         "space": {
@@ -5012,6 +6207,7 @@
             "linkType": "Environment"
           }
         },
+        "publishedVersion": 1,
         "revision": 1,
         "contentType": {
           "sys": {
@@ -5044,7 +6240,8 @@
     "Asset": [
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5065,6 +6262,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 5,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5087,7 +6285,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5108,6 +6307,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5130,7 +6330,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5151,6 +6352,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 8,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5173,7 +6375,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5194,6 +6397,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5216,7 +6420,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5237,6 +6442,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 5,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5259,7 +6465,98 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "3y8Xx6xdLItGg4SRcho1O",
+          "type": "Asset",
+          "createdAt": "2024-10-21T10:14:32.350Z",
+          "updatedAt": "2024-10-21T10:14:32.350Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Art Asia 2024",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/3y8Xx6xdLItGg4SRcho1O/f875a9e4a3c0d3e30868b4f0289ffd5a/11.jpeg",
+            "details": {
+              "size": 2204721,
+              "image": {
+                "width": 2953,
+                "height": 1969
+              }
+            },
+            "fileName": "11.jpeg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "4F55I5quYEWSwIds2PDwC6",
+          "type": "Asset",
+          "createdAt": "2024-10-21T10:10:13.838Z",
+          "updatedAt": "2024-10-21T10:10:13.838Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 3,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "-Semi-darkness- 180x180cm",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/4F55I5quYEWSwIds2PDwC6/363d2171dff6c5790bb6bccb777b1e70/-Semi-darkness-_180x180cm.JPG",
+            "details": {
+              "size": 2209236,
+              "image": {
+                "width": 2766,
+                "height": 2766
+              }
+            },
+            "fileName": "-Semi-darkness- 180x180cm.JPG",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5280,6 +6577,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 6,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5302,7 +6600,53 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "id3oixfnm9vo"
+            }
+          },
+          "id": "4fXVLPyYdaO4Nl6ZD0diHj",
+          "type": "Asset",
+          "createdAt": "2023-09-25T21:26:00.096Z",
+          "updatedAt": "2023-09-25T21:26:00.096Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 4,
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Steel blue with crimps of early history",
+          "description": "",
+          "file": {
+            "url": "//images.ctfassets.net/id3oixfnm9vo/4fXVLPyYdaO4Nl6ZD0diHj/c0297278d1bb53e10ecaeb121ca62ed9/9FBACEB9-7B16-4E05-871F-C1A47554D6ABESJ6__1_.jpg",
+            "details": {
+              "size": 4191174,
+              "image": {
+                "width": 4390,
+                "height": 5168
+              }
+            },
+            "fileName": "9FBACEB9-7B16-4E05-871F-C1A47554D6ABESJ6 (1).jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5323,6 +6667,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5345,7 +6690,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5366,6 +6712,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 8,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5388,7 +6735,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5409,6 +6757,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 5,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5431,7 +6780,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5452,6 +6802,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 5,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5474,7 +6825,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5495,6 +6847,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 5,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5517,7 +6870,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5538,6 +6892,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 12,
           "revision": 2,
           "locale": "en-US"
         },
@@ -5560,7 +6915,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5581,6 +6937,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 4,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5603,7 +6960,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5624,6 +6982,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 5,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5646,7 +7005,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5667,6 +7027,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5689,7 +7050,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5710,6 +7072,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 7,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5732,7 +7095,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5753,6 +7117,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5775,7 +7140,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5796,6 +7162,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5818,7 +7185,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5839,6 +7207,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 7,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5861,7 +7230,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5882,6 +7252,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 3,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5904,7 +7275,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5925,6 +7297,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 4,
           "revision": 1,
           "locale": "en-US"
         },
@@ -5947,7 +7320,8 @@
       },
       {
         "metadata": {
-          "tags": []
+          "tags": [],
+          "concepts": []
         },
         "sys": {
           "space": {
@@ -5968,6 +7342,7 @@
               "linkType": "Environment"
             }
           },
+          "publishedVersion": 6,
           "revision": 1,
           "locale": "en-US"
         },

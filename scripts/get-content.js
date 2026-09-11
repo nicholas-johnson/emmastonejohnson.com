@@ -54,9 +54,17 @@ client
     .getEntries()
     .then(data => {
         fs.writeFileSync(filePath, JSON.stringify(data, null, 2))
+        const count = data.items?.length ?? 0
+        const total = data.total ?? count
+        console.log(`Fetched ${count} of ${total} Contentful entries`)
+        console.log(`Wrote ${filePath}`)
         return data;
     })
     // .then(data => {
     //     downloadImages(data)
     // })
-    .catch(err => console.log(err));
+    .catch(err => {
+        console.error("Failed to fetch Contentful content")
+        console.error(err)
+        process.exitCode = 1
+    });

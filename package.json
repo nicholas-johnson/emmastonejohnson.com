@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run content; next build",
+    "build": "pnpm content; next build && next export",
     "start": "next start",
     "lint": "next lint",
     "content": "node scripts/get-content.js"
